@@ -1,0 +1,34 @@
+name: Parse UAE Missile Stats
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+        
+    - name: Install dependencies
+      run: |
+        pip install feedparser
+        
+    - name: Parse UAE MoI stats
+      run: |
+        python3 scripts/parse_moi_stats.py > public/moi_missile_stats.json
+        
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add public/moi_missile_stats.json
+        git diff --staged --quiet || (git commit -m "Update UAE MoI missile stats" && git push)
