@@ -1,16 +1,17 @@
 # RSS.app Feed URLs
-# Fill in the RSS URLs as you generate them in RSS.app
-# Format: @username - https://rss.app/feed/xxxxx
+# IMPORTANT: Use the .xml URLs, not the dashboard URLs
+# In RSS.app dashboard: Click feed → "XML" button → Copy URL ending in .xml
+# Format: @username - https://rss.app/feeds/xxxxx.xml
 
-## UAE (8 accounts)
-@moiuae - https://rss.app/feed/oPyw4FJ41usBjG0c
-@moduae - https://rss.app/feed/5DzID481Msg3w5Go
-@NCEMAUAE - https://rss.app/feed/t0JvfszuALDyg4uh
-@Uaengc - https://rss.app/feed/oqxMcPt6uwJ10D0K
-@UAEmediaoffice - https://rss.app/feed/DKefnWqLQ6ipghtp
-@wamnews - https://rss.app/feed/yWxDexVK5P5WlnV9
-@DXBMediaOffice - https://rss.app/feed/OTlOJkkZ297qnQNn
-@CivilDefenceAD - https://rss.app/feed/Da5ZvV4gQsJYMJja 
+## UAE (8 accounts) - NEED .xml URLs
+@moiuae - 
+@moduae - 
+@NCEMAUAE - 
+@Uaengc - 
+@UAEmediaoffice - 
+@wamnews - 
+@DXBMediaOffice - 
+@CivilDefenceAD - 
 
 ## Saudi Arabia (4 accounts)
 @MOISaudiArabia - 
@@ -35,7 +36,7 @@
 @KUNA_en - 
 
 ## Oman (3 accounts)
-@RoyalOmanPolice - 
+@RoyalOmanPolice - https://rss.app/feeds/YHfnfinoL5JV1J7T.xml ✅ WORKING
 @MoDOman - 
 @ONA_Oman - 
 
