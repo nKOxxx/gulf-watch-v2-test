@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-08T19:55:50.466531+00:00",
+  "generated_at": "2026-03-08T19:57:32.540571+00:00",
   "total_raw": 47,
   "total_verified": 39,
   "status_breakdown": {
@@ -498,8 +498,8 @@
         "government_sources": 3,
         "news_sources": 0,
         "sources": [
-          "moi_uae",
-          "mod_uae"
+          "mod_uae",
+          "moi_uae"
         ]
       },
       "source_variants": [
@@ -933,8 +933,8 @@
         "government_sources": 3,
         "news_sources": 0,
         "sources": [
-          "moi_uae",
-          "mod_uae"
+          "mod_uae",
+          "moi_uae"
         ]
       },
       "source_variants": [
