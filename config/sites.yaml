@@ -1,0 +1,72 @@
+# Government Site Scraping Configuration
+# Define CSS selectors for each site
+
+sites:
+  spa_saudi:
+    name: "Saudi Press Agency (SPA)"
+    url: "https://www.spa.gov.sa/en"
+    country: "Saudi Arabia"
+    credibility: 95
+    selectors:
+      container: "article, .news-item, .post"
+      title: "h3, h2, .title"
+      link: "a"
+      date: ".date, time, .published"
+  
+  wam_uae:
+    name: "Emirates News Agency (WAM)"
+    url: "https://wam.ae/en"
+    country: "UAE"
+    credibility: 95
+    selectors:
+      container: "article, .news-item"
+      title: "h2, h3, .title"
+      link: "a"
+      date: ".date, time"
+  
+  the_national_uae:
+    name: "The National UAE"
+    url: "https://www.thenationalnews.com/section/middle-east"
+    country: "UAE"
+    credibility: 85
+    selectors:
+      container: "article"
+      title: "h2, h3, .headline"
+      link: "a"
+      date: ".date, time"
+  
+  qna_qatar:
+    name: "Qatar News Agency (QNA)"
+    url: "https://qna.org.qa/en"
+    country: "Qatar"
+    credibility: 95
+    selectors:
+      container: "article, .news-item"
+      title: "h3, h2, .title"
+      link: "a"
+      date: ".date, time"
+
+# Keywords to filter for security-related content
+security_keywords:
+  - missile
+  - rocket
+  - drone
+  - air defense
+  - attack
+  - strike
+  - explosion
+  - bomb
+  - threat
+  - interception
+  - hostile
+  - defense
+  - military
+  - security
+  - alert
+  - warning
+  - siren
+  - evacuation
+  - uae
+  - saudi
+  - qatar
+  - gulf
