@@ -12,16 +12,42 @@ from difflib import SequenceMatcher
 class CrossSourceVerifier:
     def __init__(self):
         self.sources = {
+            # Government Ministries (highest trust)
             'moi_uae': {'weight': 1.0, 'type': 'government', 'name': 'UAE Ministry of Interior'},
             'mod_uae': {'weight': 1.0, 'type': 'government', 'name': 'UAE Ministry of Defence'},
-            'wam': {'weight': 0.95, 'type': 'government_news', 'name': 'WAM News Agency'},
             'saudi_moi': {'weight': 1.0, 'type': 'government', 'name': 'Saudi Ministry of Interior'},
+            'saudi_mod': {'weight': 1.0, 'type': 'government', 'name': 'Saudi Ministry of Defence'},
             'qatar_moi': {'weight': 1.0, 'type': 'government', 'name': 'Qatar Ministry of Interior'},
+            'qatar_mod': {'weight': 1.0, 'type': 'government', 'name': 'Qatar Ministry of Defence'},
+            'bahrain_moi': {'weight': 1.0, 'type': 'government', 'name': 'Bahrain Ministry of Interior'},
+            'kuwait_moi': {'weight': 1.0, 'type': 'government', 'name': 'Kuwait Ministry of Interior'},
+            'israel_mod': {'weight': 0.95, 'type': 'government', 'name': 'Israel Ministry of Defense'},
+            
+            # Government Agencies
+            'civil_defence': {'weight': 1.0, 'type': 'government', 'name': 'Civil Defence'},
+            'national_guard': {'weight': 1.0, 'type': 'government', 'name': 'National Guard'},
+            'police': {'weight': 1.0, 'type': 'government', 'name': 'Police'},
+            'magen_david_adom': {'weight': 0.95, 'type': 'government', 'name': 'Magen David Adom'},
+            
+            # State News Agencies
+            'wam': {'weight': 0.95, 'type': 'government_news', 'name': 'WAM News Agency'},
+            'kuna': {'weight': 0.9, 'type': 'government_news', 'name': 'Kuwait News Agency'},
+            'qna': {'weight': 0.9, 'type': 'government_news', 'name': 'Qatar News Agency'},
+            'ona': {'weight': 0.9, 'type': 'government_news', 'name': 'Oman News Agency'},
+            
+            # International News
             'reuters': {'weight': 0.85, 'type': 'news', 'name': 'Reuters'},
             'bbc': {'weight': 0.85, 'type': 'news', 'name': 'BBC'},
             'al_jazeera': {'weight': 0.8, 'type': 'news', 'name': 'Al Jazeera'},
+            
+            # Iranian State Media
+            'mehr_news': {'weight': 0.75, 'type': 'state_media', 'name': 'Mehr News Agency'},
+            'fars_news': {'weight': 0.75, 'type': 'state_media', 'name': 'Fars News Agency'},
+            
+            # Other Sources
             'telegram': {'weight': 0.6, 'type': 'social', 'name': 'Telegram Channels'},
             'newsdata': {'weight': 0.7, 'type': 'news_api', 'name': 'NewsData.io'},
+            'unknown': {'weight': 0.5, 'type': 'unknown', 'name': 'Unknown Source'},
         }
         
         # Matching thresholds
@@ -259,6 +285,10 @@ class CrossSourceVerifier:
         """Map source name to source key"""
         source_lower = source_name.lower()
         
+        # Handle "Twitter - X" format from RSS.app
+        if source_lower.startswith('twitter - '):
+            source_lower = source_lower[10:]  # Remove "twitter - " prefix
+        
         if 'ministry of interior' in source_lower or 'moi' in source_lower:
             if 'uae' in source_lower:
                 return 'moi_uae'
@@ -266,9 +296,18 @@ class CrossSourceVerifier:
                 return 'saudi_moi'
             elif 'qatar' in source_lower:
                 return 'qatar_moi'
+            elif 'bahrain' in source_lower:
+                return 'bahrain_moi'
+            elif 'kuwait' in source_lower:
+                return 'kuwait_moi'
         
-        if 'ministry of defence' in source_lower or 'mod' in source_lower:
-            return 'mod_uae'
+        if 'ministry of defence' in source_lower or 'ministry of defense' in source_lower or 'mod' in source_lower:
+            if 'uae' in source_lower:
+                return 'mod_uae'
+            elif 'qatar' in source_lower:
+                return 'qatar_mod'
+            elif 'israel' in source_lower:
+                return 'israel_mod'
         
         if 'wam' in source_lower:
             return 'wam'
@@ -281,6 +320,32 @@ class CrossSourceVerifier:
         
         if 'jazeera' in source_lower or 'aljazeera' in source_lower:
             return 'al_jazeera'
+        
+        if 'civil defence' in source_lower or 'civil defense' in source_lower:
+            return 'civil_defence'
+        
+        if 'national guard' in source_lower:
+            return 'national_guard'
+        
+        if 'police' in source_lower:
+            return 'police'
+        
+        if 'news agency' in source_lower:
+            if 'kuwait' in source_lower or 'kuna' in source_lower:
+                return 'kuna'
+            if 'qatar' in source_lower:
+                return 'qna'
+            if 'oman' in source_lower:
+                return 'ona'
+        
+        if 'mehr news' in source_lower:
+            return 'mehr_news'
+        
+        if 'fars news' in source_lower:
+            return 'fars_news'
+        
+        if 'magen david' in source_lower or 'mda' in source_lower or 'mada' in source_lower:
+            return 'magen_david_adom'
         
         return 'unknown'
     

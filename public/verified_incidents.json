@@ -1,10 +1,11 @@
 {
-  "generated_at": "2026-03-08T19:57:32.540571+00:00",
+  "generated_at": "2026-03-08T19:58:31.490642+00:00",
   "total_raw": 47,
   "total_verified": 39,
   "status_breakdown": {
-    "Partially Verified": 33,
-    "Verified": 6
+    "Verified": 24,
+    "Likely True": 14,
+    "Partially Verified": 1
   },
   "incidents": [
     {
@@ -21,15 +22,15 @@
       },
       "credibility": 95,
       "is_government": true,
-      "source_key": "unknown",
+      "source_key": "kuna",
       "verification": {
-        "confidence": 60,
-        "status": "Partially Verified",
+        "confidence": 100,
+        "status": "Verified",
         "source_count": 1,
         "government_sources": 0,
-        "news_sources": 0,
+        "news_sources": 1,
         "sources": [
-          "unknown"
+          "kuna"
         ]
       },
       "source_variants": [
@@ -38,7 +39,7 @@
           "title": "#Kuwait's Cabinet mourns the martyrdom of Lieutenant Colonel Staff Abdullah Emad Al-Sharrah and Major Fahad Abdulaziz Al-Mejmed of the Ministry of Interior, praising the courage and dedication of #Kuw",
           "published": "2026-03-08T19:19:00+00:00",
           "url": "https://x.com/kuna_en/status/2030725025473483201",
-          "source_key": "unknown"
+          "source_key": "kuna"
         }
       ]
     },
@@ -56,15 +57,15 @@
       },
       "credibility": 95,
       "is_government": true,
-      "source_key": "unknown",
+      "source_key": "kuna",
       "verification": {
-        "confidence": 60,
-        "status": "Partially Verified",
+        "confidence": 100,
+        "status": "Verified",
         "source_count": 1,
         "government_sources": 0,
-        "news_sources": 0,
+        "news_sources": 1,
         "sources": [
-          "unknown"
+          "kuna"
         ]
       },
       "source_variants": [
@@ -73,7 +74,7 @@
           "title": "#GCC Secretary General extends condolences to #Kuwait's leadership, government and people over the martyrdom of two security personnel while doing their national duty during heinous #Iranian aggressio",
           "published": "2026-03-08T19:02:00+00:00",
           "url": "https://x.com/kuna_en/status/2030720781278146607",
-          "source_key": "unknown"
+          "source_key": "kuna"
         }
       ]
     },
@@ -91,15 +92,15 @@
       },
       "credibility": 95,
       "is_government": true,
-      "source_key": "unknown",
+      "source_key": "kuna",
       "verification": {
-        "confidence": 60,
-        "status": "Partially Verified",
+        "confidence": 100,
+        "status": "Verified",
         "source_count": 1,
         "government_sources": 0,
-        "news_sources": 0,
+        "news_sources": 2,
         "sources": [
-          "unknown"
+          "kuna"
         ]
       },
       "source_variants": [
@@ -108,14 +109,14 @@
           "title": "The #Saudi Ministry of Defense announces that its defenses have intercepted and destroyed one more drone in the Empty Quarter  #KUNA",
           "published": "2026-03-08T18:40:00+00:00",
           "url": "https://x.com/kuna_en/status/2030715318188859810",
-          "source_key": "unknown"
+          "source_key": "kuna"
         },
         {
           "source": "Twitter - Kuwait News Agency",
           "title": "#Saudi Ministry of Defense intercepts & destructs a drone over the Rub' Al-Khali desert, heading toward the Shaybah oil field.  #KUNA",
           "published": "2026-03-08T17:45:00+00:00",
           "url": "https://x.com/kuna_en/status/2030701446748836137",
-          "source_key": "unknown"
+          "source_key": "kuna"
         }
       ]
     },
@@ -133,15 +134,15 @@
       },
       "credibility": 95,
       "is_government": true,
-      "source_key": "unknown",
+      "source_key": "kuna",
       "verification": {
-        "confidence": 60,
-        "status": "Partially Verified",
+        "confidence": 100,
+        "status": "Verified",
         "source_count": 1,
         "government_sources": 0,
-        "news_sources": 0,
+        "news_sources": 1,
         "sources": [
-          "unknown"
+          "kuna"
         ]
       },
       "source_variants": [
@@ -150,7 +151,7 @@
           "title": "First Deputy Prime Minister and Minister of Interior of #Kuwait, receives a phone call from #Saudi Arabia's Interior Minister, Prince Abdulaziz bin Saud bin Nayef Al-Saud, expressing his condolences o",
           "published": "2026-03-08T18:33:00+00:00",
           "url": "https://x.com/kuna_en/status/2030713515904823690",
-          "source_key": "unknown"
+          "source_key": "kuna"
         }
       ]
     },
@@ -168,15 +169,15 @@
       },
       "credibility": 95,
       "is_government": true,
-      "source_key": "unknown",
+      "source_key": "kuna",
       "verification": {
-        "confidence": 60,
-        "status": "Partially Verified",
+        "confidence": 100,
+        "status": "Verified",
         "source_count": 1,
         "government_sources": 0,
-        "news_sources": 0,
+        "news_sources": 2,
         "sources": [
-          "unknown"
+          "kuna"
         ]
       },
       "source_variants": [
@@ -185,14 +186,14 @@
           "title": "#US President says he \"does not know\" how long the military operations in Iran will last, noting that US-led operations are proceeding faster than originally scheduled, despite limited domestic suppor",
           "published": "2026-03-08T18:15:00+00:00",
           "url": "https://x.com/kuna_en/status/2030708997255315907",
-          "source_key": "unknown"
+          "source_key": "kuna"
         },
         {
           "source": "Twitter - Kuwait News Agency",
           "title": "#Bahrain King expresses deep regret over the unprecedented attacks targeting the kingdom, Arab states, and friendly countries, stressing that such acts by Iran are unjustifiable under any pretext.  #K",
           "published": "2026-03-08T17:42:00+00:00",
           "url": "https://x.com/kuna_en/status/2030700819717169156",
-          "source_key": "unknown"
+          "source_key": "kuna"
         }
       ]
     },
@@ -210,15 +211,15 @@
       },
       "credibility": 95,
       "is_government": true,
-      "source_key": "unknown",
+      "source_key": "magen_david_adom",
       "verification": {
-        "confidence": 60,
-        "status": "Partially Verified",
+        "confidence": 100,
+        "status": "Verified",
         "source_count": 1,
-        "government_sources": 0,
+        "government_sources": 1,
         "news_sources": 0,
         "sources": [
-          "unknown"
+          "magen_david_adom"
         ]
       },
       "source_variants": [
@@ -227,7 +228,7 @@
           "title": "MDA Spokesperson: Following the missile fire toward the State of Israel: At this stage, no casualties have been reported. MDA teams are treating one child who was injured while making their way to a s",
           "published": "2026-03-08T16:56:00+00:00",
           "url": "https://x.com/Mdais/status/2030689127578862077",
-          "source_key": "unknown"
+          "source_key": "magen_david_adom"
         }
       ]
     },
@@ -245,15 +246,15 @@
       },
       "credibility": 95,
       "is_government": true,
-      "source_key": "unknown",
+      "source_key": "kuna",
       "verification": {
-        "confidence": 60,
-        "status": "Partially Verified",
+        "confidence": 100,
+        "status": "Verified",
         "source_count": 1,
         "government_sources": 0,
-        "news_sources": 0,
+        "news_sources": 1,
         "sources": [
-          "unknown"
+          "kuna"
         ]
       },
       "source_variants": [
@@ -262,7 +263,7 @@
           "title": "#Saudi Civil Defense says two people were killed & 12 residents injured after a military projectile struck a residential site belonging to a maintenance & cleaning company in Al-Kharj, south of Riyadh",
           "published": "2026-03-08T16:24:00+00:00",
           "url": "https://x.com/kuna_en/status/2030680995930759375",
-          "source_key": "unknown"
+          "source_key": "kuna"
         }
       ]
     },
@@ -280,15 +281,15 @@
       },
       "credibility": 95,
       "is_government": true,
-      "source_key": "unknown",
+      "source_key": "kuna",
       "verification": {
-        "confidence": 60,
-        "status": "Partially Verified",
+        "confidence": 100,
+        "status": "Verified",
         "source_count": 1,
         "government_sources": 0,
-        "news_sources": 0,
+        "news_sources": 1,
         "sources": [
-          "unknown"
+          "kuna"
         ]
       },
       "source_variants": [
@@ -297,7 +298,7 @@
           "title": "#Saudi Minister of Media called on media professionals in the GCC countries to unify their media discourse in confronting attempts to undermine the security and stability of Gulf states.  #KUNA",
           "published": "2026-03-08T16:08:00+00:00",
           "url": "https://x.com/kuna_en/status/2030677152232812828",
-          "source_key": "unknown"
+          "source_key": "kuna"
         }
       ]
     },
@@ -350,15 +351,15 @@
       },
       "credibility": 95,
       "is_government": true,
-      "source_key": "unknown",
+      "source_key": "kuna",
       "verification": {
-        "confidence": 60,
-        "status": "Partially Verified",
+        "confidence": 100,
+        "status": "Verified",
         "source_count": 1,
         "government_sources": 0,
-        "news_sources": 0,
+        "news_sources": 1,
         "sources": [
-          "unknown"
+          "kuna"
         ]
       },
       "source_variants": [
@@ -367,7 +368,7 @@
           "title": "#GCC Secretary-General calls on Arab countries to support a draft resolution submitted by GCC states to the UN Security Council condemning the hostile military operations carried out by Iran against G",
           "published": "2026-03-08T16:02:00+00:00",
           "url": "https://x.com/kuna_en/status/2030675639238328446",
-          "source_key": "unknown"
+          "source_key": "kuna"
         }
       ]
     },
@@ -385,15 +386,15 @@
       },
       "credibility": 95,
       "is_government": true,
-      "source_key": "unknown",
+      "source_key": "kuna",
       "verification": {
-        "confidence": 60,
-        "status": "Partially Verified",
+        "confidence": 100,
+        "status": "Verified",
         "source_count": 1,
         "government_sources": 0,
-        "news_sources": 0,
+        "news_sources": 1,
         "sources": [
-          "unknown"
+          "kuna"
         ]
       },
       "source_variants": [
@@ -402,7 +403,7 @@
           "title": "Kuwaiti officials affirm that the country's security authorities, in coordination with various state institutions, are carrying out their duties with dedication to defend national security & ensure th",
           "published": "2026-03-08T15:46:00+00:00",
           "url": "https://x.com/kuna_en/status/2030671441868283975",
-          "source_key": "unknown"
+          "source_key": "kuna"
         }
       ]
     },
@@ -420,15 +421,15 @@
       },
       "credibility": 95,
       "is_government": true,
-      "source_key": "unknown",
+      "source_key": "kuna",
       "verification": {
-        "confidence": 60,
-        "status": "Partially Verified",
+        "confidence": 100,
+        "status": "Verified",
         "source_count": 1,
         "government_sources": 0,
-        "news_sources": 0,
+        "news_sources": 1,
         "sources": [
-          "unknown"
+          "kuna"
         ]
       },
       "source_variants": [
@@ -437,7 +438,7 @@
           "title": "The ministerial council of the Arab League call on Iran to immediately cease all provocative acts or threats against neighboring Arab countries.  #KUNA",
           "published": "2026-03-08T15:43:00+00:00",
           "url": "https://x.com/kuna_en/status/2030670698213990866",
-          "source_key": "unknown"
+          "source_key": "kuna"
         }
       ]
     },
@@ -455,15 +456,15 @@
       },
       "credibility": 95,
       "is_government": true,
-      "source_key": "unknown",
+      "source_key": "kuna",
       "verification": {
-        "confidence": 60,
-        "status": "Partially Verified",
+        "confidence": 100,
+        "status": "Verified",
         "source_count": 1,
         "government_sources": 0,
-        "news_sources": 0,
+        "news_sources": 1,
         "sources": [
-          "unknown"
+          "kuna"
         ]
       },
       "source_variants": [
@@ -472,7 +473,7 @@
           "title": "#Kuwait Ministry of Defense Spokesman: Air defenses intercepted & destroyed three ballistic missiles in the southern part of the country during the past 24 hours.  #KUNA",
           "published": "2026-03-08T15:40:00+00:00",
           "url": "https://x.com/kuna_en/status/2030669901510189096",
-          "source_key": "unknown"
+          "source_key": "kuna"
         }
       ]
     },
@@ -498,8 +499,8 @@
         "government_sources": 3,
         "news_sources": 0,
         "sources": [
-          "mod_uae",
-          "moi_uae"
+          "moi_uae",
+          "mod_uae"
         ]
       },
       "source_variants": [
@@ -540,15 +541,15 @@
       },
       "credibility": 95,
       "is_government": true,
-      "source_key": "unknown",
+      "source_key": "magen_david_adom",
       "verification": {
-        "confidence": 60,
-        "status": "Partially Verified",
+        "confidence": 100,
+        "status": "Verified",
         "source_count": 1,
-        "government_sources": 0,
+        "government_sources": 1,
         "news_sources": 0,
         "sources": [
-          "unknown"
+          "magen_david_adom"
         ]
       },
       "source_variants": [
@@ -557,7 +558,7 @@
           "title": "MDA Spokesperson: Following the recent missile barrage fired toward Israel: At this time there are no known casualties. MDA teams are treating a number of cases injured while seeking shelter. Updates ",
           "published": "2026-03-08T14:59:00+00:00",
           "url": "https://x.com/Mdais/status/2030659644306145367",
-          "source_key": "unknown"
+          "source_key": "magen_david_adom"
         }
       ]
     },
@@ -575,15 +576,15 @@
       },
       "credibility": 85,
       "is_government": true,
-      "source_key": "unknown",
+      "source_key": "mehr_news",
       "verification": {
-        "confidence": 60,
-        "status": "Partially Verified",
+        "confidence": 85,
+        "status": "Likely True",
         "source_count": 1,
         "government_sources": 0,
         "news_sources": 0,
         "sources": [
-          "unknown"
+          "mehr_news"
         ]
       },
       "source_variants": [
@@ -592,7 +593,7 @@
           "title": "🚨#BREAKING Iran launches another barrage of missiles on Israel",
           "published": "2026-03-08T14:47:00+00:00",
           "url": "https://x.com/MehrnewsCom/status/2030656536536629515",
-          "source_key": "unknown"
+          "source_key": "mehr_news"
         }
       ]
     },
@@ -610,15 +611,15 @@
       },
       "credibility": 85,
       "is_government": true,
-      "source_key": "unknown",
+      "source_key": "mehr_news",
       "verification": {
-        "confidence": 60,
-        "status": "Partially Verified",
+        "confidence": 85,
+        "status": "Likely True",
         "source_count": 1,
         "government_sources": 0,
         "news_sources": 0,
         "sources": [
-          "unknown"
+          "mehr_news"
         ]
       },
       "source_variants": [
@@ -627,7 +628,7 @@
           "title": "🚨 #BREAKING Powerful explosions in Tehran",
           "published": "2026-03-08T14:35:00+00:00",
           "url": "https://x.com/MehrnewsCom/status/2030653617703694632",
-          "source_key": "unknown"
+          "source_key": "mehr_news"
         }
       ]
     },
@@ -645,15 +646,15 @@
       },
       "credibility": 85,
       "is_government": true,
-      "source_key": "unknown",
+      "source_key": "mehr_news",
       "verification": {
-        "confidence": 60,
-        "status": "Partially Verified",
+        "confidence": 85,
+        "status": "Likely True",
         "source_count": 1,
         "government_sources": 0,
         "news_sources": 0,
         "sources": [
-          "unknown"
+          "mehr_news"
         ]
       },
       "source_variants": [
@@ -662,7 +663,7 @@
           "title": "Remnants of an Iranian missile were found in occupied Palestine, with a significant Quranic verse written on the shrapnel.",
           "published": "2026-03-08T14:16:00+00:00",
           "url": "https://x.com/MehrnewsCom/status/2030648754143957122",
-          "source_key": "unknown"
+          "source_key": "mehr_news"
         }
       ]
     },
@@ -680,15 +681,15 @@
       },
       "credibility": 95,
       "is_government": true,
-      "source_key": "unknown",
+      "source_key": "kuna",
       "verification": {
-        "confidence": 60,
-        "status": "Partially Verified",
+        "confidence": 100,
+        "status": "Verified",
         "source_count": 1,
         "government_sources": 0,
-        "news_sources": 0,
+        "news_sources": 1,
         "sources": [
-          "unknown"
+          "kuna"
         ]
       },
       "source_variants": [
@@ -697,7 +698,7 @@
           "title": "The United Arab Emirates affirms its right to defend itself against the brutal & unjustified Iranian aggression, which involved more than 1,400 ballistic missiles & drones targeting infrastructure & c",
           "published": "2026-03-08T14:00:00+00:00",
           "url": "https://x.com/kuna_en/status/2030644745962238348",
-          "source_key": "unknown"
+          "source_key": "kuna"
         }
       ]
     },
@@ -715,15 +716,15 @@
       },
       "credibility": 85,
       "is_government": true,
-      "source_key": "unknown",
+      "source_key": "mehr_news",
       "verification": {
-        "confidence": 60,
-        "status": "Partially Verified",
+        "confidence": 85,
+        "status": "Likely True",
         "source_count": 1,
         "government_sources": 0,
         "news_sources": 0,
         "sources": [
-          "unknown"
+          "mehr_news"
         ]
       },
       "source_variants": [
@@ -732,7 +733,7 @@
           "title": "He added that with serious damage inflicted on the enemy's early warning network, attack sirens in the occupied territories now sound only at the moment of missile impact.",
           "published": "2026-03-08T13:55:00+00:00",
           "url": "https://x.com/MehrnewsCom/status/2030643622983479513",
-          "source_key": "unknown"
+          "source_key": "mehr_news"
         }
       ]
     },
@@ -750,15 +751,15 @@
       },
       "credibility": 85,
       "is_government": true,
-      "source_key": "unknown",
+      "source_key": "mehr_news",
       "verification": {
-        "confidence": 60,
-        "status": "Partially Verified",
+        "confidence": 85,
+        "status": "Likely True",
         "source_count": 1,
         "government_sources": 0,
         "news_sources": 0,
         "sources": [
-          "unknown"
+          "mehr_news"
         ]
       },
       "source_variants": [
@@ -767,7 +768,7 @@
           "title": "The spokesman said the THAAD radars had been providing real-time data to the missile defense network of the U.S. and the Israeli regime.",
           "published": "2026-03-08T13:55:00+00:00",
           "url": "https://x.com/MehrnewsCom/status/2030643618868867181",
-          "source_key": "unknown"
+          "source_key": "mehr_news"
         }
       ]
     },
@@ -785,15 +786,15 @@
       },
       "credibility": 85,
       "is_government": true,
-      "source_key": "unknown",
+      "source_key": "mehr_news",
       "verification": {
-        "confidence": 60,
-        "status": "Partially Verified",
+        "confidence": 85,
+        "status": "Likely True",
         "source_count": 1,
         "government_sources": 0,
         "news_sources": 0,
         "sources": [
-          "unknown"
+          "mehr_news"
         ]
       },
       "source_variants": [
@@ -802,7 +803,7 @@
           "title": "The spokesman for the Khatam al-Anbiya Central Headquarters announced that the radars were targeted and destroyed during operations to suppress enemy anti-missile defenses.",
           "published": "2026-03-08T13:55:00+00:00",
           "url": "https://x.com/MehrnewsCom/status/2030643614800294096",
-          "source_key": "unknown"
+          "source_key": "mehr_news"
         }
       ]
     },
@@ -820,15 +821,15 @@
       },
       "credibility": 85,
       "is_government": true,
-      "source_key": "unknown",
+      "source_key": "mehr_news",
       "verification": {
-        "confidence": 60,
-        "status": "Partially Verified",
+        "confidence": 85,
+        "status": "Likely True",
         "source_count": 1,
         "government_sources": 0,
         "news_sources": 0,
         "sources": [
-          "unknown"
+          "mehr_news"
         ]
       },
       "source_variants": [
@@ -837,7 +838,7 @@
           "title": "Iran's military says it has destroyed four advanced U.S. THAAD missile system radars in strikes across the region over the past 24 hours.",
           "published": "2026-03-08T13:55:00+00:00",
           "url": "https://x.com/MehrnewsCom/status/2030643612162158890",
-          "source_key": "unknown"
+          "source_key": "mehr_news"
         }
       ]
     },
@@ -890,15 +891,15 @@
       },
       "credibility": 85,
       "is_government": true,
-      "source_key": "unknown",
+      "source_key": "mehr_news",
       "verification": {
-        "confidence": 60,
-        "status": "Partially Verified",
+        "confidence": 85,
+        "status": "Likely True",
         "source_count": 1,
         "government_sources": 0,
         "news_sources": 0,
         "sources": [
-          "unknown"
+          "mehr_news"
         ]
       },
       "source_variants": [
@@ -907,7 +908,7 @@
           "title": "🚨#BREAKING Iranian drone reportedly destroys advanced US radar at Al-Harir base in Iraq",
           "published": "2026-03-08T13:18:00+00:00",
           "url": "https://x.com/MehrnewsCom/status/2030634355479978258",
-          "source_key": "unknown"
+          "source_key": "mehr_news"
         }
       ]
     },
@@ -933,8 +934,8 @@
         "government_sources": 3,
         "news_sources": 0,
         "sources": [
-          "mod_uae",
-          "moi_uae"
+          "moi_uae",
+          "mod_uae"
         ]
       },
       "source_variants": [
@@ -975,15 +976,15 @@
       },
       "credibility": 85,
       "is_government": true,
-      "source_key": "unknown",
+      "source_key": "mehr_news",
       "verification": {
-        "confidence": 60,
-        "status": "Partially Verified",
+        "confidence": 85,
+        "status": "Likely True",
         "source_count": 1,
         "government_sources": 0,
         "news_sources": 0,
         "sources": [
-          "unknown"
+          "mehr_news"
         ]
       },
       "source_variants": [
@@ -992,7 +993,7 @@
           "title": "Impact of Iranian missile in Tel Aviv",
           "published": "2026-03-08T12:23:00+00:00",
           "url": "https://x.com/MehrnewsCom/status/2030620470546972767",
-          "source_key": "unknown"
+          "source_key": "mehr_news"
         }
       ]
     },
@@ -1010,15 +1011,15 @@
       },
       "credibility": 85,
       "is_government": true,
-      "source_key": "unknown",
+      "source_key": "mehr_news",
       "verification": {
-        "confidence": 60,
-        "status": "Partially Verified",
+        "confidence": 85,
+        "status": "Likely True",
         "source_count": 1,
         "government_sources": 0,
         "news_sources": 0,
         "sources": [
-          "unknown"
+          "mehr_news"
         ]
       },
       "source_variants": [
@@ -1027,7 +1028,7 @@
           "title": "🚨 #BREAKING Iran launches fresh wave of airstrikes on Israel",
           "published": "2026-03-08T11:51:00+00:00",
           "url": "https://x.com/MehrnewsCom/status/2030612362923778051",
-          "source_key": "unknown"
+          "source_key": "mehr_news"
         }
       ]
     },
@@ -1045,15 +1046,15 @@
       },
       "credibility": 85,
       "is_government": true,
-      "source_key": "unknown",
+      "source_key": "mehr_news",
       "verification": {
-        "confidence": 60,
-        "status": "Partially Verified",
+        "confidence": 85,
+        "status": "Likely True",
         "source_count": 1,
         "government_sources": 0,
         "news_sources": 0,
         "sources": [
-          "unknown"
+          "mehr_news"
         ]
       },
       "source_variants": [
@@ -1062,7 +1063,7 @@
           "title": "During the recent aerial bombardments, a few departments of the Pasteur Institute of Iran were damaged, while some buildings were totally destroyed.",
           "published": "2026-03-08T11:46:00+00:00",
           "url": "https://x.com/MehrnewsCom/status/2030611117995589965",
-          "source_key": "unknown"
+          "source_key": "mehr_news"
         }
       ]
     },
@@ -1080,15 +1081,15 @@
       },
       "credibility": 85,
       "is_government": true,
-      "source_key": "unknown",
+      "source_key": "mehr_news",
       "verification": {
-        "confidence": 60,
-        "status": "Partially Verified",
+        "confidence": 85,
+        "status": "Likely True",
         "source_count": 1,
         "government_sources": 0,
         "news_sources": 0,
         "sources": [
-          "unknown"
+          "mehr_news"
         ]
       },
       "source_variants": [
@@ -1097,7 +1098,7 @@
           "title": "🚨#BREAKING Explosion reported in Erbil",
           "published": "2026-03-08T11:24:00+00:00",
           "url": "https://x.com/MehrnewsCom/status/2030605524069126361",
-          "source_key": "unknown"
+          "source_key": "mehr_news"
         }
       ]
     },
@@ -1123,8 +1124,8 @@
         "government_sources": 1,
         "news_sources": 1,
         "sources": [
-          "wam",
-          "mod_uae"
+          "mod_uae",
+          "wam"
         ]
       },
       "source_variants": [
@@ -1158,15 +1159,15 @@
       },
       "credibility": 85,
       "is_government": true,
-      "source_key": "unknown",
+      "source_key": "mehr_news",
       "verification": {
-        "confidence": 60,
-        "status": "Partially Verified",
+        "confidence": 85,
+        "status": "Likely True",
         "source_count": 1,
         "government_sources": 0,
         "news_sources": 0,
         "sources": [
-          "unknown"
+          "mehr_news"
         ]
       },
       "source_variants": [
@@ -1175,7 +1176,7 @@
           "title": "Iranian Red Crescent Society requests ICC investigation into attacks on civilian targets",
           "published": "2026-03-08T10:50:00+00:00",
           "url": "https://x.com/MehrnewsCom/status/2030596999767015509",
-          "source_key": "unknown"
+          "source_key": "mehr_news"
         }
       ]
     },
@@ -1193,15 +1194,15 @@
       },
       "credibility": 85,
       "is_government": true,
-      "source_key": "unknown",
+      "source_key": "mehr_news",
       "verification": {
-        "confidence": 60,
-        "status": "Partially Verified",
+        "confidence": 85,
+        "status": "Likely True",
         "source_count": 1,
         "government_sources": 0,
         "news_sources": 0,
         "sources": [
-          "unknown"
+          "mehr_news"
         ]
       },
       "source_variants": [
@@ -1210,7 +1211,7 @@
           "title": "📸 Protest outside the White House condemning U.S. and Israeli attacks on Iran.",
           "published": "2026-03-08T10:00:00+00:00",
           "url": "https://x.com/MehrnewsCom/status/2030584342729109580",
-          "source_key": "unknown"
+          "source_key": "mehr_news"
         }
       ]
     },
@@ -1263,15 +1264,15 @@
       },
       "credibility": 95,
       "is_government": true,
-      "source_key": "unknown",
+      "source_key": "magen_david_adom",
       "verification": {
-        "confidence": 60,
-        "status": "Partially Verified",
+        "confidence": 100,
+        "status": "Verified",
         "source_count": 1,
-        "government_sources": 0,
+        "government_sources": 1,
         "news_sources": 0,
         "sources": [
-          "unknown"
+          "magen_david_adom"
         ]
       },
       "source_variants": [
@@ -1280,7 +1281,7 @@
           "title": "A week into the Operation Roaring Lion, Magen David Adom teams have been at full alert, and rushing to scenes both emergency and routine.",
           "published": "2026-03-07T18:29:00+00:00",
           "url": "https://x.com/Mdais/status/2030350081442844852",
-          "source_key": "unknown"
+          "source_key": "magen_david_adom"
         }
       ]
     },
@@ -1341,15 +1342,15 @@
       },
       "credibility": 100,
       "is_government": true,
-      "source_key": "unknown",
+      "source_key": "bahrain_moi",
       "verification": {
-        "confidence": 60,
-        "status": "Partially Verified",
+        "confidence": 100,
+        "status": "Verified",
         "source_count": 1,
-        "government_sources": 0,
+        "government_sources": 1,
         "news_sources": 0,
         "sources": [
-          "unknown"
+          "bahrain_moi"
         ]
       },
       "source_variants": [
@@ -1358,7 +1359,7 @@
           "title": "The Media briefing by the National Communication Centre on the latest developments in light of Iran's wrongful attacks. ...",
           "published": "2026-03-07T16:36:20+00:00",
           "url": "https://www.instagram.com/p/DVlwdXUCGlI",
-          "source_key": "unknown"
+          "source_key": "bahrain_moi"
         }
       ]
     },
@@ -1376,15 +1377,15 @@
       },
       "credibility": 100,
       "is_government": true,
-      "source_key": "unknown",
+      "source_key": "bahrain_moi",
       "verification": {
-        "confidence": 60,
-        "status": "Partially Verified",
+        "confidence": 100,
+        "status": "Verified",
         "source_count": 1,
-        "government_sources": 0,
+        "government_sources": 1,
         "news_sources": 0,
         "sources": [
-          "unknown"
+          "bahrain_moi"
         ]
       },
       "source_variants": [
@@ -1393,7 +1394,7 @@
           "title": "⁨ إرشادات السلامة في حالة العثور على شظايا صواريخ Safety Guidelines in Case Missile Fragments Are Found ميزائل كي ثكرك م...",
           "published": "2026-03-07T16:11:10+00:00",
           "url": "https://www.instagram.com/p/DVluYgoCP_B",
-          "source_key": "unknown"
+          "source_key": "bahrain_moi"
         }
       ]
     },
@@ -1411,15 +1412,15 @@
       },
       "credibility": 95,
       "is_government": true,
-      "source_key": "unknown",
+      "source_key": "magen_david_adom",
       "verification": {
-        "confidence": 60,
-        "status": "Partially Verified",
+        "confidence": 100,
+        "status": "Verified",
         "source_count": 1,
-        "government_sources": 0,
+        "government_sources": 1,
         "news_sources": 0,
         "sources": [
-          "unknown"
+          "magen_david_adom"
         ]
       },
       "source_variants": [
@@ -1428,7 +1429,7 @@
           "title": "MDA Spokesperson: Following the Red Alert sirens in northern Israel: MDA EMTs and paramedics are searching a reported site. No known casualties at this time.",
           "published": "2026-03-07T11:33:00+00:00",
           "url": "https://x.com/Mdais/status/2030245490311282721",
-          "source_key": "unknown"
+          "source_key": "magen_david_adom"
         }
       ]
     }
