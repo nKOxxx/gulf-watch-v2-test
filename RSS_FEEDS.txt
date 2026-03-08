@@ -1,0 +1,57 @@
+# RSS.app Feed URLs
+# Fill in the RSS URLs as you generate them in RSS.app
+# Format: @username - https://rss.app/feed/xxxxx
+
+## UAE (8 accounts)
+@moiuae - 
+@modgovae - 
+@NCEMAUAE - 
+@Uaengc - 
+@UAEmediaoffice - 
+@wamnews - 
+@DXBMediaOffice - 
+@CivilDefenceAD - 
+
+## Saudi Arabia (4 accounts)
+@MOISaudiArabia - 
+@SaudiDCD - 
+@MOD_Saudi - 
+@SPAregions - 
+
+## Qatar (4 accounts)
+@MOI_QatarEn - 
+@civildefenceqa - 
+@MOD_Qatar - 
+@QatarNewsAgency - 
+
+## Bahrain (3 accounts)
+@moi_bahrain - 
+@bahraindefence - 
+@bna_bh - 
+
+## Kuwait (3 accounts)
+@moi_kuw_en - 
+@kff_kw - 
+@KUNA_en - 
+
+## Oman (3 accounts)
+@RoyalOmanPolice - 
+@MoDOman - 
+@ONA_Oman - 
+
+## Israel (3 accounts)
+@IDF - https://rss.app/feed/oPyw4FJ41usBjG0c
+@Israel_MOD - 
+@Mdais - 
+
+## Instructions:
+# 1. Go to https://rss.app
+# 2. Log into your Pro account
+# 3. For each @username above:
+#    - Click "X/Twitter User Feed"
+#    - Enter the @username
+#    - Click "Generate"
+#    - Copy the RSS URL (looks like: https://rss.app/feed/xxxxx)
+#    - Paste it after the dash above
+# 4. Save this file
+# 5. Tell me "done" and I'll update the scraper
