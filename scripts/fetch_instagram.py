@@ -121,32 +121,60 @@ def extract_location(text: str, country: str) -> Dict:
     
     return {'name': 'Unknown', 'country': country}
 
+def get_instaloader_instance():
+    """Get Instaloader instance with session handling"""
+    import instaloader
+    
+    L = instaloader.Instaloader(
+        quiet=True,
+        compress_json=False,
+        download_pictures=False,
+        download_videos=False,
+        download_video_thumbnails=False,
+    )
+    
+    # Priority 1: Load from base64-encoded session in env (for GitHub Actions)
+    session_b64 = os.environ.get('INSTAGRAM_SESSION_B64')
+    if session_b64:
+        import base64
+        session_data = base64.b64decode(session_b64)
+        with open('.instaloader_session', 'wb') as f:
+            f.write(session_data)
+        L.load_session_from_file(os.environ.get('INSTAGRAM_USER', 'gulfwatch'), '.instaloader_session')
+        print("   🔑 Using session from environment (base64)")
+        return L
+    
+    # Priority 2: Load from session file
+    session_file = '.instaloader_session'
+    if os.path.exists(session_file):
+        try:
+            L.load_session_from_file(os.environ.get('INSTAGRAM_USER', 'gulfwatch'), session_file)
+            print("   🔑 Using saved session file")
+            return L
+        except Exception as e:
+            print(f"   ⚠️ Failed to load session: {e}")
+    
+    # Priority 3: Try username/password login
+    if os.environ.get('INSTAGRAM_USER') and os.environ.get('INSTAGRAM_PASS'):
+        try:
+            print("   🔐 Logging in with username/password...")
+            L.login(os.environ['INSTAGRAM_USER'], os.environ['INSTAGRAM_PASS'])
+            L.save_session_to_file(session_file)
+            print("   ✅ Login successful, session saved")
+            return L
+        except Exception as e:
+            print(f"   ❌ Login failed: {e}")
+            raise
+    
+    # No valid authentication method
+    raise Exception("No valid authentication. Need either: INSTAGRAM_SESSION_B64, session file, or username/password")
+
 def fetch_instagram_posts(handle: str, name: str, country: str, credibility: int) -> List[Dict]:
     """Fetch recent posts from an Instagram account"""
     posts = []
     
     try:
-        import instaloader
-        
-        # Initialize instaloader
-        L = instaloader.Instaloader(
-            quiet=True,
-            compress_json=False,
-            download_pictures=False,
-            download_videos=False,
-            download_video_thumbnails=False,
-        )
-        
-        # Try to load session from environment or file
-        session_file = '.instaloader_session'
-        if os.path.exists(session_file):
-            L.load_session_from_file(os.environ.get('INSTAGRAM_USER', 'gulfwatch'), session_file)
-        elif os.environ.get('INSTAGRAM_USER') and os.environ.get('INSTAGRAM_PASS'):
-            L.login(os.environ['INSTAGRAM_USER'], os.environ['INSTAGRAM_PASS'])
-            L.save_session_to_file(session_file)
-        else:
-            # Anonymous mode (limited, may fail)
-            pass
+        L = get_instaloader_instance()
         
         # Get profile
         profile = instaloader.Profile.from_username(L.context, handle)
