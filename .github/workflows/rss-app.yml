@@ -1,0 +1,35 @@
+name: Scrape RSS.app
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # Every 30 minutes
+  workflow_dispatch:  # Manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+        
+    - name: Install dependencies
+      run: pip install feedparser
+      
+    - name: Scrape RSS.app feeds
+      run: python scripts/fetch_rss_app.py
+      
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add public/rss_incidents.json
+        git diff --staged --quiet || (git commit -m "Update RSS.app incidents from Twitter/X" && git push)
