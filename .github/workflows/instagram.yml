@@ -1,0 +1,39 @@
+name: Scrape Instagram
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # Every 30 minutes
+  workflow_dispatch:  # Manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+        
+    - name: Install dependencies
+      run: |
+        pip install instaloader
+        
+    - name: Scrape Instagram
+      env:
+        INSTAGRAM_USER: ${{ secrets.INSTAGRAM_USER }}
+        INSTAGRAM_PASS: ${{ secrets.INSTAGRAM_PASS }}
+      run: python scripts/fetch_instagram.py
+      
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add public/instagram_incidents.json
+        git diff --staged --quiet || (git commit -m "Update Instagram incidents from government accounts" && git push)
