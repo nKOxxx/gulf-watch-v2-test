@@ -3,14 +3,14 @@
 # Format: @username - https://rss.app/feed/xxxxx
 
 ## UAE (8 accounts)
-@moiuae - 
-@modgovae - 
-@NCEMAUAE - 
-@Uaengc - 
-@UAEmediaoffice - 
-@wamnews - 
-@DXBMediaOffice - 
-@CivilDefenceAD - 
+@moiuae - https://rss.app/feed/oPyw4FJ41usBjG0c
+@moduae - https://rss.app/feed/5DzID481Msg3w5Go
+@NCEMAUAE - https://rss.app/feed/t0JvfszuALDyg4uh
+@Uaengc - https://rss.app/feed/oqxMcPt6uwJ10D0K
+@UAEmediaoffice - https://rss.app/feed/DKefnWqLQ6ipghtp
+@wamnews - https://rss.app/feed/yWxDexVK5P5WlnV9
+@DXBMediaOffice - https://rss.app/feed/OTlOJkkZ297qnQNn
+@CivilDefenceAD - https://rss.app/feed/Da5ZvV4gQsJYMJja 
 
 ## Saudi Arabia (4 accounts)
 @MOISaudiArabia - 

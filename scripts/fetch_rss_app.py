@@ -11,13 +11,18 @@ from datetime import datetime, timezone, timedelta
 from typing import List, Dict
 
 # RSS.app feeds from Twitter/X government accounts
-# Add your RSS.app URLs here as you generate them
 RSS_APP_FEEDS = {
-    # Israel
-    'idf': {'url': 'https://rss.app/feed/oPyw4FJ41usBjG0c', 'name': 'IDF', 'country': 'Israel', 'credibility': 95},
+    # UAE (8 accounts)
+    'moiuae': {'url': 'https://rss.app/feed/oPyw4FJ41usBjG0c', 'name': 'UAE Ministry of Interior', 'country': 'UAE', 'credibility': 100},
+    'moduae': {'url': 'https://rss.app/feed/5DzID481Msg3w5Go', 'name': 'UAE Ministry of Defence', 'country': 'UAE', 'credibility': 100},
+    'ncemauae': {'url': 'https://rss.app/feed/t0JvfszuALDyg4uh', 'name': 'UAE National Emergency', 'country': 'UAE', 'credibility': 100},
+    'uaengc': {'url': 'https://rss.app/feed/oqxMcPt6uwJ10D0K', 'name': 'UAE National Guard', 'country': 'UAE', 'credibility': 100},
+    'uaemediaoffice': {'url': 'https://rss.app/feed/DKefnWqLQ6ipghtp', 'name': 'UAE Government Media', 'country': 'UAE', 'credibility': 100},
+    'wamnews': {'url': 'https://rss.app/feed/yWxDexVK5P5WlnV9', 'name': 'WAM News Agency', 'country': 'UAE', 'credibility': 95},
+    'dxbmediaoffice': {'url': 'https://rss.app/feed/OTlOJkkZ297qnQNn', 'name': 'Dubai Media Office', 'country': 'UAE', 'credibility': 95},
+    'civildefencead': {'url': 'https://rss.app/feed/Da5ZvV4gQsJYMJja', 'name': 'Abu Dhabi Civil Defence', 'country': 'UAE', 'credibility': 100},
     
-    # Add more feeds here as you generate them
-    # 'account_name': {'url': 'https://rss.app/feed/xxxxx', 'name': 'Display Name', 'country': 'Country', 'credibility': 95},
+    # Add more feeds as you generate them
 }
 
 # Security keywords
