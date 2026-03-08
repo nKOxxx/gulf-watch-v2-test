@@ -1,0 +1,35 @@
+name: Update Government Feeds
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Every hour
+  workflow_dispatch:  # Manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+        
+    - name: Install dependencies
+      run: pip install feedparser
+      
+    - name: Fetch government RSS feeds
+      run: python scripts/fetch_gov.py
+      
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add public/incidents.json
+        git diff --staged --quiet || (git commit -m "Update government incidents from RSS feeds" && git push)
