@@ -12,14 +12,45 @@ from typing import List, Dict
 
 # RSS.app feeds from Twitter/X government accounts
 # IMPORTANT: Use the .xml URLs, not the dashboard URLs
-# In RSS.app: Click feed → "XML" button → Copy URL ending in .xml
 
 RSS_APP_FEEDS = {
-    # Example (Oman Police - working)
+    # UAE (8 accounts)
+    'moiuae': {'url': 'https://rss.app/feeds/oPyw4FJ41usBjG0c.xml', 'name': 'UAE Ministry of Interior', 'country': 'UAE', 'credibility': 100},
+    'moduae': {'url': 'https://rss.app/feeds/5DzID481Msg3w5Go.xml', 'name': 'UAE Ministry of Defence', 'country': 'UAE', 'credibility': 100},
+    'ncemauae': {'url': 'https://rss.app/feeds/t0JvfszuALDyg4uh.xml', 'name': 'UAE National Emergency', 'country': 'UAE', 'credibility': 100},
+    'uaengc': {'url': 'https://rss.app/feeds/oqxMcPt6uwJ10D0K.xml', 'name': 'UAE National Guard', 'country': 'UAE', 'credibility': 100},
+    'uaemediaoffice': {'url': 'https://rss.app/feeds/DKefnWqLQ6ipghtp.xml', 'name': 'UAE Government Media', 'country': 'UAE', 'credibility': 100},
+    'wamnews': {'url': 'https://rss.app/feeds/yWxDexVK5P5WlnV9.xml', 'name': 'WAM News Agency', 'country': 'UAE', 'credibility': 95},
+    'dxbmediaoffice': {'url': 'https://rss.app/feeds/OTlOJkkZ297qnQNn.xml', 'name': 'Dubai Media Office', 'country': 'UAE', 'credibility': 95},
+    'civildefencead': {'url': 'https://rss.app/feeds/Da5ZvV4gQsJYMJja.xml', 'name': 'Abu Dhabi Civil Defence', 'country': 'UAE', 'credibility': 100},
+    
+    # Saudi Arabia (2 accounts)
+    'moisaudiarabia': {'url': 'https://rss.app/feeds/8Qxm8tjO1nBYaMhl.xml', 'name': 'Saudi Ministry of Interior', 'country': 'Saudi Arabia', 'credibility': 100},
+    'saudidcd': {'url': 'https://rss.app/feeds/53nS4uUWlgrreFsJ.xml', 'name': 'Saudi Civil Defense', 'country': 'Saudi Arabia', 'credibility': 100},
+    
+    # Qatar (4 accounts)
+    'moiqataren': {'url': 'https://rss.app/feeds/RyXjTtNHU7MscSDx.xml', 'name': 'Qatar Ministry of Interior', 'country': 'Qatar', 'credibility': 100},
+    'civildefenceqa': {'url': 'https://rss.app/feeds/Gv74vCuEmr7jMI8S.xml', 'name': 'Qatar Civil Defence', 'country': 'Qatar', 'credibility': 100},
+    'modqatar': {'url': 'https://rss.app/feeds/J9LSu9US4gNAoWuG.xml', 'name': 'Qatar Ministry of Defence', 'country': 'Qatar', 'credibility': 100},
+    'qatarnewsagency': {'url': 'https://rss.app/feeds/MbUvCNXci4r8R6tT.xml', 'name': 'Qatar News Agency', 'country': 'Qatar', 'credibility': 95},
+    
+    # Bahrain (1 account)
+    'moibahrain': {'url': 'https://rss.app/feeds/RGESjvd3KiLouQ1Q.xml', 'name': 'Bahrain Ministry of Interior', 'country': 'Bahrain', 'credibility': 100},
+    
+    # Kuwait (2 accounts)
+    'kffkw': {'url': 'https://rss.app/feeds/WzsZIKALXFycSVCA.xml', 'name': 'Kuwait Fire Force', 'country': 'Kuwait', 'credibility': 100},
+    'kunaen': {'url': 'https://rss.app/feeds/pMqH90ylFHYmpPF2.xml', 'name': 'Kuwait News Agency', 'country': 'Kuwait', 'credibility': 95},
+    
+    # Oman (1 account)
     'royalomanpolice': {'url': 'https://rss.app/feeds/YHfnfinoL5JV1J7T.xml', 'name': 'Royal Oman Police', 'country': 'Oman', 'credibility': 100},
     
-    # Add your .xml URLs here as you generate them
-    # Format: 'account_id': {'url': 'https://rss.app/feeds/xxxxx.xml', 'name': 'Display Name', 'country': 'Country', 'credibility': 95},
+    # Israel (2 accounts)
+    'israelmod': {'url': 'https://rss.app/feeds/ONFaZNztIulPvZDc.xml', 'name': 'Israel Ministry of Defense', 'country': 'Israel', 'credibility': 95},
+    'mdais': {'url': 'https://rss.app/feeds/ySovRTttsScjix9r.xml', 'name': 'Magen David Adom', 'country': 'Israel', 'credibility': 95},
+    
+    # Iran (2 accounts)
+    'mehrnews': {'url': 'https://rss.app/feeds/iBfZthMj9m7d99uN.xml', 'name': 'Mehr News Agency', 'country': 'Iran', 'credibility': 85},
+    'farsnews': {'url': 'https://rss.app/feeds/9X7fSoVOaiZHtOr6.xml', 'name': 'Fars News Agency', 'country': 'Iran', 'credibility': 85},
 }
 
 # Security keywords
