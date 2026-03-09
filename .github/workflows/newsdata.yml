@@ -1,0 +1,37 @@
+name: Fetch NewsData.io API
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Every 6 hours
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+        
+    - name: Install dependencies
+      run: pip install requests
+      
+    - name: Fetch NewsData.io
+      env:
+        NEWSDATA_API_KEY: ${{ secrets.NEWSDATA_API_KEY }}
+      run: python scripts/fetch_newsdata.py
+      
+    - name: Commit and push changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add public/newsdata_incidents.json
+        git diff --staged --quiet || (git commit -m "Update incidents from NewsData.io API" && git push)
