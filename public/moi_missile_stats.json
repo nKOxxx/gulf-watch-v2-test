@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-03-09T07:08:09.766371+00:00",
+  "generated_at": "2026-03-09T13:13:32.048935+00:00",
   "since_date": "2026-03-03",
   "source": "UAE Ministry of Interior (@moiuae)",
-  "total_incidents": 1,
+  "total_incidents": 2,
   "totals": {
-    "ballistic_detected": 17,
-    "ballistic_intercepted": 16,
+    "ballistic_detected": 32,
+    "ballistic_intercepted": 28,
     "cruise_detected": 0,
     "cruise_intercepted": 0,
-    "drones_detected": 117,
-    "drones_intercepted": 113,
-    "total_detected": 134,
-    "total_intercepted": 129,
-    "impacted": 5,
+    "drones_detected": 135,
+    "drones_intercepted": 130,
+    "total_detected": 167,
+    "total_intercepted": 158,
+    "impacted": 9,
     "killed": 0,
     "injured": 0
   },
   "last_24h": {
-    "detected": 134,
-    "intercepted": 129,
-    "impacted": 5
+    "detected": 33,
+    "intercepted": 29,
+    "impacted": 4
   },
   "daily": [
     {
@@ -31,9 +31,41 @@
       "drones_detected": 117,
       "drones_intercepted": 113,
       "total": 263
+    },
+    {
+      "date": "2026-03-09",
+      "ballistic_detected": 15,
+      "ballistic_intercepted": 12,
+      "cruise_detected": 0,
+      "cruise_intercepted": 0,
+      "drones_detected": 18,
+      "drones_intercepted": 17,
+      "total": 62
     }
   ],
   "incidents": [
+    {
+      "id": "moi_1773055860.0",
+      "title": "RT by @moiuae: الدفاعات الجوية الإماراتية تتعامل مع 12 صاروخ باليستي و 17 طائرة مسيرة. رصدت الدفاعات الجوية الإماراتية اليوم (9 مارس 2026) 15 صاروخ باليستي حيث تم تدمير 12 صاروخ باليستي، فيما سقطت 3 صواريخ باليستية في البحر. كما تم رصد 18 طائرة مسيرة، حيث تم اعتراض 17 طائرة مسيرة، بينما سقطت 1… pic.",
+      "source": "UAE Ministry of Interior",
+      "source_url": "https://x.com/modgovae/status/2030969656438079684",
+      "published": "2026-03-09T11:31:00+00:00",
+      "date": "2026-03-09",
+      "stats": {
+        "ballistic_detected": 15,
+        "ballistic_intercepted": 12,
+        "cruise_detected": 0,
+        "cruise_intercepted": 0,
+        "drones_detected": 18,
+        "drones_intercepted": 17,
+        "impacted": 4,
+        "killed": 0,
+        "injured": 0
+      },
+      "type": "missile_defense",
+      "credibility": 100,
+      "is_government": true
+    },
     {
       "id": "moi_1772965860.0",
       "title": "RT by @moiuae: RT by @moiuae: الدفاعات الجوية الإماراتية تتعامل مع 16 صاروخ باليستي و 113 طائرة مسيرة. رصدت الدفاعات الجوية الإماراتية اليوم (8 مارس 2026) 17 صاروخ باليستي حيث تم تدمير 16 صاروخ باليستي، فيما سقط 1 صاروخ باليستي في البحر. كما تم رصد 117 طائرة مسيرة، حيث تم اعتراض 113 طائرة مسيرة، بينما سقطت 4",
