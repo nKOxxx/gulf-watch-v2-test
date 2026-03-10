@@ -1,5 +1,492 @@
 {
-  "generated_at": "2026-03-09T18:56:30.581295+00:00",
-  "total_incidents": 0,
-  "incidents": []
+  "generated_at": "2026-03-10T02:09:24.690692+00:00",
+  "total_incidents": 27,
+  "incidents": [
+    {
+      "id": "newsdata_dd738914a119042cdae30fc4db626c48",
+      "title": "Russian hackers target WhatsApp, Signal accounts of Dutch officials, intelligence agencies report",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/europe/russian-hackers-target-whatsapp-signal-accounts-of-dutch-officials-intelligence-agencies-report/3856480",
+      "published": "2026-03-09T13:18:46+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_ab739fb9614341f92fff56ab33038e92",
+      "title": "Moscow claims capture of village in Donetsk, Ukraine reports reclaiming territory from Russia",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/asia-pacific/moscow-claims-capture-of-village-in-donetsk-ukraine-reports-reclaiming-territory-from-russia/3856383",
+      "published": "2026-03-09T12:34:36+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_2e1407d91344500fc7a1a3ceadcad30e",
+      "title": "No signs of letup in Iran war as Tehran names new supreme leader",
+      "source": "NewsData.io - Daily Sabah",
+      "source_url": "https://www.dailysabah.com/world/mid-east/no-signs-of-letup-in-iran-war-as-tehran-names-new-supreme-leader",
+      "published": "2026-03-09T12:17:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_0e9db9f826153f78fbde167c33a4f821",
+      "title": "Probe points at US for airstrike on Iranian school that killed 165",
+      "source": "NewsData.io - Daily Sabah",
+      "source_url": "https://www.dailysabah.com/world/mid-east/probe-points-at-us-for-airstrike-on-iranian-school-that-killed-165",
+      "published": "2026-03-09T11:44:00+00:00",
+      "type": "attack",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_04f539467b2b2c249d0173f887dde0f6",
+      "title": "Probe points to US in deadly Iranian school strike that killed 165",
+      "source": "NewsData.io - Daily Sabah",
+      "source_url": "https://www.dailysabah.com/world/mid-east/probe-points-to-us-in-deadly-iranian-school-strike-that-killed-165",
+      "published": "2026-03-09T11:44:00+00:00",
+      "type": "attack",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_34bf6e311bc58ab263685d635a5c0f0b",
+      "title": "Investigation further suggests it was the US that struck an Iranian school, killing 165",
+      "source": "NewsData.io - Channel Newsasia",
+      "source_url": "https://www.channelnewsasia.com/world/iran-us-strike-school-investigation-war-israel-5981381",
+      "published": "2026-03-09T10:39:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_34bf6e311bc58ab263685d635a5c0f0b",
+      "title": "Investigation further suggests it was the US that struck an Iranian school, killing 165",
+      "source": "NewsData.io - Channel Newsasia",
+      "source_url": "https://www.channelnewsasia.com/world/iran-us-strike-school-investigation-war-israel-5981381",
+      "published": "2026-03-09T10:39:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Saudi Arabia",
+        "country": "Saudi Arabia",
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_34bf6e311bc58ab263685d635a5c0f0b",
+      "title": "Investigation further suggests it was the US that struck an Iranian school, killing 165",
+      "source": "NewsData.io - Channel Newsasia",
+      "source_url": "https://www.channelnewsasia.com/world/iran-us-strike-school-investigation-war-israel-5981381",
+      "published": "2026-03-09T10:39:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Kuwait",
+        "country": "Kuwait",
+        "lat": 29.3759,
+        "lng": 47.9774
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_34bf6e311bc58ab263685d635a5c0f0b",
+      "title": "Investigation further suggests it was the US that struck an Iranian school, killing 165",
+      "source": "NewsData.io - Channel Newsasia",
+      "source_url": "https://www.channelnewsasia.com/world/iran-us-strike-school-investigation-war-israel-5981381",
+      "published": "2026-03-09T10:39:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Bahrain",
+        "country": "Bahrain",
+        "lat": 26.2285,
+        "lng": 50.586
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_85d2aadcaa7218cc5d1078925f1b9c06",
+      "title": "Most European leaders have tiptoed around Trump’s war with Iran. Not Spain’s PM",
+      "source": "NewsData.io - Egyptindependent",
+      "source_url": "https://egyptindependent.com/most-european-leaders-have-tiptoed-around-trumps-war-with-iran-not-spains-pm/",
+      "published": "2026-03-09T09:47:37+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Egypt",
+        "country": "Egypt",
+        "lat": 30.0444,
+        "lng": 31.2357
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_ad55fb2fcd4766afe1a589a078cea45a",
+      "title": "HRW finds proof Israel used banned white phosphorus in S. Lebanon",
+      "source": "NewsData.io - Daily Sabah",
+      "source_url": "https://www.dailysabah.com/world/mid-east/hrw-finds-proof-israel-used-banned-white-phosphorus-in-s-lebanon",
+      "published": "2026-03-09T09:34:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_9ba461c1cece18a7943aaf693e745d17",
+      "title": "Czech president warns reduced defense spending could harm credibility",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/europe/czech-president-warns-reduced-defense-spending-could-harm-credibility/3856055",
+      "published": "2026-03-09T09:10:35+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_5f6d1fcad726b185a307a2b4868f3d24",
+      "title": "New video suggests US responsible for deadly strike on Iranian elementary school",
+      "source": "NewsData.io - Khaleej Times",
+      "source_url": "https://www.khaleejtimes.com/world/new-video-us-responsible-strike-iran-shajarah-tayyebeh-elementary-school",
+      "published": "2026-03-09T08:56:57+00:00",
+      "type": "attack",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_8fa98da85701b1eb31ac81d8304f7dfd",
+      "title": "Ministry of Defense announces interception of missile attack",
+      "source": "NewsData.io - Gulf Times",
+      "source_url": "https://www.gulf-times.com/article/722127/qatar/ministry-of-defense-announces-interception-of-missile-attack",
+      "published": "2026-03-09T08:20:00+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_545900ec5db27a9cba77255786a1d2fb",
+      "title": "Who's Iran's new Supreme Leader Mojtaba Khamenei?",
+      "source": "NewsData.io - Daily Sabah",
+      "source_url": "https://www.dailysabah.com/world/mid-east/whos-irans-new-supreme-leader-mojtaba-khamenei",
+      "published": "2026-03-09T07:02:53+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_c923f133f73c6c12d305bd0e833e2e94",
+      "title": "US, South Korea launch key springtime military drill",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/asia-pacific/us-south-korea-launch-key-springtime-military-drill/3855765",
+      "published": "2026-03-09T05:27:41+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_72f95ed655ac950ce4e5ef9a51777bdc",
+      "title": "Israel accused of 'unlawfully' using white phosphorus in new Lebanon attacks",
+      "source": "NewsData.io - Khaleej Times",
+      "source_url": "https://www.khaleejtimes.com/world/mena/israel-use-white-phosphorus-unlawful-lebanon-attacks",
+      "published": "2026-03-09T05:22:31+00:00",
+      "type": "attack",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_01d4235b1e82ba0f1e1972f54f5e372b",
+      "title": "No Indian killed in Saudi's Al Kharj missile incident, embassy confirms",
+      "source": "NewsData.io - Khaleej Times",
+      "source_url": "https://www.khaleejtimes.com/world/gulf/saudi-arabia-al-kharj-missile-incident-no-indian-killed-embassy-confirms",
+      "published": "2026-03-09T04:59:28+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_5c5550fc51f6d22fc74d8f5154cfc84b",
+      "title": "Morning Briefing: March 9, 2026",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/world/morning-briefing-march-9-2026/3855752",
+      "published": "2026-03-09T04:41:26+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_7cbc8444fc3d5dd00da652b5ca8f9b80",
+      "title": "Iran continues striking civilian infrastructure and US bases in the Gulf (March 7–8 updates)",
+      "source": "NewsData.io - Fdd's Long War Journal",
+      "source_url": "https://www.longwarjournal.org/archives/2026/03/iran-continues-striking-civilian-infrastructure-and-us-bases-in-the-gulf-march-7-8-updates.php",
+      "published": "2026-03-08T22:51:08+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Iran",
+        "country": "Iran",
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_27d6230b9cce484d8253bf3ebf7bab13",
+      "title": "US, Israel continue to attack Iran",
+      "source": "NewsData.io - Qatar Tribune",
+      "source_url": "https://www.qatar-tribune.com/article/223238/world/us-israel-continue-to-attack-iran",
+      "published": "2026-03-08T22:18:51+00:00",
+      "type": "attack",
+      "status": "reported",
+      "location": {
+        "name": "Qatar",
+        "country": "Qatar",
+        "lat": 25.2854,
+        "lng": 51.531
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_c0e49e7b0d415558872ade66dc59957d",
+      "title": "Saudi Ministry of Defense: Two drone attacks foiled north of Riyadh",
+      "source": "NewsData.io - The Peninsula Qatar",
+      "source_url": "https://thepeninsulaqatar.com/article/09/03/2026/saudi-ministry-of-defense-two-drone-attacks-foiled-north-of-riyadh",
+      "published": "2026-03-08T21:00:11+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_93547b43275ceaf661eaabbb57ffe9d4",
+      "title": "At least 15 people killed in Israeli airstrikes on southern Lebanon",
+      "source": "NewsData.io - Qatar Tribune",
+      "source_url": "https://www.qatar-tribune.com/article/223227/world/at-least-15-people-killed-in-israeli-airstrikes-on-southern-lebanon",
+      "published": "2026-03-08T21:00:00+00:00",
+      "type": "attack",
+      "status": "reported",
+      "location": {
+        "name": "Qatar",
+        "country": "Qatar",
+        "lat": 25.2854,
+        "lng": 51.531
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_34fd827277d4ae07729727f08c638229",
+      "title": "Trump attends return of first six US troops killed in Iran war",
+      "source": "NewsData.io - Kuwait Times",
+      "source_url": "https://kuwaittimes.com/article/40810/world/america/trump-attends-return-of-first-six-us-troops-killed-in-iran-war/",
+      "published": "2026-03-08T17:04:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Kuwait",
+        "country": "Kuwait",
+        "lat": 29.3759,
+        "lng": 47.9774
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_fb56fbc21bc49d227900861dd48733a5",
+      "title": "UAE reaffirms full right to take all necessary measures to safeguard its sovereignty, national security",
+      "source": "NewsData.io - The Peninsula Qatar",
+      "source_url": "https://thepeninsulaqatar.com/article/08/03/2026/uae-reaffirms-full-right-to-take-all-necessary-measures-to-safeguard-its-sovereignty-national-security",
+      "published": "2026-03-08T14:26:08+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_fe9b6ed5eb01f9a4fa459d4054110ff5",
+      "title": "UAE announces destruction of 16 ballistic missiles and 113 Iranian drones",
+      "source": "NewsData.io - The Peninsula Qatar",
+      "source_url": "https://thepeninsulaqatar.com/article/08/03/2026/uae-announces-destruction-of-16-ballistic-missiles-and-113-iranian-drones",
+      "published": "2026-03-08T14:04:49+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_88f5647d38ba3416c8351255371852a4",
+      "title": "Iranian strike hits facility near Salman Port in Bahrain capital",
+      "source": "NewsData.io - Saudi Gazette",
+      "source_url": "https://saudigazette.com.sa/article/659551/world/iranian-strike-hits-facility-near-salman-port-in-bahrain-capital",
+      "published": "2026-03-08T11:23:31+00:00",
+      "type": "attack",
+      "status": "reported",
+      "location": {
+        "name": "Saudi Arabia",
+        "country": "Saudi Arabia",
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    }
+  ]
 }
