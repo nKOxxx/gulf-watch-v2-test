@@ -1,7 +1,133 @@
 {
-  "generated_at": "2026-03-10T02:09:24.690692+00:00",
-  "total_incidents": 27,
+  "generated_at": "2026-03-10T06:53:58.904337+00:00",
+  "total_incidents": 29,
   "incidents": [
+    {
+      "id": "newsdata_68d8ded917c1d9b35c1409a3bcc88021",
+      "title": "Anthropic sues Trump administration to undo US ‘supply chain risk’ tag",
+      "source": "NewsData.io - Turks",
+      "source_url": "https://turks.us/anthropic-sues-trump-administration-to-undo-us-supply-chain-risk-tag/",
+      "published": "2026-03-09T18:44:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_471e3eb472ad57e4b56e809cf992c659",
+      "title": "Drone intercepted, destroyed in past 24 hours: Kuwaiti Defense Ministry",
+      "source": "NewsData.io - The Peninsula Qatar",
+      "source_url": "https://thepeninsulaqatar.com/article/09/03/2026/drone-intercepted-destroyed-in-past-24-hourskuwaiti-defense-ministry",
+      "published": "2026-03-09T18:09:32+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_c055e3b778c651bcf11eda44aaa3ec83",
+      "title": "France condemns 'in strongest possible terms' firing of ballistic missile from Iran toward Türkiye",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/europe/france-condemns-in-strongest-possible-terms-firing-of-ballistic-missile-from-iran-toward-turkiye/3856994",
+      "published": "2026-03-09T17:47:59+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_06d383a5e697e9f5385c284af7d9758b",
+      "title": "Turkiye shoots down Iranian ballistic missile crossing its airspace",
+      "source": "NewsData.io - The Peninsula Qatar",
+      "source_url": "https://thepeninsulaqatar.com/article/09/03/2026/turkiye-shoots-down-iranian-ballistic-missile-crossing-its-airspace",
+      "published": "2026-03-09T16:17:48+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_c8a0159e8ee18d1c8848dc349b685671",
+      "title": "UAE ‘strongly condemns’ ballistic missile fired from Iran toward Türkiye",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/uae-strongly-condemns-ballistic-missile-fired-from-iran-toward-turkiye/3856651",
+      "published": "2026-03-09T15:16:02+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_52124e25f7e56da1100e7208817020d7",
+      "title": "UAE says 2 soldiers killed in helicopter crash",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/uae-says-2-soldiers-killed-in-helicopter-crash/3856588",
+      "published": "2026-03-09T14:35:18+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_686ce03db3bb4f48507065038f6dbee3",
+      "title": "NATO reaffirms readiness 'to defend all allies' after neutralizing Iran-launched ballistic missile toward Türkiye",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/europe/nato-reaffirms-readiness-to-defend-all-allies-after-neutralizing-iran-launched-ballistic-missile-toward-turkiye/3856581",
+      "published": "2026-03-09T14:27:21+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
     {
       "id": "newsdata_dd738914a119042cdae30fc4db626c48",
       "title": "Russian hackers target WhatsApp, Signal accounts of Dutch officials, intelligence agencies report",
@@ -183,42 +309,6 @@
       "source_key": "newsdata"
     },
     {
-      "id": "newsdata_ad55fb2fcd4766afe1a589a078cea45a",
-      "title": "HRW finds proof Israel used banned white phosphorus in S. Lebanon",
-      "source": "NewsData.io - Daily Sabah",
-      "source_url": "https://www.dailysabah.com/world/mid-east/hrw-finds-proof-israel-used-banned-white-phosphorus-in-s-lebanon",
-      "published": "2026-03-09T09:34:00+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_9ba461c1cece18a7943aaf693e745d17",
-      "title": "Czech president warns reduced defense spending could harm credibility",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/europe/czech-president-warns-reduced-defense-spending-could-harm-credibility/3856055",
-      "published": "2026-03-09T09:10:35+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
       "id": "newsdata_5f6d1fcad726b185a307a2b4868f3d24",
       "title": "New video suggests US responsible for deadly strike on Iranian elementary school",
       "source": "NewsData.io - Khaleej Times",
@@ -255,42 +345,6 @@
       "source_key": "newsdata"
     },
     {
-      "id": "newsdata_545900ec5db27a9cba77255786a1d2fb",
-      "title": "Who's Iran's new Supreme Leader Mojtaba Khamenei?",
-      "source": "NewsData.io - Daily Sabah",
-      "source_url": "https://www.dailysabah.com/world/mid-east/whos-irans-new-supreme-leader-mojtaba-khamenei",
-      "published": "2026-03-09T07:02:53+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_c923f133f73c6c12d305bd0e833e2e94",
-      "title": "US, South Korea launch key springtime military drill",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/asia-pacific/us-south-korea-launch-key-springtime-military-drill/3855765",
-      "published": "2026-03-09T05:27:41+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
       "id": "newsdata_72f95ed655ac950ce4e5ef9a51777bdc",
       "title": "Israel accused of 'unlawfully' using white phosphorus in new Lebanon attacks",
       "source": "NewsData.io - Khaleej Times",
@@ -321,24 +375,6 @@
         "country": "UAE",
         "lat": 25.2048,
         "lng": 55.2708
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_5c5550fc51f6d22fc74d8f5154cfc84b",
-      "title": "Morning Briefing: March 9, 2026",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/world/morning-briefing-march-9-2026/3855752",
-      "published": "2026-03-09T04:41:26+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
       },
       "credibility": 70,
       "is_government": false,
