@@ -1,15 +1,491 @@
 {
-  "generated_at": "2026-03-10T05:04:38.488060+00:00",
-  "total_raw": 72,
-  "total_verified": 68,
+  "generated_at": "2026-03-10T08:28:40.650091+00:00",
+  "total_raw": 80,
+  "total_verified": 73,
   "status_breakdown": {
-    "Verified": 32,
-    "Partially Verified": 3,
-    "Likely True": 33
+    "Likely True": 39,
+    "Verified": 31,
+    "Partially Verified": 3
   },
   "incidents": [
     {
-      "id": "rss_kunaen_812515434",
+      "id": "rss_mehrnews_226207499",
+      "title": "\"The brave men of the Iranian Army Air Force, in response to the aggression against Iran's oil depots, have attacked the oil and gas refinery and fuel storage facilities of the Zionist regime in Haifa",
+      "source": "Twitter - Mehr News Agency",
+      "source_url": "https://x.com/MehrnewsCom/status/2031281982634663985",
+      "published": "2026-03-10T08:12:00+00:00",
+      "type": "drone",
+      "status": "confirmed",
+      "location": {
+        "name": "Unknown",
+        "country": "Iran"
+      },
+      "credibility": 85,
+      "is_government": true,
+      "source_key": "mehr_news",
+      "verification": {
+        "confidence": 85,
+        "status": "Likely True",
+        "source_count": 1,
+        "government_sources": 0,
+        "news_sources": 0,
+        "sources": [
+          "mehr_news"
+        ]
+      },
+      "source_variants": [
+        {
+          "source": "Twitter - Mehr News Agency",
+          "title": "\"The brave men of the Iranian Army Air Force, in response to the aggression against Iran's oil depots, have attacked the oil and gas refinery and fuel storage facilities of the Zionist regime in Haifa",
+          "published": "2026-03-10T08:12:00+00:00",
+          "url": "https://x.com/MehrnewsCom/status/2031281982634663985",
+          "source_key": "mehr_news"
+        },
+        {
+          "source": "Twitter - Mehr News Agency",
+          "title": "The Iranian Army announced that its Air Force drones have attacked an oil and gas refinery and fuel storage facilities belonging to the Israeli regime in Haifa.",
+          "published": "2026-03-10T08:12:00+00:00",
+          "url": "https://x.com/MehrnewsCom/status/2031281973700792704",
+          "source_key": "mehr_news"
+        }
+      ]
+    },
+    {
+      "id": "rss_mdais_55870113",
+      "title": "Following the missile fire toward the State of Israel: At this stage, no casualties are known. MDA teams are treating several cases of people who were injured on their way to a sheltered area, as well",
+      "source": "Twitter - Magen David Adom",
+      "source_url": "https://x.com/Mdais/status/2031281599803744642",
+      "published": "2026-03-10T08:10:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "name": "Unknown",
+        "country": "Israel"
+      },
+      "credibility": 95,
+      "is_government": true,
+      "source_key": "magen_david_adom",
+      "verification": {
+        "confidence": 100,
+        "status": "Verified",
+        "source_count": 1,
+        "government_sources": 1,
+        "news_sources": 0,
+        "sources": [
+          "magen_david_adom"
+        ]
+      },
+      "source_variants": [
+        {
+          "source": "Twitter - Magen David Adom",
+          "title": "Following the missile fire toward the State of Israel: At this stage, no casualties are known. MDA teams are treating several cases of people who were injured on their way to a sheltered area, as well",
+          "published": "2026-03-10T08:10:00+00:00",
+          "url": "https://x.com/Mdais/status/2031281599803744642",
+          "source_key": "magen_david_adom"
+        }
+      ]
+    },
+    {
+      "id": "rss_kunaen_729958251",
+      "title": "#Spain condemns #Iran's latest attacks on Gulf Cooperation Countries voicing full solidarity with the states  #KUNA",
+      "source": "Twitter - Kuwait News Agency",
+      "source_url": "https://x.com/kuna_en/status/2031279701256253612",
+      "published": "2026-03-10T08:03:00+00:00",
+      "type": "attack",
+      "status": "confirmed",
+      "location": {
+        "name": "Unknown",
+        "country": "Kuwait"
+      },
+      "credibility": 95,
+      "is_government": true,
+      "source_key": "kuna",
+      "verification": {
+        "confidence": 100,
+        "status": "Verified",
+        "source_count": 1,
+        "government_sources": 0,
+        "news_sources": 1,
+        "sources": [
+          "kuna"
+        ]
+      },
+      "source_variants": [
+        {
+          "source": "Twitter - Kuwait News Agency",
+          "title": "#Spain condemns #Iran's latest attacks on Gulf Cooperation Countries voicing full solidarity with the states  #KUNA",
+          "published": "2026-03-10T08:03:00+00:00",
+          "url": "https://x.com/kuna_en/status/2031279701256253612",
+          "source_key": "kuna"
+        }
+      ]
+    },
+    {
+      "id": "rss_mehrnews_61254443",
+      "title": "🚨#BREAKING Sirens go off in Jordan",
+      "source": "Twitter - Mehr News Agency",
+      "source_url": "https://x.com/MehrnewsCom/status/2031279312544886813",
+      "published": "2026-03-10T08:01:00+00:00",
+      "type": "alert",
+      "status": "confirmed",
+      "location": {
+        "name": "Unknown",
+        "country": "Iran"
+      },
+      "credibility": 85,
+      "is_government": true,
+      "source_key": "mehr_news",
+      "verification": {
+        "confidence": 85,
+        "status": "Likely True",
+        "source_count": 1,
+        "government_sources": 0,
+        "news_sources": 0,
+        "sources": [
+          "mehr_news"
+        ]
+      },
+      "source_variants": [
+        {
+          "source": "Twitter - Mehr News Agency",
+          "title": "🚨#BREAKING Sirens go off in Jordan",
+          "published": "2026-03-10T08:01:00+00:00",
+          "url": "https://x.com/MehrnewsCom/status/2031279312544886813",
+          "source_key": "mehr_news"
+        }
+      ]
+    },
+    {
+      "id": "rss_mehrnews_618762154",
+      "title": "FM @araghchi: Nobody should complain if Iranian missiles destroy American HIMARS systems anywhere in retribution",
+      "source": "Twitter - Mehr News Agency",
+      "source_url": "https://x.com/MehrnewsCom/status/2031278707097190643",
+      "published": "2026-03-10T07:59:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "name": "Unknown",
+        "country": "Iran"
+      },
+      "credibility": 85,
+      "is_government": true,
+      "source_key": "mehr_news",
+      "verification": {
+        "confidence": 85,
+        "status": "Likely True",
+        "source_count": 1,
+        "government_sources": 0,
+        "news_sources": 0,
+        "sources": [
+          "mehr_news"
+        ]
+      },
+      "source_variants": [
+        {
+          "source": "Twitter - Mehr News Agency",
+          "title": "FM @araghchi: Nobody should complain if Iranian missiles destroy American HIMARS systems anywhere in retribution",
+          "published": "2026-03-10T07:59:00+00:00",
+          "url": "https://x.com/MehrnewsCom/status/2031278707097190643",
+          "source_key": "mehr_news"
+        }
+      ]
+    },
+    {
+      "id": "rss_mehrnews_834165229",
+      "title": "Iranian Deputy Health Minister Ali Jafarian says that as many as 1,255 people have been martyred and over 12,000 others have been wounded in the US-Israeli aggression.",
+      "source": "Twitter - Mehr News Agency",
+      "source_url": "https://x.com/MehrnewsCom/status/2031277538056487108",
+      "published": "2026-03-10T07:54:00+00:00",
+      "type": "security",
+      "status": "confirmed",
+      "location": {
+        "name": "Unknown",
+        "country": "Iran"
+      },
+      "credibility": 85,
+      "is_government": true,
+      "source_key": "mehr_news",
+      "verification": {
+        "confidence": 85,
+        "status": "Likely True",
+        "source_count": 1,
+        "government_sources": 0,
+        "news_sources": 0,
+        "sources": [
+          "mehr_news"
+        ]
+      },
+      "source_variants": [
+        {
+          "source": "Twitter - Mehr News Agency",
+          "title": "Iranian Deputy Health Minister Ali Jafarian says that as many as 1,255 people have been martyred and over 12,000 others have been wounded in the US-Israeli aggression.",
+          "published": "2026-03-10T07:54:00+00:00",
+          "url": "https://x.com/MehrnewsCom/status/2031277538056487108",
+          "source_key": "mehr_news"
+        }
+      ]
+    },
+    {
+      "id": "rss_mehrnews_713998015",
+      "title": "🚨 #BREAKING Spokesman for the Islamic Revolutionary Guard Corps (IRGC) has said that the country’s military retaliation has frustrated US President Trump, stressing that the Iranian Armed Forces have ",
+      "source": "Twitter - Mehr News Agency",
+      "source_url": "https://x.com/MehrnewsCom/status/2031273175179309380",
+      "published": "2026-03-10T07:37:00+00:00",
+      "type": "security",
+      "status": "confirmed",
+      "location": {
+        "name": "Unknown",
+        "country": "Iran"
+      },
+      "credibility": 85,
+      "is_government": true,
+      "source_key": "mehr_news",
+      "verification": {
+        "confidence": 85,
+        "status": "Likely True",
+        "source_count": 1,
+        "government_sources": 0,
+        "news_sources": 0,
+        "sources": [
+          "mehr_news"
+        ]
+      },
+      "source_variants": [
+        {
+          "source": "Twitter - Mehr News Agency",
+          "title": "🚨 #BREAKING Spokesman for the Islamic Revolutionary Guard Corps (IRGC) has said that the country’s military retaliation has frustrated US President Trump, stressing that the Iranian Armed Forces have ",
+          "published": "2026-03-10T07:37:00+00:00",
+          "url": "https://x.com/MehrnewsCom/status/2031273175179309380",
+          "source_key": "mehr_news"
+        }
+      ]
+    },
+    {
+      "id": "rss_kunaen_847404251",
+      "title": "#Saudi Arabia condemns the targeting of the #UAE Consulate General in the #Kurdistan Region of #Iraq, describing the attack as a violation of diplomatic norms  #KUNA",
+      "source": "Twitter - Kuwait News Agency",
+      "source_url": "https://x.com/kuna_en/status/2031265823545790802",
+      "published": "2026-03-10T07:08:00+00:00",
+      "type": "attack",
+      "status": "confirmed",
+      "location": {
+        "name": "Unknown",
+        "country": "Kuwait"
+      },
+      "credibility": 95,
+      "is_government": true,
+      "source_key": "kuna",
+      "verification": {
+        "confidence": 100,
+        "status": "Verified",
+        "source_count": 1,
+        "government_sources": 0,
+        "news_sources": 2,
+        "sources": [
+          "kuna"
+        ]
+      },
+      "source_variants": [
+        {
+          "source": "Twitter - Kuwait News Agency",
+          "title": "#Saudi Arabia condemns the targeting of the #UAE Consulate General in the #Kurdistan Region of #Iraq, describing the attack as a violation of diplomatic norms  #KUNA",
+          "published": "2026-03-10T07:08:00+00:00",
+          "url": "https://x.com/kuna_en/status/2031265823545790802",
+          "source_key": "kuna"
+        },
+        {
+          "source": "Twitter - Kuwait News Agency",
+          "title": "#UAE condemns drone attack that targeted its Consulate General in the #Kurdistan Region of #Iraq, causing material damage to the building without any reported injuries  #KUNA",
+          "published": "2026-03-10T07:05:00+00:00",
+          "url": "https://x.com/kuna_en/status/2031265218383208944",
+          "source_key": "kuna"
+        }
+      ]
+    },
+    {
+      "id": "rss_mehrnews_357864409",
+      "title": "🚨 5 killed, 1 injured in an Israeli strike on a residential area in Arak",
+      "source": "Twitter - Mehr News Agency",
+      "source_url": "https://x.com/MehrnewsCom/status/2031248096328397114",
+      "published": "2026-03-10T05:57:00+00:00",
+      "type": "attack",
+      "status": "confirmed",
+      "location": {
+        "name": "Unknown",
+        "country": "Iran"
+      },
+      "credibility": 85,
+      "is_government": true,
+      "source_key": "mehr_news",
+      "verification": {
+        "confidence": 85,
+        "status": "Likely True",
+        "source_count": 1,
+        "government_sources": 0,
+        "news_sources": 0,
+        "sources": [
+          "mehr_news"
+        ]
+      },
+      "source_variants": [
+        {
+          "source": "Twitter - Mehr News Agency",
+          "title": "🚨 5 killed, 1 injured in an Israeli strike on a residential area in Arak",
+          "published": "2026-03-10T05:57:00+00:00",
+          "url": "https://x.com/MehrnewsCom/status/2031248096328397114",
+          "source_key": "mehr_news"
+        }
+      ]
+    },
+    {
+      "id": "rss_mehrnews_317590310",
+      "title": "The Islamic Republic of Iran has always declared its readiness to reduce tension in the region, provided that the airspace and soil of its neighbors are not used to attack Iranian people, Pezeshkian h",
+      "source": "Twitter - Mehr News Agency",
+      "source_url": "https://x.com/MehrnewsCom/status/2031243332056191129",
+      "published": "2026-03-10T05:38:00+00:00",
+      "type": "attack",
+      "status": "confirmed",
+      "location": {
+        "name": "Unknown",
+        "country": "Iran"
+      },
+      "credibility": 85,
+      "is_government": true,
+      "source_key": "mehr_news",
+      "verification": {
+        "confidence": 85,
+        "status": "Likely True",
+        "source_count": 1,
+        "government_sources": 0,
+        "news_sources": 0,
+        "sources": [
+          "mehr_news"
+        ]
+      },
+      "source_variants": [
+        {
+          "source": "Twitter - Mehr News Agency",
+          "title": "The Islamic Republic of Iran has always declared its readiness to reduce tension in the region, provided that the airspace and soil of its neighbors are not used to attack Iranian people, Pezeshkian h",
+          "published": "2026-03-10T05:38:00+00:00",
+          "url": "https://x.com/MehrnewsCom/status/2031243332056191129",
+          "source_key": "mehr_news"
+        }
+      ]
+    },
+    {
+      "id": "rss_mehrnews_893561268",
+      "title": "President Pezeshkian stated that the US and the Israeli regime are trying to sow seeds of discord between Iran and its neighbors and accuse Iran of carrying out missile attacks on Turkey through media",
+      "source": "Twitter - Mehr News Agency",
+      "source_url": "https://x.com/MehrnewsCom/status/2031243326834294844",
+      "published": "2026-03-10T05:38:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "name": "Unknown",
+        "country": "Iran"
+      },
+      "credibility": 85,
+      "is_government": true,
+      "source_key": "mehr_news",
+      "verification": {
+        "confidence": 85,
+        "status": "Likely True",
+        "source_count": 1,
+        "government_sources": 0,
+        "news_sources": 0,
+        "sources": [
+          "mehr_news"
+        ]
+      },
+      "source_variants": [
+        {
+          "source": "Twitter - Mehr News Agency",
+          "title": "President Pezeshkian stated that the US and the Israeli regime are trying to sow seeds of discord between Iran and its neighbors and accuse Iran of carrying out missile attacks on Turkey through media",
+          "published": "2026-03-10T05:38:00+00:00",
+          "url": "https://x.com/MehrnewsCom/status/2031243326834294844",
+          "source_key": "mehr_news"
+        },
+        {
+          "source": "Twitter - Mehr News Agency",
+          "title": "During the phone call, President Pezeshkian said that Iran is ready to resolve misunderstandings regarding the media claims of missile attack on neighboring Turkey during Iran-US-Israel war.",
+          "published": "2026-03-10T05:38:00+00:00",
+          "url": "https://x.com/MehrnewsCom/status/2031243321796907189",
+          "source_key": "mehr_news"
+        }
+      ]
+    },
+    {
+      "id": "rss_mehrnews_749505174",
+      "title": "🚨 #BREAKING Israel launches large-scale attacks on southern Lebanon",
+      "source": "Twitter - Mehr News Agency",
+      "source_url": "https://x.com/MehrnewsCom/status/2031236765705441283",
+      "published": "2026-03-10T05:12:00+00:00",
+      "type": "attack",
+      "status": "confirmed",
+      "location": {
+        "name": "Unknown",
+        "country": "Iran"
+      },
+      "credibility": 85,
+      "is_government": true,
+      "source_key": "mehr_news",
+      "verification": {
+        "confidence": 85,
+        "status": "Likely True",
+        "source_count": 1,
+        "government_sources": 0,
+        "news_sources": 0,
+        "sources": [
+          "mehr_news"
+        ]
+      },
+      "source_variants": [
+        {
+          "source": "Twitter - Mehr News Agency",
+          "title": "🚨 #BREAKING Israel launches large-scale attacks on southern Lebanon",
+          "published": "2026-03-10T05:12:00+00:00",
+          "url": "https://x.com/MehrnewsCom/status/2031236765705441283",
+          "source_key": "mehr_news"
+        }
+      ]
+    },
+    {
+      "id": "rss_mehrnews_830197194",
+      "title": "Another Israeli Hermes drone downed in Iran's Borujerd",
+      "source": "Twitter - Mehr News Agency",
+      "source_url": "https://x.com/MehrnewsCom/status/2031231698839417062",
+      "published": "2026-03-10T04:52:00+00:00",
+      "type": "drone",
+      "status": "confirmed",
+      "location": {
+        "name": "Unknown",
+        "country": "Iran"
+      },
+      "credibility": 85,
+      "is_government": true,
+      "source_key": "mehr_news",
+      "verification": {
+        "confidence": 85,
+        "status": "Likely True",
+        "source_count": 1,
+        "government_sources": 0,
+        "news_sources": 0,
+        "sources": [
+          "mehr_news"
+        ]
+      },
+      "source_variants": [
+        {
+          "source": "Twitter - Mehr News Agency",
+          "title": "Another Israeli Hermes drone downed in Iran's Borujerd",
+          "published": "2026-03-10T04:52:00+00:00",
+          "url": "https://x.com/MehrnewsCom/status/2031231698839417062",
+          "source_key": "mehr_news"
+        }
+      ]
+    },
+    {
+      "id": "rss_kunaen_416666015",
       "title": "The Kuwait National Guard (KNG) successfully intercepted and downed six drones within its areas of responsibility in the northern and southern sectors of the country, the spokesperson announced Tuesda",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2031205953828208897",
@@ -44,7 +520,7 @@
       ]
     },
     {
-      "id": "rss_kunaen_595077785",
+      "id": "rss_kunaen_452891638",
       "title": "#Saudi Ministry of Defense announced that a ballistic missile was intercepted and destroyed over the Eastern Province  #KUNA",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2031163976675905760",
@@ -79,7 +555,7 @@
       ]
     },
     {
-      "id": "rss_kunaen_315855081",
+      "id": "rss_kunaen_884207630",
       "title": "Lebanon: 12 people were killed and 28 others injured following renewed Israeli occupation airstrikes  #KUNA",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2031142687189938568",
@@ -114,7 +590,7 @@
       ]
     },
     {
-      "id": "rss_wamnews_443014672",
+      "id": "rss_wamnews_517463107",
       "title": "The United Arab Emirates has strongly condemned and denounced the unprovoked terrorist drone attack that targeted the UA...",
       "source": "Twitter - WAM News Agency",
       "source_url": "https://www.instagram.com/p/DVrjAvNiN4c",
@@ -149,7 +625,7 @@
       ]
     },
     {
-      "id": "rss_kunaen_483747018",
+      "id": "rss_kunaen_547275869",
       "title": "#Bahrain's air defense systems have intercepted and destroyed 102 missiles and 173 drones targeting the Kingdom of Bahrain since the start of #Iranian terrorist attacks, says Bahrain's Defense Force's",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2031128277264351374",
@@ -184,7 +660,7 @@
       ]
     },
     {
-      "id": "rss_kunaen_735740331",
+      "id": "rss_kunaen_23937527",
       "title": "#Iranian President Masoud #Pezeshkian stresses his country's preparedness to reduce escalation in the region provided that the airspaces and territories of the neighboring counties are not used to att",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2031125729849602228",
@@ -219,7 +695,7 @@
       ]
     },
     {
-      "id": "rss_moiuae_140947166",
+      "id": "rss_moiuae_940031533",
       "title": "RT by @moiuae: UAE President and Mohammed bin Rashid also praised the role of the armed forces and the dedication of all military institutions, security services and relevant teams in defending the na",
       "source": "Twitter - UAE Ministry of Interior",
       "source_url": "https://x.com/DXBMediaOffice/status/2031120312813936703",
@@ -262,7 +738,7 @@
       ]
     },
     {
-      "id": "rss_moiuae_501692227",
+      "id": "rss_moiuae_668068755",
       "title": "RT by @moiuae: The meeting touched on the nationwide efforts being undertaken by the UAE’s military and civil institutions to safeguard the country’s security and stability and ensure the safety of it",
       "source": "Twitter - UAE Ministry of Interior",
       "source_url": "https://x.com/DXBMediaOffice/status/2031120300138705246",
@@ -305,7 +781,7 @@
       ]
     },
     {
-      "id": "rss_moiuae_434613993",
+      "id": "rss_moiuae_878860630",
       "title": "RT by @moiuae: UAE President meets with Mohammed bin Rashid. During the meeting, at Al Marmoom in Dubai, Their Highnesses exchanged cordial conversations and prayed to God to continue to protect the U",
       "source": "Twitter - UAE Ministry of Interior",
       "source_url": "https://x.com/DXBMediaOffice/status/2031120288168161371",
@@ -348,7 +824,7 @@
       ]
     },
     {
-      "id": "rss_moiuae_545175656",
+      "id": "rss_moiuae_838324615",
       "title": "تغيير صوت تنبيهات المنظومة الوطنية للإنذار المبكر ، مع استمرارية عملها بكامل كفاءتها لضمان تنبيه الجمهور. National Early Warning System Sound alerts will be changed; the system will remain fully opera",
       "source": "Twitter - UAE Ministry of Interior",
       "source_url": "https://x.com/moiuae/status/2031118790088626604",
@@ -383,7 +859,7 @@
       ]
     },
     {
-      "id": "rss_kunaen_689903508",
+      "id": "rss_kunaen_180771328",
       "title": "The #Kuwaiti Armed Forces say that they repelled a wave of hostile objects that have penetrated the country @KuwaitArmyGHQ  #KUNA",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2031116603836817807",
@@ -418,7 +894,7 @@
       ]
     },
     {
-      "id": "rss_kunaen_713581647",
+      "id": "rss_kunaen_371489170",
       "title": "The Kingdom of #Saudi Arabia expresses its deepest condolences and sincere sympathies to the governments and peoples of #Kuwait and the #UAE, following the martyrdom of a number of members of their ar",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2031116288492265517",
@@ -453,7 +929,7 @@
       ]
     },
     {
-      "id": "rss_kunaen_137341767",
+      "id": "rss_kunaen_112889129",
       "title": "#Kuwaiti air defenses are now intercepting missile attacks and hostile drones, said Spokesman of the Ministry of Defense Col. Saud Al-Atwan @kuwaitarmyghq  #KUNA",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2031109042056134900",
@@ -488,112 +964,7 @@
       ]
     },
     {
-      "id": "rss_kunaen_609276576",
-      "title": "#Turkish Foreign Ministry summons #Iran's Ambassador Mohammad Habibollahzadeh to express the country's protest over a ballistic missile fired from Iran that entered Turkish airspace before it was inte",
-      "source": "Twitter - Kuwait News Agency",
-      "source_url": "https://x.com/kuna_en/status/2031108577121698042",
-      "published": "2026-03-09T20:43:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "name": "Unknown",
-        "country": "Kuwait"
-      },
-      "credibility": 95,
-      "is_government": true,
-      "source_key": "kuna",
-      "verification": {
-        "confidence": 100,
-        "status": "Verified",
-        "source_count": 1,
-        "government_sources": 0,
-        "news_sources": 1,
-        "sources": [
-          "kuna"
-        ]
-      },
-      "source_variants": [
-        {
-          "source": "Twitter - Kuwait News Agency",
-          "title": "#Turkish Foreign Ministry summons #Iran's Ambassador Mohammad Habibollahzadeh to express the country's protest over a ballistic missile fired from Iran that entered Turkish airspace before it was inte",
-          "published": "2026-03-09T20:43:00+00:00",
-          "url": "https://x.com/kuna_en/status/2031108577121698042",
-          "source_key": "kuna"
-        }
-      ]
-    },
-    {
-      "id": "rss_kunaen_970468448",
-      "title": "Sirens heard across the country #KUNA",
-      "source": "Twitter - Kuwait News Agency",
-      "source_url": "https://x.com/kuna_en/status/2031104171949126066",
-      "published": "2026-03-09T20:25:00+00:00",
-      "type": "alert",
-      "status": "confirmed",
-      "location": {
-        "name": "Unknown",
-        "country": "Kuwait"
-      },
-      "credibility": 95,
-      "is_government": true,
-      "source_key": "kuna",
-      "verification": {
-        "confidence": 100,
-        "status": "Verified",
-        "source_count": 1,
-        "government_sources": 0,
-        "news_sources": 1,
-        "sources": [
-          "kuna"
-        ]
-      },
-      "source_variants": [
-        {
-          "source": "Twitter - Kuwait News Agency",
-          "title": "Sirens heard across the country #KUNA",
-          "published": "2026-03-09T20:25:00+00:00",
-          "url": "https://x.com/kuna_en/status/2031104171949126066",
-          "source_key": "kuna"
-        }
-      ]
-    },
-    {
-      "id": "rss_kunaen_791104525",
-      "title": "#Kuwait's Minister of Defense Sheikh Abdullah Ali Abdullah Al-Salem Al-Sabah visits the families of martyrs Lt. Gen. Abdullah Emad Al-Sharrah and Major Fahad Abdulaziz Al-Majmad to offer sympathy with",
-      "source": "Twitter - Kuwait News Agency",
-      "source_url": "https://x.com/kuna_en/status/2031101112439259302",
-      "published": "2026-03-09T20:13:00+00:00",
-      "type": "security",
-      "status": "confirmed",
-      "location": {
-        "name": "Unknown",
-        "country": "Kuwait"
-      },
-      "credibility": 95,
-      "is_government": true,
-      "source_key": "kuna",
-      "verification": {
-        "confidence": 100,
-        "status": "Verified",
-        "source_count": 1,
-        "government_sources": 0,
-        "news_sources": 1,
-        "sources": [
-          "kuna"
-        ]
-      },
-      "source_variants": [
-        {
-          "source": "Twitter - Kuwait News Agency",
-          "title": "#Kuwait's Minister of Defense Sheikh Abdullah Ali Abdullah Al-Salem Al-Sabah visits the families of martyrs Lt. Gen. Abdullah Emad Al-Sharrah and Major Fahad Abdulaziz Al-Majmad to offer sympathy with",
-          "published": "2026-03-09T20:13:00+00:00",
-          "url": "https://x.com/kuna_en/status/2031101112439259302",
-          "source_key": "kuna"
-        }
-      ]
-    },
-    {
-      "id": "rss_ncemauae_633364410",
+      "id": "rss_ncemauae_354690807",
       "title": "National Early Warning System Sound alerts will be changed; the system will remain fully operational to ensure public security alerts. pic.",
       "source": "Twitter - UAE National Emergency",
       "source_url": "https://x.com/NCEMAUAE/status/2031095211955466392",
@@ -628,7 +999,7 @@
       ]
     },
     {
-      "id": "rss_saudidcd_205044775",
+      "id": "rss_saudidcd_110024858",
       "title": "Know the safety instructions to follow when you hear the all-clear siren. #CivilDefense #SafetyIsPrevention",
       "source": "Twitter - Saudi Civil Defense",
       "source_url": "https://x.com/SaudiDCD/status/2031083209031647355",
@@ -663,7 +1034,7 @@
       ]
     },
     {
-      "id": "rss_saudidcd_219176880",
+      "id": "rss_saudidcd_957532467",
       "title": "Know the safety instructions to follow if you hear a warning siren indicating an active threat while indoors. #CivilDefense #SafetyIsPrevention",
       "source": "Twitter - Saudi Civil Defense",
       "source_url": "https://x.com/SaudiDCD/status/2031082898002977050",
@@ -698,7 +1069,7 @@
       ]
     },
     {
-      "id": "rss_saudidcd_412542014",
+      "id": "rss_saudidcd_605223815",
       "title": "Know the warning siren tones and what they mean during emergencies. #CivilDefense #SafetyIsPrevention",
       "source": "Twitter - Saudi Civil Defense",
       "source_url": "https://x.com/SaudiDCD/status/2031082662157263221",
@@ -733,7 +1104,118 @@
       ]
     },
     {
-      "id": "rss_moibahrain_956847803",
+      "id": "newsdata_68d8ded917c1d9b35c1409a3bcc88021",
+      "title": "Anthropic sues Trump administration to undo US ‘supply chain risk’ tag",
+      "source": "NewsData.io - Turks",
+      "source_url": "https://turks.us/anthropic-sues-trump-administration-to-undo-us-supply-chain-risk-tag/",
+      "published": "2026-03-09T18:44:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata",
+      "verification": {
+        "confidence": 80,
+        "status": "Likely True",
+        "source_count": 1,
+        "government_sources": 0,
+        "news_sources": 0,
+        "sources": [
+          "newsdata"
+        ]
+      },
+      "source_variants": [
+        {
+          "source": "NewsData.io - Turks",
+          "title": "Anthropic sues Trump administration to undo US ‘supply chain risk’ tag",
+          "published": "2026-03-09T18:44:00+00:00",
+          "url": "https://turks.us/anthropic-sues-trump-administration-to-undo-us-supply-chain-risk-tag/",
+          "source_key": "newsdata"
+        }
+      ]
+    },
+    {
+      "id": "newsdata_471e3eb472ad57e4b56e809cf992c659",
+      "title": "Drone intercepted, destroyed in past 24 hours: Kuwaiti Defense Ministry",
+      "source": "NewsData.io - The Peninsula Qatar",
+      "source_url": "https://thepeninsulaqatar.com/article/09/03/2026/drone-intercepted-destroyed-in-past-24-hourskuwaiti-defense-ministry",
+      "published": "2026-03-09T18:09:32+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata",
+      "verification": {
+        "confidence": 80,
+        "status": "Likely True",
+        "source_count": 1,
+        "government_sources": 0,
+        "news_sources": 0,
+        "sources": [
+          "newsdata"
+        ]
+      },
+      "source_variants": [
+        {
+          "source": "NewsData.io - The Peninsula Qatar",
+          "title": "Drone intercepted, destroyed in past 24 hours: Kuwaiti Defense Ministry",
+          "published": "2026-03-09T18:09:32+00:00",
+          "url": "https://thepeninsulaqatar.com/article/09/03/2026/drone-intercepted-destroyed-in-past-24-hourskuwaiti-defense-ministry",
+          "source_key": "newsdata"
+        }
+      ]
+    },
+    {
+      "id": "newsdata_c055e3b778c651bcf11eda44aaa3ec83",
+      "title": "France condemns 'in strongest possible terms' firing of ballistic missile from Iran toward Türkiye",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/europe/france-condemns-in-strongest-possible-terms-firing-of-ballistic-missile-from-iran-toward-turkiye/3856994",
+      "published": "2026-03-09T17:47:59+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata",
+      "verification": {
+        "confidence": 80,
+        "status": "Likely True",
+        "source_count": 1,
+        "government_sources": 0,
+        "news_sources": 0,
+        "sources": [
+          "newsdata"
+        ]
+      },
+      "source_variants": [
+        {
+          "source": "NewsData.io - Anadolu Agency",
+          "title": "France condemns 'in strongest possible terms' firing of ballistic missile from Iran toward Türkiye",
+          "published": "2026-03-09T17:47:59+00:00",
+          "url": "https://www.aa.com.tr/en/europe/france-condemns-in-strongest-possible-terms-firing-of-ballistic-missile-from-iran-toward-turkiye/3856994",
+          "source_key": "newsdata"
+        }
+      ]
+    },
+    {
+      "id": "rss_moibahrain_576997878",
       "title": "The Media briefing by the National Communication Centre on the latest developments in light of Iran's wrongful attacks. ...",
       "source": "Twitter - Bahrain Ministry of Interior",
       "source_url": "https://www.instagram.com/p/DVrAuEwiLIC",
@@ -768,7 +1250,81 @@
       ]
     },
     {
-      "id": "rss_mdais_632470221",
+      "id": "newsdata_06d383a5e697e9f5385c284af7d9758b",
+      "title": "Turkiye shoots down Iranian ballistic missile crossing its airspace",
+      "source": "NewsData.io - The Peninsula Qatar",
+      "source_url": "https://thepeninsulaqatar.com/article/09/03/2026/turkiye-shoots-down-iranian-ballistic-missile-crossing-its-airspace",
+      "published": "2026-03-09T16:17:48+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata",
+      "verification": {
+        "confidence": 80,
+        "status": "Likely True",
+        "source_count": 1,
+        "government_sources": 0,
+        "news_sources": 0,
+        "sources": [
+          "newsdata"
+        ]
+      },
+      "source_variants": [
+        {
+          "source": "NewsData.io - The Peninsula Qatar",
+          "title": "Turkiye shoots down Iranian ballistic missile crossing its airspace",
+          "published": "2026-03-09T16:17:48+00:00",
+          "url": "https://thepeninsulaqatar.com/article/09/03/2026/turkiye-shoots-down-iranian-ballistic-missile-crossing-its-airspace",
+          "source_key": "newsdata"
+        }
+      ]
+    },
+    {
+      "id": "newsdata_c8a0159e8ee18d1c8848dc349b685671",
+      "title": "UAE ‘strongly condemns’ ballistic missile fired from Iran toward Türkiye",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/uae-strongly-condemns-ballistic-missile-fired-from-iran-toward-turkiye/3856651",
+      "published": "2026-03-09T15:16:02+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata",
+      "verification": {
+        "confidence": 80,
+        "status": "Likely True",
+        "source_count": 1,
+        "government_sources": 0,
+        "news_sources": 0,
+        "sources": [
+          "newsdata"
+        ]
+      },
+      "source_variants": [
+        {
+          "source": "NewsData.io - Anadolu Agency",
+          "title": "UAE ‘strongly condemns’ ballistic missile fired from Iran toward Türkiye",
+          "published": "2026-03-09T15:16:02+00:00",
+          "url": "https://www.aa.com.tr/en/middle-east/uae-strongly-condemns-ballistic-missile-fired-from-iran-toward-turkiye/3856651",
+          "source_key": "newsdata"
+        }
+      ]
+    },
+    {
+      "id": "rss_mdais_750093214",
       "title": "MDA Spokesperson: Following the missile fire toward the State of Israel: At this stage, no reports of casualties or missile impacts have been received. MDA teams are treating a few people who were inj",
       "source": "Twitter - Magen David Adom",
       "source_url": "https://x.com/Mdais/status/2031024714039038309",
@@ -803,37 +1359,76 @@
       ]
     },
     {
-      "id": "rss_mehrnews_398786776",
-      "title": "🚨 #BREAKING The 61st session of the UN Human Rights Council in Geneva condemned a the US-Israeli attack on an elementary school in Minab, southern Iran, which resulted in the tragic deaths of over 160",
-      "source": "Twitter - Mehr News Agency",
-      "source_url": "https://x.com/MehrnewsCom/status/2031015434007253315",
-      "published": "2026-03-09T14:33:00+00:00",
-      "type": "attack",
-      "status": "confirmed",
+      "id": "newsdata_52124e25f7e56da1100e7208817020d7",
+      "title": "UAE says 2 soldiers killed in helicopter crash",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/uae-says-2-soldiers-killed-in-helicopter-crash/3856588",
+      "published": "2026-03-09T14:35:18+00:00",
+      "type": "security",
+      "status": "reported",
       "location": {
-        "name": "Unknown",
-        "country": "Iran"
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
       },
-      "credibility": 85,
-      "is_government": true,
-      "source_key": "mehr_news",
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata",
       "verification": {
-        "confidence": 85,
+        "confidence": 80,
         "status": "Likely True",
         "source_count": 1,
         "government_sources": 0,
         "news_sources": 0,
         "sources": [
-          "mehr_news"
+          "newsdata"
         ]
       },
       "source_variants": [
         {
-          "source": "Twitter - Mehr News Agency",
-          "title": "🚨 #BREAKING The 61st session of the UN Human Rights Council in Geneva condemned a the US-Israeli attack on an elementary school in Minab, southern Iran, which resulted in the tragic deaths of over 160",
-          "published": "2026-03-09T14:33:00+00:00",
-          "url": "https://x.com/MehrnewsCom/status/2031015434007253315",
-          "source_key": "mehr_news"
+          "source": "NewsData.io - Anadolu Agency",
+          "title": "UAE says 2 soldiers killed in helicopter crash",
+          "published": "2026-03-09T14:35:18+00:00",
+          "url": "https://www.aa.com.tr/en/middle-east/uae-says-2-soldiers-killed-in-helicopter-crash/3856588",
+          "source_key": "newsdata"
+        }
+      ]
+    },
+    {
+      "id": "newsdata_686ce03db3bb4f48507065038f6dbee3",
+      "title": "NATO reaffirms readiness 'to defend all allies' after neutralizing Iran-launched ballistic missile toward Türkiye",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/europe/nato-reaffirms-readiness-to-defend-all-allies-after-neutralizing-iran-launched-ballistic-missile-toward-turkiye/3856581",
+      "published": "2026-03-09T14:27:21+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata",
+      "verification": {
+        "confidence": 80,
+        "status": "Likely True",
+        "source_count": 1,
+        "government_sources": 0,
+        "news_sources": 0,
+        "sources": [
+          "newsdata"
+        ]
+      },
+      "source_variants": [
+        {
+          "source": "NewsData.io - Anadolu Agency",
+          "title": "NATO reaffirms readiness 'to defend all allies' after neutralizing Iran-launched ballistic missile toward Türkiye",
+          "published": "2026-03-09T14:27:21+00:00",
+          "url": "https://www.aa.com.tr/en/europe/nato-reaffirms-readiness-to-defend-all-allies-after-neutralizing-iran-launched-ballistic-missile-toward-turkiye/3856581",
+          "source_key": "newsdata"
         }
       ]
     },
@@ -875,7 +1470,7 @@
       ]
     },
     {
-      "id": "rss_moduae_48180493",
+      "id": "rss_moduae_258895401",
       "title": "الدفاعات الجوية الإماراتية تتصدى بنجاح للصواريخ الباليستية والجوالة والمسيرات الإيرانية. UAE Air Defences Successfully Intercept Iranian Ballistic and Cruise Missiles and UAVs Attacks#وزارة_الدفاع #وز",
       "source": "Twitter - UAE Ministry of Defence",
       "source_url": "https://x.com/modgovae/status/2030989828712759428",
@@ -917,7 +1512,7 @@
       ]
     },
     {
-      "id": "rss_wamnews_571633957",
+      "id": "rss_wamnews_889863601",
       "title": ". UAE air defences on Monday detected 15 ballistic missiles, of which 12 were destroyed, while three missiles fell into ...",
       "source": "Twitter - WAM News Agency",
       "source_url": "https://www.instagram.com/p/DVqfqR4CDDw",
@@ -989,7 +1584,7 @@
       ]
     },
     {
-      "id": "rss_modqatar_536531270",
+      "id": "rss_modqatar_734987683",
       "title": "تعلن وزارة الدفاع القطرية عن تصدي القوات المسلحة لهجمة صاروخية استهدفت دولة قطر. The Ministry of Defense of State of Qatar announces that armed forces intercepted missile attack which targeted State o",
       "source": "Twitter - Qatar Ministry of Defence",
       "source_url": "https://x.com/MOD_Qatar/status/2030982107544375302",
@@ -1131,111 +1726,6 @@
           "published": "2026-03-09T11:44:00+00:00",
           "url": "https://www.dailysabah.com/world/mid-east/probe-points-to-us-in-deadly-iranian-school-strike-that-killed-165",
           "source_key": "newsdata"
-        }
-      ]
-    },
-    {
-      "id": "rss_mehrnews_90239390",
-      "title": "People of Isfahan chant \"Allahu Akbar\" under Israeli-American bombardment",
-      "source": "Twitter - Mehr News Agency",
-      "source_url": "https://x.com/MehrnewsCom/status/2030968388047016380",
-      "published": "2026-03-09T11:26:00+00:00",
-      "type": "explosion",
-      "status": "confirmed",
-      "location": {
-        "name": "Unknown",
-        "country": "Iran"
-      },
-      "credibility": 85,
-      "is_government": true,
-      "source_key": "mehr_news",
-      "verification": {
-        "confidence": 85,
-        "status": "Likely True",
-        "source_count": 1,
-        "government_sources": 0,
-        "news_sources": 0,
-        "sources": [
-          "mehr_news"
-        ]
-      },
-      "source_variants": [
-        {
-          "source": "Twitter - Mehr News Agency",
-          "title": "People of Isfahan chant \"Allahu Akbar\" under Israeli-American bombardment",
-          "published": "2026-03-09T11:26:00+00:00",
-          "url": "https://x.com/MehrnewsCom/status/2030968388047016380",
-          "source_key": "mehr_news"
-        }
-      ]
-    },
-    {
-      "id": "rss_mehrnews_166248046",
-      "title": "He wanted to be a doctor one day but he was killed by Trump in Minab #MINABSCHOOL #MinabSchoolStrike",
-      "source": "Twitter - Mehr News Agency",
-      "source_url": "https://x.com/MehrnewsCom/status/2030959558940619136",
-      "published": "2026-03-09T10:51:00+00:00",
-      "type": "attack",
-      "status": "confirmed",
-      "location": {
-        "name": "Unknown",
-        "country": "Iran"
-      },
-      "credibility": 85,
-      "is_government": true,
-      "source_key": "mehr_news",
-      "verification": {
-        "confidence": 85,
-        "status": "Likely True",
-        "source_count": 1,
-        "government_sources": 0,
-        "news_sources": 0,
-        "sources": [
-          "mehr_news"
-        ]
-      },
-      "source_variants": [
-        {
-          "source": "Twitter - Mehr News Agency",
-          "title": "He wanted to be a doctor one day but he was killed by Trump in Minab #MINABSCHOOL #MinabSchoolStrike",
-          "published": "2026-03-09T10:51:00+00:00",
-          "url": "https://x.com/MehrnewsCom/status/2030959558940619136",
-          "source_key": "mehr_news"
-        }
-      ]
-    },
-    {
-      "id": "rss_mehrnews_947696847",
-      "title": "168 elementary school students from #Minab school killed by Trump #MINABSCHOOL #minabmassacre",
-      "source": "Twitter - Mehr News Agency",
-      "source_url": "https://x.com/MehrnewsCom/status/2030958968185479381",
-      "published": "2026-03-09T10:48:00+00:00",
-      "type": "security",
-      "status": "confirmed",
-      "location": {
-        "name": "Unknown",
-        "country": "Iran"
-      },
-      "credibility": 85,
-      "is_government": true,
-      "source_key": "mehr_news",
-      "verification": {
-        "confidence": 85,
-        "status": "Likely True",
-        "source_count": 1,
-        "government_sources": 0,
-        "news_sources": 0,
-        "sources": [
-          "mehr_news"
-        ]
-      },
-      "source_variants": [
-        {
-          "source": "Twitter - Mehr News Agency",
-          "title": "168 elementary school students from #Minab school killed by Trump #MINABSCHOOL #minabmassacre",
-          "published": "2026-03-09T10:48:00+00:00",
-          "url": "https://x.com/MehrnewsCom/status/2030958968185479381",
-          "source_key": "mehr_news"
         }
       ]
     },
@@ -1425,115 +1915,6 @@
       ]
     },
     {
-      "id": "newsdata_ad55fb2fcd4766afe1a589a078cea45a",
-      "title": "HRW finds proof Israel used banned white phosphorus in S. Lebanon",
-      "source": "NewsData.io - Daily Sabah",
-      "source_url": "https://www.dailysabah.com/world/mid-east/hrw-finds-proof-israel-used-banned-white-phosphorus-in-s-lebanon",
-      "published": "2026-03-09T09:34:00+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata",
-      "verification": {
-        "confidence": 80,
-        "status": "Likely True",
-        "source_count": 1,
-        "government_sources": 0,
-        "news_sources": 0,
-        "sources": [
-          "newsdata"
-        ]
-      },
-      "source_variants": [
-        {
-          "source": "NewsData.io - Daily Sabah",
-          "title": "HRW finds proof Israel used banned white phosphorus in S. Lebanon",
-          "published": "2026-03-09T09:34:00+00:00",
-          "url": "https://www.dailysabah.com/world/mid-east/hrw-finds-proof-israel-used-banned-white-phosphorus-in-s-lebanon",
-          "source_key": "newsdata"
-        }
-      ]
-    },
-    {
-      "id": "newsdata_9ba461c1cece18a7943aaf693e745d17",
-      "title": "Czech president warns reduced defense spending could harm credibility",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/europe/czech-president-warns-reduced-defense-spending-could-harm-credibility/3856055",
-      "published": "2026-03-09T09:10:35+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata",
-      "verification": {
-        "confidence": 80,
-        "status": "Likely True",
-        "source_count": 1,
-        "government_sources": 0,
-        "news_sources": 0,
-        "sources": [
-          "newsdata"
-        ]
-      },
-      "source_variants": [
-        {
-          "source": "NewsData.io - Anadolu Agency",
-          "title": "Czech president warns reduced defense spending could harm credibility",
-          "published": "2026-03-09T09:10:35+00:00",
-          "url": "https://www.aa.com.tr/en/europe/czech-president-warns-reduced-defense-spending-could-harm-credibility/3856055",
-          "source_key": "newsdata"
-        }
-      ]
-    },
-    {
-      "id": "rss_mehrnews_346663575",
-      "title": "🚨 #BREAKING Sirens go off in 196 regions of occupied Palestine",
-      "source": "Twitter - Mehr News Agency",
-      "source_url": "https://x.com/MehrnewsCom/status/2030932549950742633",
-      "published": "2026-03-09T09:03:00+00:00",
-      "type": "alert",
-      "status": "confirmed",
-      "location": {
-        "name": "Unknown",
-        "country": "Iran"
-      },
-      "credibility": 85,
-      "is_government": true,
-      "source_key": "mehr_news",
-      "verification": {
-        "confidence": 85,
-        "status": "Likely True",
-        "source_count": 1,
-        "government_sources": 0,
-        "news_sources": 0,
-        "sources": [
-          "mehr_news"
-        ]
-      },
-      "source_variants": [
-        {
-          "source": "Twitter - Mehr News Agency",
-          "title": "🚨 #BREAKING Sirens go off in 196 regions of occupied Palestine",
-          "published": "2026-03-09T09:03:00+00:00",
-          "url": "https://x.com/MehrnewsCom/status/2030932549950742633",
-          "source_key": "mehr_news"
-        }
-      ]
-    },
-    {
       "id": "newsdata_5f6d1fcad726b185a307a2b4868f3d24",
       "title": "New video suggests US responsible for deadly strike on Iranian elementary school",
       "source": "NewsData.io - Khaleej Times",
@@ -1571,42 +1952,7 @@
       ]
     },
     {
-      "id": "rss_mehrnews_570261924",
-      "title": "🚨#BREAKING Sirens go off in Haifa",
-      "source": "Twitter - Mehr News Agency",
-      "source_url": "https://x.com/MehrnewsCom/status/2030928153460289576",
-      "published": "2026-03-09T08:46:00+00:00",
-      "type": "alert",
-      "status": "confirmed",
-      "location": {
-        "name": "Unknown",
-        "country": "Iran"
-      },
-      "credibility": 85,
-      "is_government": true,
-      "source_key": "mehr_news",
-      "verification": {
-        "confidence": 85,
-        "status": "Likely True",
-        "source_count": 1,
-        "government_sources": 0,
-        "news_sources": 0,
-        "sources": [
-          "mehr_news"
-        ]
-      },
-      "source_variants": [
-        {
-          "source": "Twitter - Mehr News Agency",
-          "title": "🚨#BREAKING Sirens go off in Haifa",
-          "published": "2026-03-09T08:46:00+00:00",
-          "url": "https://x.com/MehrnewsCom/status/2030928153460289576",
-          "source_key": "mehr_news"
-        }
-      ]
-    },
-    {
-      "id": "rss_mdais_646975940",
+      "id": "rss_mdais_74928215",
       "title": "MDA Spokesperson: Following the sirens, in Arad MDA EMTs and paramedics treated and evacuated a 78-year-old man in moderate condition with a head injury to Soroka Medical Center after he was injured o",
       "source": "Twitter - Magen David Adom",
       "source_url": "https://x.com/Mdais/status/2030927572473647547",
@@ -1636,41 +1982,6 @@
           "title": "MDA Spokesperson: Following the sirens, in Arad MDA EMTs and paramedics treated and evacuated a 78-year-old man in moderate condition with a head injury to Soroka Medical Center after he was injured o",
           "published": "2026-03-09T08:44:00+00:00",
           "url": "https://x.com/Mdais/status/2030927572473647547",
-          "source_key": "magen_david_adom"
-        }
-      ]
-    },
-    {
-      "id": "rss_mdais_623243985",
-      "title": "Following the missile fire toward the State of Israel: At this stage, no casualties have been reported. MDA teams are treating several cases of people who were injured while on their way to a shelter,",
-      "source": "Twitter - Magen David Adom",
-      "source_url": "https://x.com/Mdais/status/2030924871895511305",
-      "published": "2026-03-09T08:33:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "name": "Unknown",
-        "country": "Israel"
-      },
-      "credibility": 95,
-      "is_government": true,
-      "source_key": "magen_david_adom",
-      "verification": {
-        "confidence": 100,
-        "status": "Verified",
-        "source_count": 1,
-        "government_sources": 1,
-        "news_sources": 0,
-        "sources": [
-          "magen_david_adom"
-        ]
-      },
-      "source_variants": [
-        {
-          "source": "Twitter - Magen David Adom",
-          "title": "Following the missile fire toward the State of Israel: At this stage, no casualties have been reported. MDA teams are treating several cases of people who were injured while on their way to a shelter,",
-          "published": "2026-03-09T08:33:00+00:00",
-          "url": "https://x.com/Mdais/status/2030924871895511305",
           "source_key": "magen_david_adom"
         }
       ]
@@ -1713,7 +2024,7 @@
       ]
     },
     {
-      "id": "rss_civildefencead_276643832",
+      "id": "rss_civildefencead_960211508",
       "title": "RT by @CivilDefenceAD: Abu Dhabi authorities have responded to two incidents of debris falling in two locations, following successful interception by air defence systems. The first incident resulted i",
       "source": "Twitter - Abu Dhabi Civil Defence",
       "source_url": "https://x.com/ADMediaOffice/status/2030912231052132835",
@@ -1744,80 +2055,6 @@
           "published": "2026-03-09T07:43:00+00:00",
           "url": "https://x.com/ADMediaOffice/status/2030912231052132835",
           "source_key": "civil_defence"
-        }
-      ]
-    },
-    {
-      "id": "newsdata_545900ec5db27a9cba77255786a1d2fb",
-      "title": "Who's Iran's new Supreme Leader Mojtaba Khamenei?",
-      "source": "NewsData.io - Daily Sabah",
-      "source_url": "https://www.dailysabah.com/world/mid-east/whos-irans-new-supreme-leader-mojtaba-khamenei",
-      "published": "2026-03-09T07:02:53+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata",
-      "verification": {
-        "confidence": 80,
-        "status": "Likely True",
-        "source_count": 1,
-        "government_sources": 0,
-        "news_sources": 0,
-        "sources": [
-          "newsdata"
-        ]
-      },
-      "source_variants": [
-        {
-          "source": "NewsData.io - Daily Sabah",
-          "title": "Who's Iran's new Supreme Leader Mojtaba Khamenei?",
-          "published": "2026-03-09T07:02:53+00:00",
-          "url": "https://www.dailysabah.com/world/mid-east/whos-irans-new-supreme-leader-mojtaba-khamenei",
-          "source_key": "newsdata"
-        }
-      ]
-    },
-    {
-      "id": "newsdata_c923f133f73c6c12d305bd0e833e2e94",
-      "title": "US, South Korea launch key springtime military drill",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/asia-pacific/us-south-korea-launch-key-springtime-military-drill/3855765",
-      "published": "2026-03-09T05:27:41+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata",
-      "verification": {
-        "confidence": 80,
-        "status": "Likely True",
-        "source_count": 1,
-        "government_sources": 0,
-        "news_sources": 0,
-        "sources": [
-          "newsdata"
-        ]
-      },
-      "source_variants": [
-        {
-          "source": "NewsData.io - Anadolu Agency",
-          "title": "US, South Korea launch key springtime military drill",
-          "published": "2026-03-09T05:27:41+00:00",
-          "url": "https://www.aa.com.tr/en/asia-pacific/us-south-korea-launch-key-springtime-military-drill/3855765",
-          "source_key": "newsdata"
         }
       ]
     },
@@ -1896,44 +2133,7 @@
       ]
     },
     {
-      "id": "newsdata_5c5550fc51f6d22fc74d8f5154cfc84b",
-      "title": "Morning Briefing: March 9, 2026",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/world/morning-briefing-march-9-2026/3855752",
-      "published": "2026-03-09T04:41:26+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata",
-      "verification": {
-        "confidence": 80,
-        "status": "Likely True",
-        "source_count": 1,
-        "government_sources": 0,
-        "news_sources": 0,
-        "sources": [
-          "newsdata"
-        ]
-      },
-      "source_variants": [
-        {
-          "source": "NewsData.io - Anadolu Agency",
-          "title": "Morning Briefing: March 9, 2026",
-          "published": "2026-03-09T04:41:26+00:00",
-          "url": "https://www.aa.com.tr/en/world/morning-briefing-march-9-2026/3855752",
-          "source_key": "newsdata"
-        }
-      ]
-    },
-    {
-      "id": "rss_saudidcd_548041350",
+      "id": "rss_saudidcd_229473986",
       "title": "Learn about the National Early Warning Platform for Emergency Situations and the instructions and guidelines to follow when receiving warning messages before and after an incident. #Civil_Defense #Pre",
       "source": "Twitter - Saudi Civil Defense",
       "source_url": "https://x.com/SaudiDCD/status/2030860838584648033",
@@ -1968,7 +2168,7 @@
       ]
     },
     {
-      "id": "rss_ncemauae_690894102",
+      "id": "rss_ncemauae_481227437",
       "title": "Air defense systems are currently responding to a missile threat. Please remain in a safe location and follow official channels for warnings and updates. pic.",
       "source": "Twitter - UAE National Emergency",
       "source_url": "https://x.com/NCEMAUAE/status/2030844690309030208",
@@ -2003,7 +2203,7 @@
       ]
     },
     {
-      "id": "rss_mdais_861156770",
+      "id": "rss_mdais_980031716",
       "title": "Images from missile strike in Central Israel",
       "source": "Twitter - Magen David Adom",
       "source_url": "https://x.com/Mdais/status/2030797308019749143",
@@ -2186,7 +2386,7 @@
       ]
     },
     {
-      "id": "rss_dxbmediaoffice_961282139",
+      "id": "rss_dxbmediaoffice_309715828",
       "title": "The UAE President visited the Ministry of Defence to follow up on recent developments and review the latest defence and military updates, including efforts to strengthen operational readiness and prep",
       "source": "Twitter - Dubai Media Office",
       "source_url": "https://x.com/DXBMediaOffice/status/2030739832868385250",
@@ -2258,7 +2458,7 @@
       ]
     },
     {
-      "id": "rss_moduae_932830779",
+      "id": "rss_moduae_217181299",
       "title": "His Excellency Mohamed bin Mubarak bin Fadhel Al Mazrouei, Minister of State for Defence Affairs, held discussions with the defence ministers of a number of countries, focusing on developments in the ",
       "source": "Twitter - UAE Ministry of Defence",
       "source_url": "https://x.com/modgovae/status/2030675665830474049",
@@ -2293,7 +2493,7 @@
       ]
     },
     {
-      "id": "rss_moduae_191128523",
+      "id": "rss_moduae_65877811",
       "title": "لقطات تظهر اعتراض وتدمير الدفاعات الجوية الإماراتية طائرات مسيّرة إيرانية حاولت استهداف الدولة. لا تهاون بأمن الوطن وسيادته... والقوات المسلحة الإماراتية جاهزة لردع أي تهديد. Footage showing the UAE’s",
       "source": "Twitter - UAE Ministry of Defence",
       "source_url": "https://x.com/modgovae/status/2030664175811199400",
@@ -2328,7 +2528,7 @@
       ]
     },
     {
-      "id": "rss_mdais_540952672",
+      "id": "rss_mdais_437668589",
       "title": "MDA Spokesperson: Following the recent missile barrage fired toward Israel: At this time there are no known casualties. MDA teams are treating a number of cases injured while seeking shelter. Updates ",
       "source": "Twitter - Magen David Adom",
       "source_url": "https://x.com/Mdais/status/2030659644306145367",
