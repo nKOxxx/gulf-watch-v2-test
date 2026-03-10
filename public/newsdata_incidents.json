@@ -1,7 +1,97 @@
 {
-  "generated_at": "2026-03-10T06:53:58.904337+00:00",
-  "total_incidents": 29,
+  "generated_at": "2026-03-10T13:05:39.442823+00:00",
+  "total_incidents": 32,
   "incidents": [
+    {
+      "id": "newsdata_c458e8db8deff438cd27ce0c21c43748",
+      "title": "Iraq’s Kurdish Regional Government says 3 drones downed in Erbil",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/iraq-s-kurdish-regional-government-says-3-drones-downed-in-erbil/3857407",
+      "published": "2026-03-10T00:24:53+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_e73d4a5564a2d3911b65f30a8607b194",
+      "title": "Bahrain says it intercepted 102 Iranian missiles, 173 drones",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/bahrain-says-it-intercepted-102-iranian-missiles-173-drones/3857403",
+      "published": "2026-03-10T00:04:05+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_ba93d37af2744efd5b7401fa9e4a6ac3",
+      "title": "Italy expresses solidarity with Türkiye after missile fired from Iran",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/europe/italy-expresses-solidarity-with-turkiye-after-missile-fired-from-iran/3857199",
+      "published": "2026-03-09T20:33:00+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_bbb72cef97176b4177a6d20a9e6efaad",
+      "title": "Saudi Arabia intercepts 12 drones targeting Shaybah oilfield",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/saudi-arabia-intercepts-12-drones-targeting-shaybah-oilfield/3857175",
+      "published": "2026-03-09T20:13:39+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_69f0d993f4af9903b33aa281009680e3",
+      "title": "Saudi Arabia intercepts 3 drones targeting Shaybah oilfield",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/saudi-arabia-intercepts-3-drones-targeting-shaybah-oilfield/3857175",
+      "published": "2026-03-09T20:13:39+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
     {
       "id": "newsdata_68d8ded917c1d9b35c1409a3bcc88021",
       "title": "Anthropic sues Trump administration to undo US ‘supply chain risk’ tag",
@@ -15,6 +105,24 @@
         "country": "Turkey",
         "lat": 38.9637,
         "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_69d8420cf4de2999a9908b7e73476000",
+      "title": "NATO intercepts 2nd Iran missile in Turkish airspace: Ankara",
+      "source": "NewsData.io - Kuwait Times",
+      "source_url": "https://kuwaittimes.com/article/40877/world/europe/nato-intercepts-2nd-iran-missile-in-turkish-airspace-ankara/",
+      "published": "2026-03-09T18:10:00+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Kuwait",
+        "country": "Kuwait",
+        "lat": 29.3759,
+        "lng": 47.9774
       },
       "credibility": 70,
       "is_government": false,
@@ -39,6 +147,24 @@
       "source_key": "newsdata"
     },
     {
+      "id": "newsdata_ff8b79972497f7ff3bb4aacb7e1c427c",
+      "title": "Iran targets Gulf energy installations",
+      "source": "NewsData.io - Kuwait Times",
+      "source_url": "https://kuwaittimes.com/article/40876/world/middle-east/iran-targets-gulf-energy-installations/",
+      "published": "2026-03-09T18:08:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Kuwait",
+        "country": "Kuwait",
+        "lat": 29.3759,
+        "lng": 47.9774
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
       "id": "newsdata_c055e3b778c651bcf11eda44aaa3ec83",
       "title": "France condemns 'in strongest possible terms' firing of ballistic missile from Iran toward Türkiye",
       "source": "NewsData.io - Anadolu Agency",
@@ -51,6 +177,24 @@
         "country": "Turkey",
         "lat": 38.9637,
         "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_ed5d6225ccd10bdb51273c8ab5a7767d",
+      "title": "Thousands march for women’s rights and against Mideast war",
+      "source": "NewsData.io - Kuwait Times",
+      "source_url": "https://kuwaittimes.com/article/40870/world/middle-east/thousands-march-for-womens-rights-and-against-mideast-war/",
+      "published": "2026-03-09T17:47:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Kuwait",
+        "country": "Kuwait",
+        "lat": 29.3759,
+        "lng": 47.9774
       },
       "credibility": 70,
       "is_government": false,
@@ -117,96 +261,6 @@
       "source_url": "https://www.aa.com.tr/en/europe/nato-reaffirms-readiness-to-defend-all-allies-after-neutralizing-iran-launched-ballistic-missile-toward-turkiye/3856581",
       "published": "2026-03-09T14:27:21+00:00",
       "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_dd738914a119042cdae30fc4db626c48",
-      "title": "Russian hackers target WhatsApp, Signal accounts of Dutch officials, intelligence agencies report",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/europe/russian-hackers-target-whatsapp-signal-accounts-of-dutch-officials-intelligence-agencies-report/3856480",
-      "published": "2026-03-09T13:18:46+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_ab739fb9614341f92fff56ab33038e92",
-      "title": "Moscow claims capture of village in Donetsk, Ukraine reports reclaiming territory from Russia",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/asia-pacific/moscow-claims-capture-of-village-in-donetsk-ukraine-reports-reclaiming-territory-from-russia/3856383",
-      "published": "2026-03-09T12:34:36+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_2e1407d91344500fc7a1a3ceadcad30e",
-      "title": "No signs of letup in Iran war as Tehran names new supreme leader",
-      "source": "NewsData.io - Daily Sabah",
-      "source_url": "https://www.dailysabah.com/world/mid-east/no-signs-of-letup-in-iran-war-as-tehran-names-new-supreme-leader",
-      "published": "2026-03-09T12:17:00+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_0e9db9f826153f78fbde167c33a4f821",
-      "title": "Probe points at US for airstrike on Iranian school that killed 165",
-      "source": "NewsData.io - Daily Sabah",
-      "source_url": "https://www.dailysabah.com/world/mid-east/probe-points-at-us-for-airstrike-on-iranian-school-that-killed-165",
-      "published": "2026-03-09T11:44:00+00:00",
-      "type": "attack",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_04f539467b2b2c249d0173f887dde0f6",
-      "title": "Probe points to US in deadly Iranian school strike that killed 165",
-      "source": "NewsData.io - Daily Sabah",
-      "source_url": "https://www.dailysabah.com/world/mid-east/probe-points-to-us-in-deadly-iranian-school-strike-that-killed-165",
-      "published": "2026-03-09T11:44:00+00:00",
-      "type": "attack",
       "status": "reported",
       "location": {
         "name": "Turkey",
@@ -303,6 +357,24 @@
         "country": "Egypt",
         "lat": 30.0444,
         "lng": 31.2357
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_66e1e77b49435a95b9d4b96428aad592",
+      "title": "Bahrain intercepts 102 missiles and 171 drones since start of Iranian attacks",
+      "source": "NewsData.io - Kuwait Times",
+      "source_url": "https://kuwaittimes.com/article/40836/world/bahrain-intercepts-102-missiles-and-171-drones-since-start-of-iranian-attacks/",
+      "published": "2026-03-09T09:22:00+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Kuwait",
+        "country": "Kuwait",
+        "lat": 29.3759,
+        "lng": 47.9774
       },
       "credibility": 70,
       "is_government": false,
@@ -501,24 +573,6 @@
         "country": "UAE",
         "lat": 25.2048,
         "lng": 55.2708
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_88f5647d38ba3416c8351255371852a4",
-      "title": "Iranian strike hits facility near Salman Port in Bahrain capital",
-      "source": "NewsData.io - Saudi Gazette",
-      "source_url": "https://saudigazette.com.sa/article/659551/world/iranian-strike-hits-facility-near-salman-port-in-bahrain-capital",
-      "published": "2026-03-08T11:23:31+00:00",
-      "type": "attack",
-      "status": "reported",
-      "location": {
-        "name": "Saudi Arabia",
-        "country": "Saudi Arabia",
-        "lat": 24.7136,
-        "lng": 46.6753
       },
       "credibility": 70,
       "is_government": false,
