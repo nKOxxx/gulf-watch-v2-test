@@ -1,10 +1,55 @@
 {
-  "generated_at": "2026-03-10T04:54:27.372461+00:00",
-  "total_incidents": 45,
+  "generated_at": "2026-03-10T05:38:50.246231+00:00",
+  "total_incidents": 46,
   "source": "rss_app",
   "incidents": [
     {
-      "id": "rss_kunaen_812515434",
+      "id": "rss_mehrnews_952120517",
+      "title": "🚨 #BREAKING Israel launches large-scale attacks on southern Lebanon",
+      "source": "Twitter - Mehr News Agency",
+      "source_url": "https://x.com/MehrnewsCom/status/2031236765705441283",
+      "published": "2026-03-10T05:12:00+00:00",
+      "type": "attack",
+      "status": "confirmed",
+      "location": {
+        "name": "Unknown",
+        "country": "Iran"
+      },
+      "credibility": 85,
+      "is_government": true
+    },
+    {
+      "id": "rss_mehrnews_817232905",
+      "title": "Another Israeli Hermes drone downed in Iran's Borujerd",
+      "source": "Twitter - Mehr News Agency",
+      "source_url": "https://x.com/MehrnewsCom/status/2031231698839417062",
+      "published": "2026-03-10T04:52:00+00:00",
+      "type": "drone",
+      "status": "confirmed",
+      "location": {
+        "name": "Unknown",
+        "country": "Iran"
+      },
+      "credibility": 85,
+      "is_government": true
+    },
+    {
+      "id": "rss_mehrnews_5334826",
+      "title": "🚨 #BREAKING Sirens go off in Dubai",
+      "source": "Twitter - Mehr News Agency",
+      "source_url": "https://x.com/MehrnewsCom/status/2031230224923337183",
+      "published": "2026-03-10T04:46:00+00:00",
+      "type": "alert",
+      "status": "confirmed",
+      "location": {
+        "name": "Dubai",
+        "country": "UAE"
+      },
+      "credibility": 85,
+      "is_government": true
+    },
+    {
+      "id": "rss_kunaen_857113499",
       "title": "The Kuwait National Guard (KNG) successfully intercepted and downed six drones within its areas of responsibility in the northern and southern sectors of the country, the spokesperson announced Tuesda",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2031205953828208897",
@@ -19,7 +64,7 @@
       "is_government": true
     },
     {
-      "id": "rss_kunaen_595077785",
+      "id": "rss_kunaen_719110385",
       "title": "#Saudi Ministry of Defense announced that a ballistic missile was intercepted and destroyed over the Eastern Province  #KUNA",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2031163976675905760",
@@ -34,7 +79,7 @@
       "is_government": true
     },
     {
-      "id": "rss_kunaen_315855081",
+      "id": "rss_kunaen_4064255",
       "title": "Lebanon: 12 people were killed and 28 others injured following renewed Israeli occupation airstrikes  #KUNA",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2031142687189938568",
@@ -49,7 +94,7 @@
       "is_government": true
     },
     {
-      "id": "rss_wamnews_443014672",
+      "id": "rss_wamnews_685126260",
       "title": "The United Arab Emirates has strongly condemned and denounced the unprovoked terrorist drone attack that targeted the UA...",
       "source": "Twitter - WAM News Agency",
       "source_url": "https://www.instagram.com/p/DVrjAvNiN4c",
@@ -64,7 +109,7 @@
       "is_government": true
     },
     {
-      "id": "rss_kunaen_483747018",
+      "id": "rss_kunaen_690814306",
       "title": "#Bahrain's air defense systems have intercepted and destroyed 102 missiles and 173 drones targeting the Kingdom of Bahrain since the start of #Iranian terrorist attacks, says Bahrain's Defense Force's",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2031128277264351374",
@@ -79,7 +124,7 @@
       "is_government": true
     },
     {
-      "id": "rss_kunaen_735740331",
+      "id": "rss_kunaen_604488158",
       "title": "#Iranian President Masoud #Pezeshkian stresses his country's preparedness to reduce escalation in the region provided that the airspaces and territories of the neighboring counties are not used to att",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2031125729849602228",
@@ -94,7 +139,7 @@
       "is_government": true
     },
     {
-      "id": "rss_moiuae_140947166",
+      "id": "rss_moiuae_204313129",
       "title": "RT by @moiuae: UAE President and Mohammed bin Rashid also praised the role of the armed forces and the dedication of all military institutions, security services and relevant teams in defending the na",
       "source": "Twitter - UAE Ministry of Interior",
       "source_url": "https://x.com/DXBMediaOffice/status/2031120312813936703",
@@ -109,7 +154,7 @@
       "is_government": true
     },
     {
-      "id": "rss_moiuae_501692227",
+      "id": "rss_moiuae_547234000",
       "title": "RT by @moiuae: The meeting touched on the nationwide efforts being undertaken by the UAE’s military and civil institutions to safeguard the country’s security and stability and ensure the safety of it",
       "source": "Twitter - UAE Ministry of Interior",
       "source_url": "https://x.com/DXBMediaOffice/status/2031120300138705246",
@@ -124,7 +169,7 @@
       "is_government": true
     },
     {
-      "id": "rss_moiuae_434613993",
+      "id": "rss_moiuae_185922899",
       "title": "RT by @moiuae: UAE President meets with Mohammed bin Rashid. During the meeting, at Al Marmoom in Dubai, Their Highnesses exchanged cordial conversations and prayed to God to continue to protect the U",
       "source": "Twitter - UAE Ministry of Interior",
       "source_url": "https://x.com/DXBMediaOffice/status/2031120288168161371",
@@ -139,7 +184,7 @@
       "is_government": true
     },
     {
-      "id": "rss_dxbmediaoffice_974818519",
+      "id": "rss_dxbmediaoffice_745025175",
       "title": "UAE President and Mohammed bin Rashid also praised the role of the armed forces and the dedication of all military institutions, security services and relevant teams in defending the nation’s security",
       "source": "Twitter - Dubai Media Office",
       "source_url": "https://x.com/DXBMediaOffice/status/2031120312813936703",
@@ -154,7 +199,7 @@
       "is_government": true
     },
     {
-      "id": "rss_dxbmediaoffice_595425537",
+      "id": "rss_dxbmediaoffice_512901029",
       "title": "The meeting touched on the nationwide efforts being undertaken by the UAE’s military and civil institutions to safeguard the country’s security and stability and ensure the safety of its people amid t",
       "source": "Twitter - Dubai Media Office",
       "source_url": "https://x.com/DXBMediaOffice/status/2031120300138705246",
@@ -169,7 +214,7 @@
       "is_government": true
     },
     {
-      "id": "rss_dxbmediaoffice_429232818",
+      "id": "rss_dxbmediaoffice_163740815",
       "title": "UAE President meets with Mohammed bin Rashid. During the meeting, at Al Marmoom in Dubai, Their Highnesses exchanged cordial conversations and prayed to God to continue to protect the UAE and its peop",
       "source": "Twitter - Dubai Media Office",
       "source_url": "https://x.com/DXBMediaOffice/status/2031120288168161371",
@@ -184,7 +229,7 @@
       "is_government": true
     },
     {
-      "id": "rss_moiuae_545175656",
+      "id": "rss_moiuae_304276548",
       "title": "تغيير صوت تنبيهات المنظومة الوطنية للإنذار المبكر ، مع استمرارية عملها بكامل كفاءتها لضمان تنبيه الجمهور. National Early Warning System Sound alerts will be changed; the system will remain fully opera",
       "source": "Twitter - UAE Ministry of Interior",
       "source_url": "https://x.com/moiuae/status/2031118790088626604",
@@ -199,7 +244,7 @@
       "is_government": true
     },
     {
-      "id": "rss_kunaen_689903508",
+      "id": "rss_kunaen_49283507",
       "title": "The #Kuwaiti Armed Forces say that they repelled a wave of hostile objects that have penetrated the country @KuwaitArmyGHQ  #KUNA",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2031116603836817807",
@@ -214,7 +259,7 @@
       "is_government": true
     },
     {
-      "id": "rss_kunaen_713581647",
+      "id": "rss_kunaen_814225614",
       "title": "The Kingdom of #Saudi Arabia expresses its deepest condolences and sincere sympathies to the governments and peoples of #Kuwait and the #UAE, following the martyrdom of a number of members of their ar",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2031116288492265517",
@@ -229,7 +274,7 @@
       "is_government": true
     },
     {
-      "id": "rss_kunaen_137341767",
+      "id": "rss_kunaen_621804188",
       "title": "#Kuwaiti air defenses are now intercepting missile attacks and hostile drones, said Spokesman of the Ministry of Defense Col. Saud Al-Atwan @kuwaitarmyghq  #KUNA",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2031109042056134900",
@@ -244,7 +289,7 @@
       "is_government": true
     },
     {
-      "id": "rss_kunaen_609276576",
+      "id": "rss_kunaen_455683694",
       "title": "#Turkish Foreign Ministry summons #Iran's Ambassador Mohammad Habibollahzadeh to express the country's protest over a ballistic missile fired from Iran that entered Turkish airspace before it was inte",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2031108577121698042",
@@ -259,7 +304,7 @@
       "is_government": true
     },
     {
-      "id": "rss_kunaen_970468448",
+      "id": "rss_kunaen_774514016",
       "title": "Sirens heard across the country #KUNA",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2031104171949126066",
@@ -274,7 +319,7 @@
       "is_government": true
     },
     {
-      "id": "rss_kunaen_791104525",
+      "id": "rss_kunaen_145920650",
       "title": "#Kuwait's Minister of Defense Sheikh Abdullah Ali Abdullah Al-Salem Al-Sabah visits the families of martyrs Lt. Gen. Abdullah Emad Al-Sharrah and Major Fahad Abdulaziz Al-Majmad to offer sympathy with",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2031101112439259302",
@@ -289,7 +334,7 @@
       "is_government": true
     },
     {
-      "id": "rss_ncemauae_633364410",
+      "id": "rss_ncemauae_522827058",
       "title": "National Early Warning System Sound alerts will be changed; the system will remain fully operational to ensure public security alerts. pic.",
       "source": "Twitter - UAE National Emergency",
       "source_url": "https://x.com/NCEMAUAE/status/2031095211955466392",
@@ -304,7 +349,7 @@
       "is_government": true
     },
     {
-      "id": "rss_saudidcd_205044775",
+      "id": "rss_saudidcd_187482718",
       "title": "Know the safety instructions to follow when you hear the all-clear siren. #CivilDefense #SafetyIsPrevention",
       "source": "Twitter - Saudi Civil Defense",
       "source_url": "https://x.com/SaudiDCD/status/2031083209031647355",
@@ -319,7 +364,7 @@
       "is_government": true
     },
     {
-      "id": "rss_saudidcd_219176880",
+      "id": "rss_saudidcd_368519123",
       "title": "Know the safety instructions to follow if you hear a warning siren indicating an active threat while indoors. #CivilDefense #SafetyIsPrevention",
       "source": "Twitter - Saudi Civil Defense",
       "source_url": "https://x.com/SaudiDCD/status/2031082898002977050",
@@ -334,7 +379,7 @@
       "is_government": true
     },
     {
-      "id": "rss_saudidcd_412542014",
+      "id": "rss_saudidcd_287844603",
       "title": "Know the warning siren tones and what they mean during emergencies. #CivilDefense #SafetyIsPrevention",
       "source": "Twitter - Saudi Civil Defense",
       "source_url": "https://x.com/SaudiDCD/status/2031082662157263221",
@@ -349,7 +394,7 @@
       "is_government": true
     },
     {
-      "id": "rss_moibahrain_956847803",
+      "id": "rss_moibahrain_808194790",
       "title": "The Media briefing by the National Communication Centre on the latest developments in light of Iran's wrongful attacks. ...",
       "source": "Twitter - Bahrain Ministry of Interior",
       "source_url": "https://www.instagram.com/p/DVrAuEwiLIC",
@@ -364,7 +409,7 @@
       "is_government": true
     },
     {
-      "id": "rss_mdais_632470221",
+      "id": "rss_mdais_901902604",
       "title": "MDA Spokesperson: Following the missile fire toward the State of Israel: At this stage, no reports of casualties or missile impacts have been received. MDA teams are treating a few people who were inj",
       "source": "Twitter - Magen David Adom",
       "source_url": "https://x.com/Mdais/status/2031024714039038309",
@@ -379,7 +424,7 @@
       "is_government": true
     },
     {
-      "id": "rss_mehrnews_398786776",
+      "id": "rss_mehrnews_959348882",
       "title": "🚨 #BREAKING The 61st session of the UN Human Rights Council in Geneva condemned a the US-Israeli attack on an elementary school in Minab, southern Iran, which resulted in the tragic deaths of over 160",
       "source": "Twitter - Mehr News Agency",
       "source_url": "https://x.com/MehrnewsCom/status/2031015434007253315",
@@ -394,7 +439,7 @@
       "is_government": true
     },
     {
-      "id": "rss_moduae_48180493",
+      "id": "rss_moduae_533258326",
       "title": "الدفاعات الجوية الإماراتية تتصدى بنجاح للصواريخ الباليستية والجوالة والمسيرات الإيرانية. UAE Air Defences Successfully Intercept Iranian Ballistic and Cruise Missiles and UAVs Attacks#وزارة_الدفاع #وز",
       "source": "Twitter - UAE Ministry of Defence",
       "source_url": "https://x.com/modgovae/status/2030989828712759428",
@@ -409,7 +454,7 @@
       "is_government": true
     },
     {
-      "id": "rss_wamnews_571633957",
+      "id": "rss_wamnews_487394476",
       "title": ". UAE air defences on Monday detected 15 ballistic missiles, of which 12 were destroyed, while three missiles fell into ...",
       "source": "Twitter - WAM News Agency",
       "source_url": "https://www.instagram.com/p/DVqfqR4CDDw",
@@ -424,7 +469,7 @@
       "is_government": true
     },
     {
-      "id": "rss_modqatar_536531270",
+      "id": "rss_modqatar_88504928",
       "title": "تعلن وزارة الدفاع القطرية عن تصدي القوات المسلحة لهجمة صاروخية استهدفت دولة قطر. The Ministry of Defense of State of Qatar announces that armed forces intercepted missile attack which targeted State o",
       "source": "Twitter - Qatar Ministry of Defence",
       "source_url": "https://x.com/MOD_Qatar/status/2030982107544375302",
@@ -439,7 +484,7 @@
       "is_government": true
     },
     {
-      "id": "rss_moduae_927729487",
+      "id": "rss_moduae_829323269",
       "title": "UAE air defences intercept 12 ballistic missiles, 17 UAVs. UAE air defences on Monday detected 15 ballistic missiles, of which 12 were destroyed, while 3 missiles fell into the sea. A total of 18 UAVs",
       "source": "Twitter - UAE Ministry of Defence",
       "source_url": "https://x.com/modgovae/status/2030974755776635328",
@@ -454,7 +499,7 @@
       "is_government": true
     },
     {
-      "id": "rss_mehrnews_90239390",
+      "id": "rss_mehrnews_453822085",
       "title": "People of Isfahan chant \"Allahu Akbar\" under Israeli-American bombardment",
       "source": "Twitter - Mehr News Agency",
       "source_url": "https://x.com/MehrnewsCom/status/2030968388047016380",
@@ -469,7 +514,7 @@
       "is_government": true
     },
     {
-      "id": "rss_mehrnews_166248046",
+      "id": "rss_mehrnews_58303515",
       "title": "He wanted to be a doctor one day but he was killed by Trump in Minab #MINABSCHOOL #MinabSchoolStrike",
       "source": "Twitter - Mehr News Agency",
       "source_url": "https://x.com/MehrnewsCom/status/2030959558940619136",
@@ -484,7 +529,7 @@
       "is_government": true
     },
     {
-      "id": "rss_mehrnews_947696847",
+      "id": "rss_mehrnews_734875699",
       "title": "168 elementary school students from #Minab school killed by Trump #MINABSCHOOL #minabmassacre",
       "source": "Twitter - Mehr News Agency",
       "source_url": "https://x.com/MehrnewsCom/status/2030958968185479381",
@@ -499,37 +544,7 @@
       "is_government": true
     },
     {
-      "id": "rss_mehrnews_346663575",
-      "title": "🚨 #BREAKING Sirens go off in 196 regions of occupied Palestine",
-      "source": "Twitter - Mehr News Agency",
-      "source_url": "https://x.com/MehrnewsCom/status/2030932549950742633",
-      "published": "2026-03-09T09:03:00+00:00",
-      "type": "alert",
-      "status": "confirmed",
-      "location": {
-        "name": "Unknown",
-        "country": "Iran"
-      },
-      "credibility": 85,
-      "is_government": true
-    },
-    {
-      "id": "rss_mehrnews_570261924",
-      "title": "🚨#BREAKING Sirens go off in Haifa",
-      "source": "Twitter - Mehr News Agency",
-      "source_url": "https://x.com/MehrnewsCom/status/2030928153460289576",
-      "published": "2026-03-09T08:46:00+00:00",
-      "type": "alert",
-      "status": "confirmed",
-      "location": {
-        "name": "Unknown",
-        "country": "Iran"
-      },
-      "credibility": 85,
-      "is_government": true
-    },
-    {
-      "id": "rss_mdais_646975940",
+      "id": "rss_mdais_8091329",
       "title": "MDA Spokesperson: Following the sirens, in Arad MDA EMTs and paramedics treated and evacuated a 78-year-old man in moderate condition with a head injury to Soroka Medical Center after he was injured o",
       "source": "Twitter - Magen David Adom",
       "source_url": "https://x.com/Mdais/status/2030927572473647547",
@@ -544,7 +559,7 @@
       "is_government": true
     },
     {
-      "id": "rss_mdais_623243985",
+      "id": "rss_mdais_774912258",
       "title": "Following the missile fire toward the State of Israel: At this stage, no casualties have been reported. MDA teams are treating several cases of people who were injured while on their way to a shelter,",
       "source": "Twitter - Magen David Adom",
       "source_url": "https://x.com/Mdais/status/2030924871895511305",
@@ -559,7 +574,7 @@
       "is_government": true
     },
     {
-      "id": "rss_civildefencead_276643832",
+      "id": "rss_civildefencead_697664393",
       "title": "RT by @CivilDefenceAD: Abu Dhabi authorities have responded to two incidents of debris falling in two locations, following successful interception by air defence systems. The first incident resulted i",
       "source": "Twitter - Abu Dhabi Civil Defence",
       "source_url": "https://x.com/ADMediaOffice/status/2030912231052132835",
@@ -574,7 +589,7 @@
       "is_government": true
     },
     {
-      "id": "rss_saudidcd_548041350",
+      "id": "rss_saudidcd_450344439",
       "title": "Learn about the National Early Warning Platform for Emergency Situations and the instructions and guidelines to follow when receiving warning messages before and after an incident. #Civil_Defense #Pre",
       "source": "Twitter - Saudi Civil Defense",
       "source_url": "https://x.com/SaudiDCD/status/2030860838584648033",
@@ -589,7 +604,7 @@
       "is_government": true
     },
     {
-      "id": "rss_ncemauae_690894102",
+      "id": "rss_ncemauae_584083995",
       "title": "Air defense systems are currently responding to a missile threat. Please remain in a safe location and follow official channels for warnings and updates. pic.",
       "source": "Twitter - UAE National Emergency",
       "source_url": "https://x.com/NCEMAUAE/status/2030844690309030208",
@@ -604,7 +619,7 @@
       "is_government": true
     },
     {
-      "id": "rss_mdais_861156770",
+      "id": "rss_mdais_651169886",
       "title": "Images from missile strike in Central Israel",
       "source": "Twitter - Magen David Adom",
       "source_url": "https://x.com/Mdais/status/2030797308019749143",
@@ -619,7 +634,7 @@
       "is_government": true
     },
     {
-      "id": "rss_dxbmediaoffice_961282139",
+      "id": "rss_dxbmediaoffice_732249956",
       "title": "The UAE President visited the Ministry of Defence to follow up on recent developments and review the latest defence and military updates, including efforts to strengthen operational readiness and prep",
       "source": "Twitter - Dubai Media Office",
       "source_url": "https://x.com/DXBMediaOffice/status/2030739832868385250",
@@ -634,7 +649,7 @@
       "is_government": true
     },
     {
-      "id": "rss_moduae_932830779",
+      "id": "rss_moduae_506934817",
       "title": "His Excellency Mohamed bin Mubarak bin Fadhel Al Mazrouei, Minister of State for Defence Affairs, held discussions with the defence ministers of a number of countries, focusing on developments in the ",
       "source": "Twitter - UAE Ministry of Defence",
       "source_url": "https://x.com/modgovae/status/2030675665830474049",
@@ -649,7 +664,7 @@
       "is_government": true
     },
     {
-      "id": "rss_moduae_191128523",
+      "id": "rss_moduae_991219941",
       "title": "لقطات تظهر اعتراض وتدمير الدفاعات الجوية الإماراتية طائرات مسيّرة إيرانية حاولت استهداف الدولة. لا تهاون بأمن الوطن وسيادته... والقوات المسلحة الإماراتية جاهزة لردع أي تهديد. Footage showing the UAE’s",
       "source": "Twitter - UAE Ministry of Defence",
       "source_url": "https://x.com/modgovae/status/2030664175811199400",
@@ -664,7 +679,7 @@
       "is_government": true
     },
     {
-      "id": "rss_mdais_540952672",
+      "id": "rss_mdais_383514439",
       "title": "MDA Spokesperson: Following the recent missile barrage fired toward Israel: At this time there are no known casualties. MDA teams are treating a number of cases injured while seeking shelter. Updates ",
       "source": "Twitter - Magen David Adom",
       "source_url": "https://x.com/Mdais/status/2030659644306145367",
