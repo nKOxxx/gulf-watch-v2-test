@@ -1,7 +1,169 @@
 {
-  "generated_at": "2026-03-11T02:08:54.144869+00:00",
-  "total_incidents": 37,
+  "generated_at": "2026-03-11T06:57:03.852575+00:00",
+  "total_incidents": 35,
   "incidents": [
+    {
+      "id": "newsdata_f8792dab739fe7001358bfeb8fd59e0b",
+      "title": "Qatar says it intercepted 5 Iranian ballistic missiles",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/qatar-says-it-intercepted-5-iranian-ballistic-missiles/3858574",
+      "published": "2026-03-10T17:45:55+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_d40618136bb5881fb82e652eefff7b8a",
+      "title": "Poland plans to develop advanced anti-drone shield after alleged Russian airspace violations",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/europe/poland-plans-to-develop-advanced-anti-drone-shield-after-alleged-russian-airspace-violations/3858516",
+      "published": "2026-03-10T17:07:33+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_51f8afed05bcc2921b2023138cdb2a97",
+      "title": "Syria appoints assistant defense minister for eastern region",
+      "source": "NewsData.io - Daily Sabah",
+      "source_url": "https://www.dailysabah.com/world/mid-east/syria-appoints-assistant-defense-minister-for-eastern-region",
+      "published": "2026-03-10T15:13:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_2d08c6c3a45f3a04c40eee07befe1443",
+      "title": "China defense chief Dong tells military to shape ‘internal, external stability’",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/asia-pacific/china-defense-chief-dong-tells-military-to-shape-internal-external-stability-/3858345",
+      "published": "2026-03-10T15:08:48+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_fe2ead14d93f2684ac91428bbb27c451",
+      "title": "UAE says 26 drones intercepted, 8 ballistic missiles destroyed in latest Iranian attacks",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/uae-says-26-drones-intercepted-8-ballistic-missiles-destroyed-in-latest-iranian-attacks/3858341",
+      "published": "2026-03-10T15:06:00+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_083d0707724e2548cb67ec7d21379771",
+      "title": "Syria appoints assistant defense minister for eastern region",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/syria-appoints-assistant-defense-minister-for-eastern-region/3858327",
+      "published": "2026-03-10T14:51:55+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_b537ca42d87336a0038c404150ec1be7",
+      "title": "NATO continues to adapt ‘ballistic missile defense posture to evolving threats’",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/europe/nato-continues-to-adapt-ballistic-missile-defense-posture-to-evolving-threats-/3858317",
+      "published": "2026-03-10T14:43:43+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_3a05e76e383fe9e4fcc3ff6e4da895ff",
+      "title": "Britain ‘doesn’t have a navy’ capable of joining foreign war, says far-right leader",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/europe/britain-doesn-t-have-a-navy-capable-of-joining-foreign-war-says-far-right-leader/3858313",
+      "published": "2026-03-10T14:40:17+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_6f3b9bbc381b1131a0c2a1f386aa19df",
+      "title": "France’s new nuclear plan sparks debate over European deterrence",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/europe/france-s-new-nuclear-plan-sparks-debate-over-european-deterrence/3858307",
+      "published": "2026-03-10T14:35:30+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
     {
       "id": "newsdata_7890918869401e79d78957ddc06e937c",
       "title": "The US and Israel went to war with Iran, but the UAE is paying the price. Here’s why",
@@ -26,60 +188,6 @@
       "source": "NewsData.io - Anadolu Agency",
       "source_url": "https://www.aa.com.tr/en/asia-pacific/russia-proposes-law-to-use-military-abroad-to-protect-citizens-from-foreign-prosecution/3858233",
       "published": "2026-03-10T13:41:23+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_9a1096fb22f48c0536c81fd039837f10",
-      "title": "DR Congo army claims shot down 2 drones belonging to Rwandan army, 'their allies'",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/africa/dr-congo-army-claims-shot-down-2-drones-belonging-to-rwandan-army-their-allies/3858226",
-      "published": "2026-03-10T13:34:46+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_15601032941972a1b36f0d266b039f30",
-      "title": "Finnish opposition party rejects proposal to allow nuclear weapons transport",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/europe/finnish-opposition-party-rejects-proposal-to-allow-nuclear-weapons-transport/3858221",
-      "published": "2026-03-10T13:31:52+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_775c8baa6c4d0e7c16fb71076db6a40c",
-      "title": "Pentagon, Japanese defense chiefs discuss US, Israel, Iran conflict",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/asia-pacific/pentagon-japanese-defense-chiefs-discuss-us-israel-iran-conflict/3858215",
-      "published": "2026-03-10T13:28:03+00:00",
       "type": "security",
       "status": "reported",
       "location": {
@@ -165,24 +273,6 @@
       "source_key": "newsdata"
     },
     {
-      "id": "newsdata_69621463ca6d4784d6913e7c180440a4",
-      "title": "‘Cautious and calibrated’: Iran war pushes Gulf states to reassess risks and response",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/middle-east/-cautious-and-calibrated-iran-war-pushes-gulf-states-to-reassess-risks-and-response/3858179",
-      "published": "2026-03-10T12:59:21+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
       "id": "newsdata_970230853f8f08c042647fbc63b45a0a",
       "title": "Iran strikes at Israel’s major energy infrastructure",
       "source": "NewsData.io - Egyptindependent",
@@ -201,78 +291,6 @@
       "source_key": "newsdata"
     },
     {
-      "id": "newsdata_87ff5629ae60563de4b77ba18187fa99",
-      "title": "Iran to see 'most intense' US attacks Tuesday: Pentagon chief",
-      "source": "NewsData.io - Daily Sabah",
-      "source_url": "https://www.dailysabah.com/world/americas/iran-to-see-most-intense-us-attacks-tuesday-pentagon-chief",
-      "published": "2026-03-10T12:25:00+00:00",
-      "type": "attack",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_31aea8690550e762574d54bf4b9811cc",
-      "title": "Pentagon chief Hegseth vows 'most intense' day of US war on Iran",
-      "source": "NewsData.io - Daily Sabah",
-      "source_url": "https://www.dailysabah.com/world/americas/pentagon-chief-hegseth-vows-most-intense-day-of-us-war-on-iran",
-      "published": "2026-03-10T12:25:00+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_fd83f1804ed30a5fa4324dc2fc22eea7",
-      "title": "War on Iran fuelling Islamophobic social media surge in US: Report",
-      "source": "NewsData.io - Turks",
-      "source_url": "https://turks.us/war-on-iran-fuelling-islamophobic-social-media-surge-in-us-report/",
-      "published": "2026-03-10T12:02:00+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_524c283b5e11cc4b3721996a1f022a5e",
-      "title": "UAE reports new missile, drone attacks from Iran",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/middle-east/uae-reports-new-missile-drone-attacks-from-iran/3858088",
-      "published": "2026-03-10T12:01:41+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
       "id": "newsdata_0f6b824c7339239b3607d88e50060ebf",
       "title": "Civil defense council reviews preparedness and general situation in Qatar",
       "source": "NewsData.io - Gulf Times",
@@ -285,24 +303,6 @@
         "country": "UAE",
         "lat": 25.2048,
         "lng": 55.2708
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_1cd6b6aef337679e4b85c891675af1c6",
-      "title": "Iran continues to strike Gulf, block Hormuz to mount US pressure",
-      "source": "NewsData.io - Daily Sabah",
-      "source_url": "https://www.dailysabah.com/world/mid-east/iran-continues-to-strike-gulf-block-hormuz-to-mount-us-pressure",
-      "published": "2026-03-10T11:40:00+00:00",
-      "type": "attack",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
       },
       "credibility": 70,
       "is_government": false,
@@ -620,42 +620,6 @@
       "source": "NewsData.io - Gulf Times",
       "source_url": "https://www.gulf-times.com/article/722127/qatar/ministry-of-defense-announces-interception-of-missile-attack",
       "published": "2026-03-09T08:20:00+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "UAE",
-        "country": "UAE",
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_72f95ed655ac950ce4e5ef9a51777bdc",
-      "title": "Israel accused of 'unlawfully' using white phosphorus in new Lebanon attacks",
-      "source": "NewsData.io - Khaleej Times",
-      "source_url": "https://www.khaleejtimes.com/world/mena/israel-use-white-phosphorus-unlawful-lebanon-attacks",
-      "published": "2026-03-09T05:22:31+00:00",
-      "type": "attack",
-      "status": "reported",
-      "location": {
-        "name": "UAE",
-        "country": "UAE",
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_01d4235b1e82ba0f1e1972f54f5e372b",
-      "title": "No Indian killed in Saudi's Al Kharj missile incident, embassy confirms",
-      "source": "NewsData.io - Khaleej Times",
-      "source_url": "https://www.khaleejtimes.com/world/gulf/saudi-arabia-al-kharj-missile-incident-no-indian-killed-embassy-confirms",
-      "published": "2026-03-09T04:59:28+00:00",
       "type": "missile",
       "status": "reported",
       "location": {
