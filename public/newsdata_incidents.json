@@ -1,5 +1,672 @@
 {
-  "generated_at": "2026-03-10T18:53:36.403484+00:00",
-  "total_incidents": 0,
-  "incidents": []
+  "generated_at": "2026-03-11T02:08:54.144869+00:00",
+  "total_incidents": 37,
+  "incidents": [
+    {
+      "id": "newsdata_7890918869401e79d78957ddc06e937c",
+      "title": "The US and Israel went to war with Iran, but the UAE is paying the price. Here’s why",
+      "source": "NewsData.io - Egyptindependent",
+      "source_url": "https://egyptindependent.com/the-us-and-israel-went-to-war-with-iran-but-the-uae-is-paying-the-price-heres-why/",
+      "published": "2026-03-10T13:45:03+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Egypt",
+        "country": "Egypt",
+        "lat": 30.0444,
+        "lng": 31.2357
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_8b95ac95c8d08110b2e4db4cf7d23a4a",
+      "title": "Russia proposes law to use military abroad to protect citizens from foreign prosecution",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/asia-pacific/russia-proposes-law-to-use-military-abroad-to-protect-citizens-from-foreign-prosecution/3858233",
+      "published": "2026-03-10T13:41:23+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_9a1096fb22f48c0536c81fd039837f10",
+      "title": "DR Congo army claims shot down 2 drones belonging to Rwandan army, 'their allies'",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/africa/dr-congo-army-claims-shot-down-2-drones-belonging-to-rwandan-army-their-allies/3858226",
+      "published": "2026-03-10T13:34:46+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_15601032941972a1b36f0d266b039f30",
+      "title": "Finnish opposition party rejects proposal to allow nuclear weapons transport",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/europe/finnish-opposition-party-rejects-proposal-to-allow-nuclear-weapons-transport/3858221",
+      "published": "2026-03-10T13:31:52+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_775c8baa6c4d0e7c16fb71076db6a40c",
+      "title": "Pentagon, Japanese defense chiefs discuss US, Israel, Iran conflict",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/asia-pacific/pentagon-japanese-defense-chiefs-discuss-us-israel-iran-conflict/3858215",
+      "published": "2026-03-10T13:28:03+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_8b0143dbba0a46732b503e73423331ef",
+      "title": "Iran not more formidable than thought, top US general says",
+      "source": "NewsData.io - Channel Newsasia",
+      "source_url": "https://www.channelnewsasia.com/world/iran-us-war-general-dan-caine-strikes-formidable-pete-hegseth-5984231",
+      "published": "2026-03-10T13:14:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_8b0143dbba0a46732b503e73423331ef",
+      "title": "Iran not more formidable than thought, top US general says",
+      "source": "NewsData.io - Channel Newsasia",
+      "source_url": "https://www.channelnewsasia.com/world/iran-us-war-general-dan-caine-strikes-formidable-pete-hegseth-5984231",
+      "published": "2026-03-10T13:14:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Saudi Arabia",
+        "country": "Saudi Arabia",
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_8b0143dbba0a46732b503e73423331ef",
+      "title": "Iran not more formidable than thought, top US general says",
+      "source": "NewsData.io - Channel Newsasia",
+      "source_url": "https://www.channelnewsasia.com/world/iran-us-war-general-dan-caine-strikes-formidable-pete-hegseth-5984231",
+      "published": "2026-03-10T13:14:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Kuwait",
+        "country": "Kuwait",
+        "lat": 29.3759,
+        "lng": 47.9774
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_8b0143dbba0a46732b503e73423331ef",
+      "title": "Iran not more formidable than thought, top US general says",
+      "source": "NewsData.io - Channel Newsasia",
+      "source_url": "https://www.channelnewsasia.com/world/iran-us-war-general-dan-caine-strikes-formidable-pete-hegseth-5984231",
+      "published": "2026-03-10T13:14:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Bahrain",
+        "country": "Bahrain",
+        "lat": 26.2285,
+        "lng": 50.586
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_69621463ca6d4784d6913e7c180440a4",
+      "title": "‘Cautious and calibrated’: Iran war pushes Gulf states to reassess risks and response",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/-cautious-and-calibrated-iran-war-pushes-gulf-states-to-reassess-risks-and-response/3858179",
+      "published": "2026-03-10T12:59:21+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_970230853f8f08c042647fbc63b45a0a",
+      "title": "Iran strikes at Israel’s major energy infrastructure",
+      "source": "NewsData.io - Egyptindependent",
+      "source_url": "https://egyptindependent.com/iran-strikes-at-israels-major-energy-infrastructure/",
+      "published": "2026-03-10T12:32:40+00:00",
+      "type": "attack",
+      "status": "reported",
+      "location": {
+        "name": "Egypt",
+        "country": "Egypt",
+        "lat": 30.0444,
+        "lng": 31.2357
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_87ff5629ae60563de4b77ba18187fa99",
+      "title": "Iran to see 'most intense' US attacks Tuesday: Pentagon chief",
+      "source": "NewsData.io - Daily Sabah",
+      "source_url": "https://www.dailysabah.com/world/americas/iran-to-see-most-intense-us-attacks-tuesday-pentagon-chief",
+      "published": "2026-03-10T12:25:00+00:00",
+      "type": "attack",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_31aea8690550e762574d54bf4b9811cc",
+      "title": "Pentagon chief Hegseth vows 'most intense' day of US war on Iran",
+      "source": "NewsData.io - Daily Sabah",
+      "source_url": "https://www.dailysabah.com/world/americas/pentagon-chief-hegseth-vows-most-intense-day-of-us-war-on-iran",
+      "published": "2026-03-10T12:25:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_fd83f1804ed30a5fa4324dc2fc22eea7",
+      "title": "War on Iran fuelling Islamophobic social media surge in US: Report",
+      "source": "NewsData.io - Turks",
+      "source_url": "https://turks.us/war-on-iran-fuelling-islamophobic-social-media-surge-in-us-report/",
+      "published": "2026-03-10T12:02:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_524c283b5e11cc4b3721996a1f022a5e",
+      "title": "UAE reports new missile, drone attacks from Iran",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/uae-reports-new-missile-drone-attacks-from-iran/3858088",
+      "published": "2026-03-10T12:01:41+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_0f6b824c7339239b3607d88e50060ebf",
+      "title": "Civil defense council reviews preparedness and general situation in Qatar",
+      "source": "NewsData.io - Gulf Times",
+      "source_url": "https://www.gulf-times.com/article/722196/qatar/civil-defense-council-reviews-preparedness-and-general-situation-in-qatar",
+      "published": "2026-03-10T11:59:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_1cd6b6aef337679e4b85c891675af1c6",
+      "title": "Iran continues to strike Gulf, block Hormuz to mount US pressure",
+      "source": "NewsData.io - Daily Sabah",
+      "source_url": "https://www.dailysabah.com/world/mid-east/iran-continues-to-strike-gulf-block-hormuz-to-mount-us-pressure",
+      "published": "2026-03-10T11:40:00+00:00",
+      "type": "attack",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_c6e6d7c636bc783633ee13984558aa0b",
+      "title": "Russia and Ukraine both claim front-line progress with US-brokered talks on hold",
+      "source": "NewsData.io - Naharnet",
+      "source_url": "https://www.naharnet.com/stories/en/318854-russia-and-ukraine-both-claim-front-line-progress-with-us-brokered-talks-on-hold",
+      "published": "2026-03-10T10:49:37+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Lebanon",
+        "country": "Lebanon",
+        "lat": 33.8938,
+        "lng": 35.5018
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_4636f83636987a5666e9d81b7e23e7f9",
+      "title": "Human Rights Watch accuses Israel of using white phosphorus in southern Lebanon",
+      "source": "NewsData.io - Egyptindependent",
+      "source_url": "https://www.egyptindependent.com/human-rights-watch-accuses-israel-of-using-white-phosphorus-in-southern-lebanon/",
+      "published": "2026-03-10T09:32:25+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Egypt",
+        "country": "Egypt",
+        "lat": 30.0444,
+        "lng": 31.2357
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_dc2dc1f2597271fa81fc31a59c6dea4f",
+      "title": "Drone falls in Zulfi area residential site, no injuries: Saudi Arabia Civil Defense",
+      "source": "NewsData.io - Kuwait Times",
+      "source_url": "https://kuwaittimes.com/article/40886/world/drone-falls-in-zulfi-area-residential-site-no-injuries-saudi-arabia-civil-defense/",
+      "published": "2026-03-10T07:41:00+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Kuwait",
+        "country": "Kuwait",
+        "lat": 29.3759,
+        "lng": 47.9774
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_c62659b5fc5afe42f31a2eb4fffa23df",
+      "title": "Prime Minister and Minister of Foreign Affairs: Iran's justifications for attacks on Qatar, other countries are 'totally rejected'",
+      "source": "NewsData.io - Gulf Times",
+      "source_url": "https://www.gulf-times.com/article/722178/qatar/prime-minister-and-minister-of-foreign-affairs-irans-justifications-for-attacks-on-qatar-other-countries-are-totally-rejected",
+      "published": "2026-03-10T07:37:00+00:00",
+      "type": "attack",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_faa9a80138ae07e5b889bad1ec15f68c",
+      "title": "Cypriot, Lebanese officials blame Hezbollah for drone attacks on UK base in Cyprus; IRGC responsibility also possible",
+      "source": "NewsData.io - Fdd's Long War Journal",
+      "source_url": "https://www.longwarjournal.org/archives/2026/03/cypriot-lebanese-officials-blame-hezbollah-for-drone-attacks-on-uk-base-in-cyprus-irgc-responsibility-also-possible.php",
+      "published": "2026-03-10T02:49:25+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Lebanon",
+        "country": "Lebanon",
+        "lat": 33.8938,
+        "lng": 35.5018
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_69d8420cf4de2999a9908b7e73476000",
+      "title": "NATO intercepts 2nd Iran missile in Turkish airspace: Ankara",
+      "source": "NewsData.io - Kuwait Times",
+      "source_url": "https://kuwaittimes.com/article/40877/world/europe/nato-intercepts-2nd-iran-missile-in-turkish-airspace-ankara/",
+      "published": "2026-03-09T18:10:00+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Kuwait",
+        "country": "Kuwait",
+        "lat": 29.3759,
+        "lng": 47.9774
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_471e3eb472ad57e4b56e809cf992c659",
+      "title": "Drone intercepted, destroyed in past 24 hours: Kuwaiti Defense Ministry",
+      "source": "NewsData.io - The Peninsula Qatar",
+      "source_url": "https://thepeninsulaqatar.com/article/09/03/2026/drone-intercepted-destroyed-in-past-24-hourskuwaiti-defense-ministry",
+      "published": "2026-03-09T18:09:32+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_ff8b79972497f7ff3bb4aacb7e1c427c",
+      "title": "Iran targets Gulf energy installations",
+      "source": "NewsData.io - Kuwait Times",
+      "source_url": "https://kuwaittimes.com/article/40876/world/middle-east/iran-targets-gulf-energy-installations/",
+      "published": "2026-03-09T18:08:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Kuwait",
+        "country": "Kuwait",
+        "lat": 29.3759,
+        "lng": 47.9774
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_ed5d6225ccd10bdb51273c8ab5a7767d",
+      "title": "Thousands march for women’s rights and against Mideast war",
+      "source": "NewsData.io - Kuwait Times",
+      "source_url": "https://kuwaittimes.com/article/40870/world/middle-east/thousands-march-for-womens-rights-and-against-mideast-war/",
+      "published": "2026-03-09T17:47:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Kuwait",
+        "country": "Kuwait",
+        "lat": 29.3759,
+        "lng": 47.9774
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_06d383a5e697e9f5385c284af7d9758b",
+      "title": "Turkiye shoots down Iranian ballistic missile crossing its airspace",
+      "source": "NewsData.io - The Peninsula Qatar",
+      "source_url": "https://thepeninsulaqatar.com/article/09/03/2026/turkiye-shoots-down-iranian-ballistic-missile-crossing-its-airspace",
+      "published": "2026-03-09T16:17:48+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_34bf6e311bc58ab263685d635a5c0f0b",
+      "title": "Investigation further suggests it was the US that struck an Iranian school, killing 165",
+      "source": "NewsData.io - Channel Newsasia",
+      "source_url": "https://www.channelnewsasia.com/world/iran-us-strike-school-investigation-war-israel-5981381",
+      "published": "2026-03-09T10:39:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_34bf6e311bc58ab263685d635a5c0f0b",
+      "title": "Investigation further suggests it was the US that struck an Iranian school, killing 165",
+      "source": "NewsData.io - Channel Newsasia",
+      "source_url": "https://www.channelnewsasia.com/world/iran-us-strike-school-investigation-war-israel-5981381",
+      "published": "2026-03-09T10:39:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Saudi Arabia",
+        "country": "Saudi Arabia",
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_34bf6e311bc58ab263685d635a5c0f0b",
+      "title": "Investigation further suggests it was the US that struck an Iranian school, killing 165",
+      "source": "NewsData.io - Channel Newsasia",
+      "source_url": "https://www.channelnewsasia.com/world/iran-us-strike-school-investigation-war-israel-5981381",
+      "published": "2026-03-09T10:39:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Kuwait",
+        "country": "Kuwait",
+        "lat": 29.3759,
+        "lng": 47.9774
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_34bf6e311bc58ab263685d635a5c0f0b",
+      "title": "Investigation further suggests it was the US that struck an Iranian school, killing 165",
+      "source": "NewsData.io - Channel Newsasia",
+      "source_url": "https://www.channelnewsasia.com/world/iran-us-strike-school-investigation-war-israel-5981381",
+      "published": "2026-03-09T10:39:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Bahrain",
+        "country": "Bahrain",
+        "lat": 26.2285,
+        "lng": 50.586
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_85d2aadcaa7218cc5d1078925f1b9c06",
+      "title": "Most European leaders have tiptoed around Trump’s war with Iran. Not Spain’s PM",
+      "source": "NewsData.io - Egyptindependent",
+      "source_url": "https://egyptindependent.com/most-european-leaders-have-tiptoed-around-trumps-war-with-iran-not-spains-pm/",
+      "published": "2026-03-09T09:47:37+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Egypt",
+        "country": "Egypt",
+        "lat": 30.0444,
+        "lng": 31.2357
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_66e1e77b49435a95b9d4b96428aad592",
+      "title": "Bahrain intercepts 102 missiles and 171 drones since start of Iranian attacks",
+      "source": "NewsData.io - Kuwait Times",
+      "source_url": "https://kuwaittimes.com/article/40836/world/bahrain-intercepts-102-missiles-and-171-drones-since-start-of-iranian-attacks/",
+      "published": "2026-03-09T09:22:00+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Kuwait",
+        "country": "Kuwait",
+        "lat": 29.3759,
+        "lng": 47.9774
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_5f6d1fcad726b185a307a2b4868f3d24",
+      "title": "New video suggests US responsible for deadly strike on Iranian elementary school",
+      "source": "NewsData.io - Khaleej Times",
+      "source_url": "https://www.khaleejtimes.com/world/new-video-us-responsible-strike-iran-shajarah-tayyebeh-elementary-school",
+      "published": "2026-03-09T08:56:57+00:00",
+      "type": "attack",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_8fa98da85701b1eb31ac81d8304f7dfd",
+      "title": "Ministry of Defense announces interception of missile attack",
+      "source": "NewsData.io - Gulf Times",
+      "source_url": "https://www.gulf-times.com/article/722127/qatar/ministry-of-defense-announces-interception-of-missile-attack",
+      "published": "2026-03-09T08:20:00+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_72f95ed655ac950ce4e5ef9a51777bdc",
+      "title": "Israel accused of 'unlawfully' using white phosphorus in new Lebanon attacks",
+      "source": "NewsData.io - Khaleej Times",
+      "source_url": "https://www.khaleejtimes.com/world/mena/israel-use-white-phosphorus-unlawful-lebanon-attacks",
+      "published": "2026-03-09T05:22:31+00:00",
+      "type": "attack",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_01d4235b1e82ba0f1e1972f54f5e372b",
+      "title": "No Indian killed in Saudi's Al Kharj missile incident, embassy confirms",
+      "source": "NewsData.io - Khaleej Times",
+      "source_url": "https://www.khaleejtimes.com/world/gulf/saudi-arabia-al-kharj-missile-incident-no-indian-killed-embassy-confirms",
+      "published": "2026-03-09T04:59:28+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    }
+  ]
 }
