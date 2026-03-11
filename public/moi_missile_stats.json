@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-03-11T13:11:29.239633+00:00",
+  "generated_at": "2026-03-11T18:58:44.709313+00:00",
   "since_date": "2026-03-03",
   "source": "UAE Ministry of Interior (@moiuae)",
-  "total_incidents": 2,
+  "total_incidents": 1,
   "totals": {
-    "ballistic_detected": 15,
-    "ballistic_intercepted": 13,
+    "ballistic_detected": 0,
+    "ballistic_intercepted": 1,
     "cruise_detected": 0,
     "cruise_intercepted": 0,
-    "drones_detected": 53,
-    "drones_intercepted": 43,
-    "total_detected": 68,
-    "total_intercepted": 56,
-    "impacted": 12,
+    "drones_detected": 35,
+    "drones_intercepted": 26,
+    "total_detected": 35,
+    "total_intercepted": 27,
+    "impacted": 8,
     "killed": 0,
     "injured": 0
   },
@@ -22,16 +22,6 @@
     "impacted": 0
   },
   "daily": [
-    {
-      "date": "2026-03-09",
-      "ballistic_detected": 15,
-      "ballistic_intercepted": 12,
-      "cruise_detected": 0,
-      "cruise_intercepted": 0,
-      "drones_detected": 18,
-      "drones_intercepted": 17,
-      "total": 62
-    },
     {
       "date": "2026-03-10",
       "ballistic_detected": 0,
@@ -59,28 +49,6 @@
         "drones_detected": 35,
         "drones_intercepted": 26,
         "impacted": 8,
-        "killed": 0,
-        "injured": 0
-      },
-      "type": "missile_defense",
-      "credibility": 100,
-      "is_government": true
-    },
-    {
-      "id": "moi_1773055860.0",
-      "title": "RT by @moiuae: الدفاعات الجوية الإماراتية تتعامل مع 12 صاروخ باليستي و 17 طائرة مسيرة. رصدت الدفاعات الجوية الإماراتية اليوم (9 مارس 2026) 15 صاروخ باليستي حيث تم تدمير 12 صاروخ باليستي، فيما سقطت 3 صواريخ باليستية في البحر. كما تم رصد 18 طائرة مسيرة، حيث تم اعتراض 17 طائرة مسيرة، بينما سقطت 1… pic.",
-      "source": "UAE Ministry of Interior",
-      "source_url": "https://x.com/modgovae/status/2030969656438079684",
-      "published": "2026-03-09T11:31:00+00:00",
-      "date": "2026-03-09",
-      "stats": {
-        "ballistic_detected": 15,
-        "ballistic_intercepted": 12,
-        "cruise_detected": 0,
-        "cruise_intercepted": 0,
-        "drones_detected": 18,
-        "drones_intercepted": 17,
-        "impacted": 4,
         "killed": 0,
         "injured": 0
       },
