@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-11T07:00:33.774623+00:00",
+  "generated_at": "2026-03-11T13:11:29.239633+00:00",
   "since_date": "2026-03-03",
   "source": "UAE Ministry of Interior (@moiuae)",
   "total_incidents": 2,
@@ -17,9 +17,9 @@
     "injured": 0
   },
   "last_24h": {
-    "detected": 35,
-    "intercepted": 27,
-    "impacted": 8
+    "detected": 0,
+    "intercepted": 0,
+    "impacted": 0
   },
   "daily": [
     {
