@@ -1,7 +1,331 @@
 {
-  "generated_at": "2026-03-11T06:57:03.852575+00:00",
-  "total_incidents": 35,
+  "generated_at": "2026-03-11T13:05:04.037423+00:00",
+  "total_incidents": 40,
   "incidents": [
+    {
+      "id": "newsdata_d96ec9c616268454cbb2fb70eb34b801",
+      "title": "Israel intensifies strikes on repression sites, expands outreach to Iranians as regime repression deepens (March 8-10 updates)",
+      "source": "NewsData.io - Fdd's Long War Journal",
+      "source_url": "https://www.longwarjournal.org/archives/2026/03/israel-intensifies-strikes-on-repression-sites-expands-outreach-to-iranians-as-regime-repression-deepens-march-8-10-updates.php",
+      "published": "2026-03-11T00:38:47+00:00",
+      "type": "attack",
+      "status": "reported",
+      "location": {
+        "name": "Iran",
+        "country": "Iran",
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_6f0117ce3c51cb6d9c664a21107aed1c",
+      "title": "Explosion heard near US Consulate in Erbil as drone intercepted",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/explosion-heard-near-us-consulate-in-erbil-as-drone-intercepted/3858984",
+      "published": "2026-03-10T22:50:13+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_19eb453c546fd7f347c9b598d317099c",
+      "title": "Iranian drone and missile barrages strike Arab states across the region (March 9-10 updates)",
+      "source": "NewsData.io - Fdd's Long War Journal",
+      "source_url": "https://www.longwarjournal.org/archives/2026/03/iranian-drone-and-missile-barrages-strike-arab-states-across-the-region-march-9-10-updates.php",
+      "published": "2026-03-10T22:23:41+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Iran",
+        "country": "Iran",
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_d0fea095b283c8c788fba7eba8777a8a",
+      "title": "Commentary: What TikTok and Huawei can teach Anthropic",
+      "source": "NewsData.io - Channel Newsasia",
+      "source_url": "https://www.channelnewsasia.com/commentary/anthropic-supply-chain-risk-claude-tiktok-huawei-ai-5983756",
+      "published": "2026-03-10T21:58:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_d0fea095b283c8c788fba7eba8777a8a",
+      "title": "Commentary: What TikTok and Huawei can teach Anthropic",
+      "source": "NewsData.io - Channel Newsasia",
+      "source_url": "https://www.channelnewsasia.com/commentary/anthropic-supply-chain-risk-claude-tiktok-huawei-ai-5983756",
+      "published": "2026-03-10T21:58:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Saudi Arabia",
+        "country": "Saudi Arabia",
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_d0fea095b283c8c788fba7eba8777a8a",
+      "title": "Commentary: What TikTok and Huawei can teach Anthropic",
+      "source": "NewsData.io - Channel Newsasia",
+      "source_url": "https://www.channelnewsasia.com/commentary/anthropic-supply-chain-risk-claude-tiktok-huawei-ai-5983756",
+      "published": "2026-03-10T21:58:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Kuwait",
+        "country": "Kuwait",
+        "lat": 29.3759,
+        "lng": 47.9774
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_d0fea095b283c8c788fba7eba8777a8a",
+      "title": "Commentary: What TikTok and Huawei can teach Anthropic",
+      "source": "NewsData.io - Channel Newsasia",
+      "source_url": "https://www.channelnewsasia.com/commentary/anthropic-supply-chain-risk-claude-tiktok-huawei-ai-5983756",
+      "published": "2026-03-10T21:58:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Bahrain",
+        "country": "Bahrain",
+        "lat": 26.2285,
+        "lng": 50.586
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_b27075505e8edfef477938fe0a0e8e19",
+      "title": "Saudi Arabia, Bahrain, UAE announce interception of Iranian drones and missiles",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/saudi-arabia-bahrain-uae-announce-interception-of-iranian-drones-and-missiles/3858936",
+      "published": "2026-03-10T21:57:36+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_78e6475e6477815034494c8956496682",
+      "title": "UAE says its air defenses intercepted barrage of Iranian ballistic missiles",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/uae-says-its-air-defenses-intercepted-barrage-of-iranian-ballistic-missiles/3858936",
+      "published": "2026-03-10T21:57:36+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_9e0d56faf609737fa30c1e29f382971b",
+      "title": "Saudi Arabia says two drones intercepted near Shaybah oilfield",
+      "source": "NewsData.io - The Peninsula Qatar",
+      "source_url": "https://thepeninsulaqatar.com/article/11/03/2026/saudi-arabia-says-two-drones-intercepted-near-shaybah-oilfield",
+      "published": "2026-03-10T21:18:57+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_7f424ae1fd86fba20250a80f8a72e0a6",
+      "title": "Around 140 US service members wounded in Iran war, Pentagon says",
+      "source": "NewsData.io - Turks",
+      "source_url": "https://turks.us/around-140-us-service-members-wounded-in-iran-war-pentagon-says/",
+      "published": "2026-03-10T21:10:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_e563d503b48c8f51d883b81ee093e1bb",
+      "title": "US vows most intense day of Iran strikes",
+      "source": "NewsData.io - Qatar Tribune",
+      "source_url": "https://www.qatar-tribune.com/article/223579/world/us-vows-most-intense-day-of-iran-strikes",
+      "published": "2026-03-10T21:00:00+00:00",
+      "type": "attack",
+      "status": "reported",
+      "location": {
+        "name": "Qatar",
+        "country": "Qatar",
+        "lat": 25.2854,
+        "lng": 51.531
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_b42c629f5a63ac7c7f0bcd55747ec656",
+      "title": "Israeli strikes hit southern Lebanon as tensions escalate",
+      "source": "NewsData.io - Qatar Tribune",
+      "source_url": "https://www.qatar-tribune.com/article/223577/world/israeli-strikes-hit-southern-lebanon-as-tensions-escalate",
+      "published": "2026-03-10T21:00:00+00:00",
+      "type": "attack",
+      "status": "reported",
+      "location": {
+        "name": "Qatar",
+        "country": "Qatar",
+        "lat": 25.2854,
+        "lng": 51.531
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_19b2905b6278b6a5c594158021d976c7",
+      "title": "US and Iran dig in and ramp up threats as war rages with no end in sight",
+      "source": "NewsData.io - Channel Newsasia",
+      "source_url": "https://www.channelnewsasia.com/world/iran-war-us-threats-hegseth-middle-east-shipping-oil-5985086",
+      "published": "2026-03-10T20:52:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_19b2905b6278b6a5c594158021d976c7",
+      "title": "US and Iran dig in and ramp up threats as war rages with no end in sight",
+      "source": "NewsData.io - Channel Newsasia",
+      "source_url": "https://www.channelnewsasia.com/world/iran-war-us-threats-hegseth-middle-east-shipping-oil-5985086",
+      "published": "2026-03-10T20:52:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Saudi Arabia",
+        "country": "Saudi Arabia",
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_19b2905b6278b6a5c594158021d976c7",
+      "title": "US and Iran dig in and ramp up threats as war rages with no end in sight",
+      "source": "NewsData.io - Channel Newsasia",
+      "source_url": "https://www.channelnewsasia.com/world/iran-war-us-threats-hegseth-middle-east-shipping-oil-5985086",
+      "published": "2026-03-10T20:52:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Kuwait",
+        "country": "Kuwait",
+        "lat": 29.3759,
+        "lng": 47.9774
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_19b2905b6278b6a5c594158021d976c7",
+      "title": "US and Iran dig in and ramp up threats as war rages with no end in sight",
+      "source": "NewsData.io - Channel Newsasia",
+      "source_url": "https://www.channelnewsasia.com/world/iran-war-us-threats-hegseth-middle-east-shipping-oil-5985086",
+      "published": "2026-03-10T20:52:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Bahrain",
+        "country": "Bahrain",
+        "lat": 26.2285,
+        "lng": 50.586
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_ee450b36e022aee7d915e5f68dd7bb82",
+      "title": "Qatar says missile attack intercepted amid regional escalation",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/qatar-says-missile-attack-intercepted-amid-regional-escalation/3858765",
+      "published": "2026-03-10T19:30:42+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
     {
       "id": "newsdata_f8792dab739fe7001358bfeb8fd59e0b",
       "title": "Qatar says it intercepted 5 Iranian ballistic missiles",
@@ -93,78 +417,6 @@
       "source_key": "newsdata"
     },
     {
-      "id": "newsdata_083d0707724e2548cb67ec7d21379771",
-      "title": "Syria appoints assistant defense minister for eastern region",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/middle-east/syria-appoints-assistant-defense-minister-for-eastern-region/3858327",
-      "published": "2026-03-10T14:51:55+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_b537ca42d87336a0038c404150ec1be7",
-      "title": "NATO continues to adapt ‘ballistic missile defense posture to evolving threats’",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/europe/nato-continues-to-adapt-ballistic-missile-defense-posture-to-evolving-threats-/3858317",
-      "published": "2026-03-10T14:43:43+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_3a05e76e383fe9e4fcc3ff6e4da895ff",
-      "title": "Britain ‘doesn’t have a navy’ capable of joining foreign war, says far-right leader",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/europe/britain-doesn-t-have-a-navy-capable-of-joining-foreign-war-says-far-right-leader/3858313",
-      "published": "2026-03-10T14:40:17+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_6f3b9bbc381b1131a0c2a1f386aa19df",
-      "title": "France’s new nuclear plan sparks debate over European deterrence",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/europe/france-s-new-nuclear-plan-sparks-debate-over-european-deterrence/3858307",
-      "published": "2026-03-10T14:35:30+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
       "id": "newsdata_7890918869401e79d78957ddc06e937c",
       "title": "The US and Israel went to war with Iran, but the UAE is paying the price. Here’s why",
       "source": "NewsData.io - Egyptindependent",
@@ -177,24 +429,6 @@
         "country": "Egypt",
         "lat": 30.0444,
         "lng": 31.2357
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_8b95ac95c8d08110b2e4db4cf7d23a4a",
-      "title": "Russia proposes law to use military abroad to protect citizens from foreign prosecution",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/asia-pacific/russia-proposes-law-to-use-military-abroad-to-protect-citizens-from-foreign-prosecution/3858233",
-      "published": "2026-03-10T13:41:23+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
       },
       "credibility": 70,
       "is_government": false,
@@ -476,150 +710,6 @@
       "source": "NewsData.io - The Peninsula Qatar",
       "source_url": "https://thepeninsulaqatar.com/article/09/03/2026/turkiye-shoots-down-iranian-ballistic-missile-crossing-its-airspace",
       "published": "2026-03-09T16:17:48+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "UAE",
-        "country": "UAE",
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_34bf6e311bc58ab263685d635a5c0f0b",
-      "title": "Investigation further suggests it was the US that struck an Iranian school, killing 165",
-      "source": "NewsData.io - Channel Newsasia",
-      "source_url": "https://www.channelnewsasia.com/world/iran-us-strike-school-investigation-war-israel-5981381",
-      "published": "2026-03-09T10:39:00+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "UAE",
-        "country": "UAE",
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_34bf6e311bc58ab263685d635a5c0f0b",
-      "title": "Investigation further suggests it was the US that struck an Iranian school, killing 165",
-      "source": "NewsData.io - Channel Newsasia",
-      "source_url": "https://www.channelnewsasia.com/world/iran-us-strike-school-investigation-war-israel-5981381",
-      "published": "2026-03-09T10:39:00+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Saudi Arabia",
-        "country": "Saudi Arabia",
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_34bf6e311bc58ab263685d635a5c0f0b",
-      "title": "Investigation further suggests it was the US that struck an Iranian school, killing 165",
-      "source": "NewsData.io - Channel Newsasia",
-      "source_url": "https://www.channelnewsasia.com/world/iran-us-strike-school-investigation-war-israel-5981381",
-      "published": "2026-03-09T10:39:00+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Kuwait",
-        "country": "Kuwait",
-        "lat": 29.3759,
-        "lng": 47.9774
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_34bf6e311bc58ab263685d635a5c0f0b",
-      "title": "Investigation further suggests it was the US that struck an Iranian school, killing 165",
-      "source": "NewsData.io - Channel Newsasia",
-      "source_url": "https://www.channelnewsasia.com/world/iran-us-strike-school-investigation-war-israel-5981381",
-      "published": "2026-03-09T10:39:00+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Bahrain",
-        "country": "Bahrain",
-        "lat": 26.2285,
-        "lng": 50.586
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_85d2aadcaa7218cc5d1078925f1b9c06",
-      "title": "Most European leaders have tiptoed around Trump’s war with Iran. Not Spain’s PM",
-      "source": "NewsData.io - Egyptindependent",
-      "source_url": "https://egyptindependent.com/most-european-leaders-have-tiptoed-around-trumps-war-with-iran-not-spains-pm/",
-      "published": "2026-03-09T09:47:37+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Egypt",
-        "country": "Egypt",
-        "lat": 30.0444,
-        "lng": 31.2357
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_66e1e77b49435a95b9d4b96428aad592",
-      "title": "Bahrain intercepts 102 missiles and 171 drones since start of Iranian attacks",
-      "source": "NewsData.io - Kuwait Times",
-      "source_url": "https://kuwaittimes.com/article/40836/world/bahrain-intercepts-102-missiles-and-171-drones-since-start-of-iranian-attacks/",
-      "published": "2026-03-09T09:22:00+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "Kuwait",
-        "country": "Kuwait",
-        "lat": 29.3759,
-        "lng": 47.9774
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_5f6d1fcad726b185a307a2b4868f3d24",
-      "title": "New video suggests US responsible for deadly strike on Iranian elementary school",
-      "source": "NewsData.io - Khaleej Times",
-      "source_url": "https://www.khaleejtimes.com/world/new-video-us-responsible-strike-iran-shajarah-tayyebeh-elementary-school",
-      "published": "2026-03-09T08:56:57+00:00",
-      "type": "attack",
-      "status": "reported",
-      "location": {
-        "name": "UAE",
-        "country": "UAE",
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_8fa98da85701b1eb31ac81d8304f7dfd",
-      "title": "Ministry of Defense announces interception of missile attack",
-      "source": "NewsData.io - Gulf Times",
-      "source_url": "https://www.gulf-times.com/article/722127/qatar/ministry-of-defense-announces-interception-of-missile-attack",
-      "published": "2026-03-09T08:20:00+00:00",
       "type": "missile",
       "status": "reported",
       "location": {
