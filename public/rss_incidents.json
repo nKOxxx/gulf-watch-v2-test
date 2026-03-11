@@ -1,10 +1,130 @@
 {
-  "generated_at": "2026-03-11T09:05:23.976742+00:00",
-  "total_incidents": 44,
+  "generated_at": "2026-03-11T10:04:43.329492+00:00",
+  "total_incidents": 45,
   "source": "rss_app",
   "incidents": [
     {
-      "id": "rss_mehrnews_298973994",
+      "id": "rss_kunaen_404500268",
+      "title": "#United Arab Emirates' Ministry of Defense announces the country's air defense systems are responding to missile and drone attacks from #Iran  #KUNA",
+      "source": "Twitter - Kuwait News Agency",
+      "source_url": "https://x.com/kuna_en/status/2031669244597797322",
+      "published": "2026-03-11T09:51:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "name": "Unknown",
+        "country": "Kuwait"
+      },
+      "credibility": 95,
+      "is_government": true
+    },
+    {
+      "id": "rss_modqatar_654949632",
+      "title": "تعلن وزارة الدفاع القطرية عن تصدي القوات المسلحة لهجمة صاروخية استهدفت دولة قطر. The Ministry of Defense of State of Qatar announces that armed forces intercepted missile attack which targeted State o",
+      "source": "Twitter - Qatar Ministry of Defence",
+      "source_url": "https://x.com/MOD_Qatar/status/2031668683265675719",
+      "published": "2026-03-11T09:48:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "name": "Unknown",
+        "country": "Qatar"
+      },
+      "credibility": 100,
+      "is_government": true
+    },
+    {
+      "id": "rss_kunaen_456445173",
+      "title": "#Lebanon's Health Ministry reports #Israeli occupation strikes kill 14, wound 38 across several areas of the country  #KUNA",
+      "source": "Twitter - Kuwait News Agency",
+      "source_url": "https://x.com/kuna_en/status/2031668345641091546",
+      "published": "2026-03-11T09:47:00+00:00",
+      "type": "attack",
+      "status": "confirmed",
+      "location": {
+        "name": "Unknown",
+        "country": "Kuwait"
+      },
+      "credibility": 95,
+      "is_government": true
+    },
+    {
+      "id": "rss_kunaen_278896201",
+      "title": "#Kuwait's Minister of Defense Sheikh Abdullah Ali Abdullah Al-Salem Al-Sabah receives phone call from #United Kingdom Defense Secretary John Healey  #KUNA",
+      "source": "Twitter - Kuwait News Agency",
+      "source_url": "https://x.com/kuna_en/status/2031667351553241224",
+      "published": "2026-03-11T09:43:00+00:00",
+      "type": "security",
+      "status": "confirmed",
+      "location": {
+        "name": "Unknown",
+        "country": "Kuwait"
+      },
+      "credibility": 95,
+      "is_government": true
+    },
+    {
+      "id": "rss_moiuae_58431325",
+      "title": "الآن تتعامل الدفاعات الجوية مع تهديـد صاروخي، يرجى البقاء في مكان آمن ومتابعة التحذيرات والمستجدات على المواقــع الرسميـة. Air defense systems are currently dealing with a missile threat. Please remai",
+      "source": "Twitter - UAE Ministry of Interior",
+      "source_url": "https://x.com/moiuae/status/2031659595522076967",
+      "published": "2026-03-11T09:12:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "name": "Unknown",
+        "country": "UAE"
+      },
+      "credibility": 100,
+      "is_government": true
+    },
+    {
+      "id": "rss_moiuae_175631622",
+      "title": "RT by @moiuae: Air defense systems are currently responding to a missile threat. Please remain in a safe location and follow official channels for warnings and updates. pic.",
+      "source": "Twitter - UAE Ministry of Interior",
+      "source_url": "https://x.com/NCEMAUAE/status/2031659115265867891",
+      "published": "2026-03-11T09:10:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "name": "Unknown",
+        "country": "UAE"
+      },
+      "credibility": 100,
+      "is_government": true
+    },
+    {
+      "id": "rss_ncemauae_438464250",
+      "title": "Air defense systems are currently responding to a missile threat. Please remain in a safe location and follow official channels for warnings and updates. pic.",
+      "source": "Twitter - UAE National Emergency",
+      "source_url": "https://x.com/NCEMAUAE/status/2031659115265867891",
+      "published": "2026-03-11T09:10:00+00:00",
+      "type": "missile",
+      "status": "confirmed",
+      "location": {
+        "name": "Unknown",
+        "country": "UAE"
+      },
+      "credibility": 100,
+      "is_government": true
+    },
+    {
+      "id": "rss_mehrnews_786890537",
+      "title": "New York Times: At least 17 US military, diplomatic, and air defense sites across West Asia have been damaged since the war against Iran started.",
+      "source": "Twitter - Mehr News Agency",
+      "source_url": "https://x.com/MehrnewsCom/status/2031657783142297626",
+      "published": "2026-03-11T09:05:00+00:00",
+      "type": "air_defense",
+      "status": "confirmed",
+      "location": {
+        "name": "Unknown",
+        "country": "Iran"
+      },
+      "credibility": 85,
+      "is_government": true
+    },
+    {
+      "id": "rss_mehrnews_596480087",
       "title": "A suicide drone was shot down over Lorestern, western Iran.",
       "source": "Twitter - Mehr News Agency",
       "source_url": "https://x.com/MehrnewsCom/status/2031652728586273212",
@@ -19,7 +139,7 @@
       "is_government": true
     },
     {
-      "id": "rss_kunaen_856224775",
+      "id": "rss_kunaen_944313247",
       "title": "#United Kingdom Maritime Trade Operations (UKMTO) says it is receiving a security report of an unknown projectile hitting a cargo ship in the Strait of Hormuz as the crew evacuates  @UK_MTO #KUNA",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2031647353103384809",
@@ -34,7 +154,7 @@
       "is_government": true
     },
     {
-      "id": "rss_mehrnews_942946517",
+      "id": "rss_mehrnews_184712562",
       "title": "In a letter to the UN secretary-general and the president of the Security Council, Iran has strongly condemned the “heinous” and “cowardly” assassination of its diplomats in Beirut.",
       "source": "Twitter - Mehr News Agency",
       "source_url": "https://x.com/MehrnewsCom/status/2031644801393652107",
@@ -49,7 +169,7 @@
       "is_government": true
     },
     {
-      "id": "rss_mehrnews_749631958",
+      "id": "rss_mehrnews_610755499",
       "title": "🚨 #BREAKING Sirens go off in Jordan",
       "source": "Twitter - Mehr News Agency",
       "source_url": "https://x.com/MehrnewsCom/status/2031642885678883132",
@@ -64,7 +184,7 @@
       "is_government": true
     },
     {
-      "id": "rss_moiuae_770674404",
+      "id": "rss_moiuae_368233531",
       "title": "RT by @moiuae: Authorities confirm that two drones fell in the vicinity of Dubai International Airport (DXB) a short while ago, resulting in minor injuries to two Ghanaian nationals and one Bangladesh",
       "source": "Twitter - UAE Ministry of Interior",
       "source_url": "https://x.com/DXBMediaOffice/status/2031635783304753169",
@@ -79,7 +199,7 @@
       "is_government": true
     },
     {
-      "id": "rss_dxbmediaoffice_645478057",
+      "id": "rss_dxbmediaoffice_532620407",
       "title": "Authorities confirm that two drones fell in the vicinity of Dubai International Airport (DXB) a short while ago, resulting in minor injuries to two Ghanaian nationals and one Bangladeshi national, and",
       "source": "Twitter - Dubai Media Office",
       "source_url": "https://x.com/DXBMediaOffice/status/2031635783304753169",
@@ -94,7 +214,7 @@
       "is_government": true
     },
     {
-      "id": "rss_mehrnews_599693792",
+      "id": "rss_mehrnews_485629267",
       "title": "🚨#BREAKING The Islamic Resistance in Iraq says it has carried out 291 military operations over the past 12 days, noting that 13 American soldiers were killed and dozens more wounded during the attacks",
       "source": "Twitter - Mehr News Agency",
       "source_url": "https://x.com/MehrnewsCom/status/2031627463005028615",
@@ -109,7 +229,7 @@
       "is_government": true
     },
     {
-      "id": "rss_mehrnews_539679884",
+      "id": "rss_mehrnews_887622541",
       "title": "🚨#BREAKING Powerful explosions heard in Doha",
       "source": "Twitter - Mehr News Agency",
       "source_url": "https://x.com/MehrnewsCom/status/2031611506287055182",
@@ -124,7 +244,7 @@
       "is_government": true
     },
     {
-      "id": "rss_kunaen_240625051",
+      "id": "rss_kunaen_383775726",
       "title": "#Kuwait Interior Undersecretary Major-General Abdulwahhab Al-Wuhaib has underlined importance of providing all facilities for citizens & residents returning to Kuwait via border crossings, out of keen",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2031609626387513363",
@@ -139,7 +259,7 @@
       "is_government": true
     },
     {
-      "id": "rss_kunaen_129604321",
+      "id": "rss_kunaen_976162843",
       "title": "#Saudi Foreign Minister Prince Faisal bin Farhan received his #German counterpart Dr. Johann Wadephul in Riyadh, discussing latest developments in the #Gulf region and their security implications.  #K",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2031605970955100497",
@@ -154,7 +274,7 @@
       "is_government": true
     },
     {
-      "id": "rss_kunaen_993609344",
+      "id": "rss_kunaen_519641641",
       "title": "Kuwait National Guard (#KNG) shot down eight hostile drones in the areas under their jurisdiction, Spokesman Brig. Jadaan Fadhel Jadaan said.  #Kuna",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2031605403725803552",
@@ -169,7 +289,7 @@
       "is_government": true
     },
     {
-      "id": "rss_kunaen_930045062",
+      "id": "rss_kunaen_839123644",
       "title": "#GCC Permanent Delegates #UNESCO met with Director-General Khaled El-Anany to discuss #Iranian attacks on educational, cultural facilities in their countries.  #Kuna",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2031604587132494279",
@@ -184,22 +304,7 @@
       "is_government": true
     },
     {
-      "id": "rss_modqatar_485826027",
-      "title": "تعلن وزارة الدفاع القطرية عن تصدي القوات المسلحة لهجمة صاروخية استهدفت دولة قطر. The Ministry of Defense of State of Qatar announces that armed forces intercepted missile attack which targeted State o",
-      "source": "Twitter - Qatar Ministry of Defence",
-      "source_url": "https://x.com/MOD_Qatar/status/2031602654103876063",
-      "published": "2026-03-11T05:26:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "name": "Unknown",
-        "country": "Qatar"
-      },
-      "credibility": 100,
-      "is_government": true
-    },
-    {
-      "id": "rss_kunaen_490327724",
+      "id": "rss_kunaen_483973711",
       "title": "Ten people killed and 18 wounded when Israeli occupation forces launched a new wave of air attacks on several parts of #Lebanon in the early hours of Wednesday.  #Kuna",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2031601063741022659",
@@ -214,7 +319,7 @@
       "is_government": true
     },
     {
-      "id": "rss_mehrnews_847836217",
+      "id": "rss_mehrnews_90250802",
       "title": "Aftermath of the lastest Iranian missile attack on Tel Aviv",
       "source": "Twitter - Mehr News Agency",
       "source_url": "https://x.com/MehrnewsCom/status/2031595196136173854",
@@ -229,7 +334,7 @@
       "is_government": true
     },
     {
-      "id": "rss_mehrnews_372375439",
+      "id": "rss_mehrnews_544179806",
       "title": "🚨 #BREAKING Iraqi resistance group Saraya Awliya al-Dam (SAD) reported carrying out four distinct operations targeting US military bases in the region and across Iraq in the last 24 hours.",
       "source": "Twitter - Mehr News Agency",
       "source_url": "https://x.com/MehrnewsCom/status/2031592774412173770",
@@ -244,7 +349,7 @@
       "is_government": true
     },
     {
-      "id": "rss_mehrnews_466903363",
+      "id": "rss_mehrnews_459445842",
       "title": "🚨 #BREAKING Russian Consulate General DAMAGED in attack on Iran’s Isfahan",
       "source": "Twitter - Mehr News Agency",
       "source_url": "https://x.com/MehrnewsCom/status/2031591245982621971",
@@ -259,7 +364,7 @@
       "is_government": true
     },
     {
-      "id": "rss_mehrnews_625036048",
+      "id": "rss_mehrnews_12927655",
       "title": "🚨 #BREAKING Another US-Israeli drone was successfully shot down in Kerman, south-central Iran.",
       "source": "Twitter - Mehr News Agency",
       "source_url": "https://x.com/MehrnewsCom/status/2031590461983297558",
@@ -274,22 +379,7 @@
       "is_government": true
     },
     {
-      "id": "rss_ncemauae_576186307",
-      "title": "Air defense systems are currently responding to a missile threat. Please remain in a safe location and follow official channels for warnings and updates.",
-      "source": "Twitter - UAE National Emergency",
-      "source_url": "https://x.com/NCEMAUAE/status/2031529293348745346",
-      "published": "2026-03-11T00:35:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "name": "Unknown",
-        "country": "UAE"
-      },
-      "credibility": 100,
-      "is_government": true
-    },
-    {
-      "id": "rss_kunaen_348274731",
+      "id": "rss_kunaen_746687781",
       "title": "#Saudi Ministry of Defense announced the interception and destruction of two drones  #KUNA",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2031494824168235024",
@@ -304,67 +394,7 @@
       "is_government": true
     },
     {
-      "id": "rss_kunaen_923778685",
-      "title": "Minister of Defense: #Kuwait Armed Forces repelled a wave of hostile objects that have penetrated the country since early Tuesday  #KUNA",
-      "source": "Twitter - Kuwait News Agency",
-      "source_url": "https://x.com/kuna_en/status/2031479070844735673",
-      "published": "2026-03-10T21:15:00+00:00",
-      "type": "security",
-      "status": "confirmed",
-      "location": {
-        "name": "Unknown",
-        "country": "Kuwait"
-      },
-      "credibility": 95,
-      "is_government": true
-    },
-    {
-      "id": "rss_moiuae_145448952",
-      "title": "الآن تتعامل الدفاعات الجوية مع تهديـد صاروخي، يرجى البقاء في مكان آمن ومتابعة التحذيرات والمستجدات على المواقــع الرسميـة. Air defense systems are currently dealing with a missile threat. Please remai",
-      "source": "Twitter - UAE Ministry of Interior",
-      "source_url": "https://x.com/moiuae/status/2031476651960447228",
-      "published": "2026-03-10T21:05:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "name": "Unknown",
-        "country": "UAE"
-      },
-      "credibility": 100,
-      "is_government": true
-    },
-    {
-      "id": "rss_moiuae_223154222",
-      "title": "RT by @moiuae: Air defense systems are currently responding to a missile threat. Please remain in a safe location and follow official channels for warnings and updates. pic.",
-      "source": "Twitter - UAE Ministry of Interior",
-      "source_url": "https://x.com/NCEMAUAE/status/2031476420011241958",
-      "published": "2026-03-10T21:04:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "name": "Unknown",
-        "country": "UAE"
-      },
-      "credibility": 100,
-      "is_government": true
-    },
-    {
-      "id": "rss_kunaen_22840714",
-      "title": "#Lebanon: The death toll from renewed Israeli occupation attacks has risen to 570 dead and 1,444 injured  #KUNA",
-      "source": "Twitter - Kuwait News Agency",
-      "source_url": "https://x.com/kuna_en/status/2031475608589382009",
-      "published": "2026-03-10T21:01:00+00:00",
-      "type": "attack",
-      "status": "confirmed",
-      "location": {
-        "name": "Unknown",
-        "country": "Kuwait"
-      },
-      "credibility": 95,
-      "is_government": true
-    },
-    {
-      "id": "rss_moibahrain_761871005",
+      "id": "rss_moibahrain_165276019",
       "title": "The Media briefing by the National Communication Centre on the latest developments in light of Iran’s wrongful attacks. ...",
       "source": "Twitter - Bahrain Ministry of Interior",
       "source_url": "https://www.instagram.com/p/DVt7EZWDvjr",
@@ -379,22 +409,7 @@
       "is_government": true
     },
     {
-      "id": "rss_kunaen_623318719",
-      "title": "#Qatar's Ministry of Defense: The Armed Forces have intercepted a missile attack targeting the country  #KUNA",
-      "source": "Twitter - Kuwait News Agency",
-      "source_url": "https://x.com/kuna_en/status/2031466966704148566",
-      "published": "2026-03-10T20:27:00+00:00",
-      "type": "missile",
-      "status": "confirmed",
-      "location": {
-        "name": "Unknown",
-        "country": "Kuwait"
-      },
-      "credibility": 95,
-      "is_government": true
-    },
-    {
-      "id": "rss_modqatar_862520411",
+      "id": "rss_modqatar_233123850",
       "title": "تعلن وزارة الدفاع القطرية عن تعرض دولة قطر، من بعد ظهر اليوم الثلاثاء، لهجوم بعدد (5) صواريخ باليستية من الجمهورية الإسلامية الإيرانية، حيث نجحت قواتنا المسلحة، بفضل من الله، في التصدي لعدد (5) صواريخ",
       "source": "Twitter - Qatar Ministry of Defence",
       "source_url": "https://x.com/MOD_Qatar/status/2031404661614199239",
@@ -409,7 +424,7 @@
       "is_government": true
     },
     {
-      "id": "rss_wamnews_81710578",
+      "id": "rss_wamnews_48986680",
       "title": "The Ministry of Defence held a military funeral at Zayed Military Hospital in Abu Dhabi for Armed Forces members Captain...",
       "source": "Twitter - WAM News Agency",
       "source_url": "https://www.instagram.com/p/DVtWvzpjZ5f",
@@ -424,7 +439,7 @@
       "is_government": true
     },
     {
-      "id": "rss_wamnews_342291882",
+      "id": "rss_wamnews_850628282",
       "title": "UAE air defences on Tuesday detected nine ballistic missiles, of which eight were destroyed, while one missile fell into...",
       "source": "Twitter - WAM News Agency",
       "source_url": "https://www.instagram.com/p/DVtKA0kCMb8",
@@ -439,7 +454,7 @@
       "is_government": true
     },
     {
-      "id": "rss_moiuae_804959550",
+      "id": "rss_moiuae_507262475",
       "title": "RT by @moiuae: الدفاعات الجوية الإماراتية تتصدى بنجاح للصواريخ الباليستية والجوالة والمسيرات الإيرانية. UAE Air Defences Successfully Intercept Iranian Ballistic and Cruise Missiles and UAVs Attacks#و",
       "source": "Twitter - UAE Ministry of Interior",
       "source_url": "https://x.com/modgovae/status/2031360680260153718",
@@ -454,7 +469,7 @@
       "is_government": true
     },
     {
-      "id": "rss_moduae_502864404",
+      "id": "rss_moduae_730006250",
       "title": "الدفاعات الجوية الإماراتية تتصدى بنجاح للصواريخ الباليستية والجوالة والمسيرات الإيرانية. UAE Air Defences Successfully Intercept Iranian Ballistic and Cruise Missiles and UAVs Attacks#وزارة_الدفاع #وز",
       "source": "Twitter - UAE Ministry of Defence",
       "source_url": "https://x.com/modgovae/status/2031360680260153718",
@@ -469,7 +484,7 @@
       "is_government": true
     },
     {
-      "id": "rss_mehrnews_318004790",
+      "id": "rss_mehrnews_123756941",
       "title": "During the US-Israeli strikes on Isfahan, an Iranian metro worker acted as a human step, allowing women to climb onto the platform to safety.",
       "source": "Twitter - Mehr News Agency",
       "source_url": "https://x.com/MehrnewsCom/status/2031358718680486033",
@@ -484,7 +499,7 @@
       "is_government": true
     },
     {
-      "id": "rss_moduae_789398444",
+      "id": "rss_moduae_231130979",
       "title": "UAE air defences intercept 8 ballistic missiles, 26 UAVs UAE air defences on Tuesday detected 9 ballistic missiles, of which 8 were destroyed, while 1 missile fell into the sea. A total of 35 UAVs wer",
       "source": "Twitter - UAE Ministry of Defence",
       "source_url": "https://x.com/modgovae/status/2031357302004133965",
@@ -499,7 +514,7 @@
       "is_government": true
     },
     {
-      "id": "rss_mdais_554135662",
+      "id": "rss_mdais_947843883",
       "title": "MDA Spokesperson: Following the missile fire toward the State of Israel: At this stage, no casualties are known. MDA teams are treating individuals who were injured on their way to a sheltered space, ",
       "source": "Twitter - Magen David Adom",
       "source_url": "https://x.com/Mdais/status/2031354204510396850",
@@ -514,7 +529,7 @@
       "is_government": true
     },
     {
-      "id": "rss_mehrnews_433039253",
+      "id": "rss_mehrnews_746308817",
       "title": "🚨 #BREAKING Iran shoots down two more Israeli Hermes drones over the provinces of Lorestan and Qom",
       "source": "Twitter - Mehr News Agency",
       "source_url": "https://x.com/MehrnewsCom/status/2031347021764833559",
@@ -529,7 +544,7 @@
       "is_government": true
     },
     {
-      "id": "rss_moiuae_491089479",
+      "id": "rss_moiuae_381850090",
       "title": "RT by @moiuae: Abu Dhabi authorities are responding to a fire that broke out at a facility in the Ruwais Industrial Complex, caused by a drone attack. No injuries have been reported at this time. The ",
       "source": "Twitter - UAE Ministry of Interior",
       "source_url": "https://x.com/ADMediaOffice/status/2031332643586163042",
@@ -544,7 +559,7 @@
       "is_government": true
     },
     {
-      "id": "rss_civildefencead_942489367",
+      "id": "rss_civildefencead_631512196",
       "title": "RT by @CivilDefenceAD: Abu Dhabi authorities are responding to a fire that broke out at a facility in the Ruwais Industrial Complex, caused by a drone attack. No injuries have been reported at this ti",
       "source": "Twitter - Abu Dhabi Civil Defence",
       "source_url": "https://x.com/ADMediaOffice/status/2031332643586163042",
@@ -559,7 +574,7 @@
       "is_government": true
     },
     {
-      "id": "rss_mdais_205733713",
+      "id": "rss_mdais_421001219",
       "title": "Following the missile fire toward the State of Israel: At this stage, no casualties are known. MDA teams are treating several cases of people who were injured on their way to a sheltered area, as well",
       "source": "Twitter - Magen David Adom",
       "source_url": "https://x.com/Mdais/status/2031281599803744642",
@@ -574,7 +589,7 @@
       "is_government": true
     },
     {
-      "id": "rss_wamnews_548342015",
+      "id": "rss_wamnews_962753550",
       "title": "The United Arab Emirates has strongly condemned and denounced the unprovoked terrorist drone attack that targeted the UA...",
       "source": "Twitter - WAM News Agency",
       "source_url": "https://www.instagram.com/p/DVrjAvNiN4c",
@@ -589,7 +604,7 @@
       "is_government": true
     },
     {
-      "id": "rss_ncemauae_950631718",
+      "id": "rss_ncemauae_68764787",
       "title": "National Early Warning System Sound alerts will be changed; the system will remain fully operational to ensure public security alerts. pic.",
       "source": "Twitter - UAE National Emergency",
       "source_url": "https://x.com/NCEMAUAE/status/2031095211955466392",
@@ -604,7 +619,7 @@
       "is_government": true
     },
     {
-      "id": "rss_saudidcd_173229170",
+      "id": "rss_saudidcd_140138757",
       "title": "Know the safety instructions to follow when you hear the all-clear siren. #CivilDefense #SafetyIsPrevention",
       "source": "Twitter - Saudi Civil Defense",
       "source_url": "https://x.com/SaudiDCD/status/2031083209031647355",
@@ -619,7 +634,7 @@
       "is_government": true
     },
     {
-      "id": "rss_saudidcd_738394143",
+      "id": "rss_saudidcd_987727447",
       "title": "Know the safety instructions to follow if you hear a warning siren indicating an active threat while indoors. #CivilDefense #SafetyIsPrevention",
       "source": "Twitter - Saudi Civil Defense",
       "source_url": "https://x.com/SaudiDCD/status/2031082898002977050",
@@ -634,7 +649,7 @@
       "is_government": true
     },
     {
-      "id": "rss_saudidcd_587623376",
+      "id": "rss_saudidcd_194261967",
       "title": "Know the warning siren tones and what they mean during emergencies. #CivilDefense #SafetyIsPrevention",
       "source": "Twitter - Saudi Civil Defense",
       "source_url": "https://x.com/SaudiDCD/status/2031082662157263221",
@@ -649,7 +664,7 @@
       "is_government": true
     },
     {
-      "id": "rss_moduae_299560708",
+      "id": "rss_moduae_269350992",
       "title": "UAE air defences intercept 12 ballistic missiles, 17 UAVs. UAE air defences on Monday detected 15 ballistic missiles, of which 12 were destroyed, while 3 missiles fell into the sea. A total of 18 UAVs",
       "source": "Twitter - UAE Ministry of Defence",
       "source_url": "https://x.com/modgovae/status/2030974755776635328",
