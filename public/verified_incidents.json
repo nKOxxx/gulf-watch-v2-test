@@ -1,15 +1,198 @@
 {
-  "generated_at": "2026-03-11T12:33:52.204656+00:00",
-  "total_raw": 83,
-  "total_verified": 75,
+  "generated_at": "2026-03-11T16:38:24.631335+00:00",
+  "total_raw": 87,
+  "total_verified": 79,
   "status_breakdown": {
     "Verified": 28,
-    "Likely True": 45,
-    "Partially Verified": 2
+    "Likely True": 50,
+    "Partially Verified": 1
   },
   "incidents": [
     {
-      "id": "rss_modqatar_247754536",
+      "id": "rss_moiuae_194422642",
+      "title": "RT by @moiuae: Abu Dhabi authorities have controlled a fire that broke out at Abu Dhabi’s old airport, following successful interception by air defence systems. The incident resulted in no injuries. T",
+      "source": "Twitter - UAE Ministry of Interior",
+      "source_url": "https://x.com/ADMediaOffice/status/2031756637590196404",
+      "published": "2026-03-11T15:38:00+00:00",
+      "type": "security",
+      "status": "confirmed",
+      "location": {
+        "name": "Abu Dhabi",
+        "country": "UAE"
+      },
+      "credibility": 100,
+      "is_government": true,
+      "source_key": "moi_uae",
+      "verification": {
+        "confidence": 100,
+        "status": "Verified",
+        "source_count": 2,
+        "government_sources": 2,
+        "news_sources": 0,
+        "sources": [
+          "civil_defence",
+          "moi_uae"
+        ]
+      },
+      "source_variants": [
+        {
+          "source": "Twitter - UAE Ministry of Interior",
+          "title": "RT by @moiuae: Abu Dhabi authorities have controlled a fire that broke out at Abu Dhabi’s old airport, following successful interception by air defence systems. The incident resulted in no injuries. T",
+          "published": "2026-03-11T15:38:00+00:00",
+          "url": "https://x.com/ADMediaOffice/status/2031756637590196404",
+          "source_key": "moi_uae"
+        },
+        {
+          "source": "Twitter - Abu Dhabi Civil Defence",
+          "title": "RT by @CivilDefenceAD: Abu Dhabi authorities have controlled a fire that broke out at Abu Dhabi’s old airport, following successful interception by air defence systems. The incident resulted in no inj",
+          "published": "2026-03-11T15:38:00+00:00",
+          "url": "https://x.com/ADMediaOffice/status/2031756637590196404",
+          "source_key": "civil_defence"
+        }
+      ]
+    },
+    {
+      "id": "rss_mehrnews_24764520",
+      "title": "🚨 #BREAKING British bank HSBC closed all its branches in Qatar following Iran's stark warning.",
+      "source": "Twitter - Mehr News Agency",
+      "source_url": "https://x.com/MehrnewsCom/status/2031740160711250242",
+      "published": "2026-03-11T14:32:00+00:00",
+      "type": "alert",
+      "status": "confirmed",
+      "location": {
+        "name": "Unknown",
+        "country": "Iran"
+      },
+      "credibility": 85,
+      "is_government": true,
+      "source_key": "mehr_news",
+      "verification": {
+        "confidence": 85,
+        "status": "Likely True",
+        "source_count": 1,
+        "government_sources": 0,
+        "news_sources": 0,
+        "sources": [
+          "mehr_news"
+        ]
+      },
+      "source_variants": [
+        {
+          "source": "Twitter - Mehr News Agency",
+          "title": "🚨 #BREAKING British bank HSBC closed all its branches in Qatar following Iran's stark warning.",
+          "published": "2026-03-11T14:32:00+00:00",
+          "url": "https://x.com/MehrnewsCom/status/2031740160711250242",
+          "source_key": "mehr_news"
+        }
+      ]
+    },
+    {
+      "id": "rss_kunaen_423749264",
+      "title": "#Kuwait's Minister of Defense inspects Kuwaiti army sites, affirming their maximum readiness to preserve security. @KuwaitArmyGHQ  #KUNA",
+      "source": "Twitter - Kuwait News Agency",
+      "source_url": "https://x.com/kuna_en/status/2031728559727796469",
+      "published": "2026-03-11T13:46:00+00:00",
+      "type": "security",
+      "status": "confirmed",
+      "location": {
+        "name": "Unknown",
+        "country": "Kuwait"
+      },
+      "credibility": 95,
+      "is_government": true,
+      "source_key": "kuna",
+      "verification": {
+        "confidence": 100,
+        "status": "Verified",
+        "source_count": 1,
+        "government_sources": 0,
+        "news_sources": 1,
+        "sources": [
+          "kuna"
+        ]
+      },
+      "source_variants": [
+        {
+          "source": "Twitter - Kuwait News Agency",
+          "title": "#Kuwait's Minister of Defense inspects Kuwaiti army sites, affirming their maximum readiness to preserve security. @KuwaitArmyGHQ  #KUNA",
+          "published": "2026-03-11T13:46:00+00:00",
+          "url": "https://x.com/kuna_en/status/2031728559727796469",
+          "source_key": "kuna"
+        }
+      ]
+    },
+    {
+      "id": "rss_mehrnews_894067681",
+      "title": "People flock to leave Dubai as the war in the region escalates amid the continuing US-Israeli attacks against Iran from their bases in West Asia.",
+      "source": "Twitter - Mehr News Agency",
+      "source_url": "https://x.com/MehrnewsCom/status/2031722907835970009",
+      "published": "2026-03-11T13:24:00+00:00",
+      "type": "attack",
+      "status": "confirmed",
+      "location": {
+        "name": "Dubai",
+        "country": "UAE"
+      },
+      "credibility": 85,
+      "is_government": true,
+      "source_key": "mehr_news",
+      "verification": {
+        "confidence": 85,
+        "status": "Likely True",
+        "source_count": 1,
+        "government_sources": 0,
+        "news_sources": 0,
+        "sources": [
+          "mehr_news"
+        ]
+      },
+      "source_variants": [
+        {
+          "source": "Twitter - Mehr News Agency",
+          "title": "People flock to leave Dubai as the war in the region escalates amid the continuing US-Israeli attacks against Iran from their bases in West Asia.",
+          "published": "2026-03-11T13:24:00+00:00",
+          "url": "https://x.com/MehrnewsCom/status/2031722907835970009",
+          "source_key": "mehr_news"
+        }
+      ]
+    },
+    {
+      "id": "rss_kunaen_844969279",
+      "title": "His Highness the Crown Prince receives a telephone call from #German President Frank-Walter Steinmeier, condemning the ongoing Iranian aggression & affirming his country's full support towards #Kuwait",
+      "source": "Twitter - Kuwait News Agency",
+      "source_url": "https://x.com/kuna_en/status/2031711549472010590",
+      "published": "2026-03-11T12:39:00+00:00",
+      "type": "security",
+      "status": "confirmed",
+      "location": {
+        "name": "Unknown",
+        "country": "Kuwait"
+      },
+      "credibility": 95,
+      "is_government": true,
+      "source_key": "kuna",
+      "verification": {
+        "confidence": 100,
+        "status": "Verified",
+        "source_count": 1,
+        "government_sources": 0,
+        "news_sources": 1,
+        "sources": [
+          "kuna"
+        ]
+      },
+      "source_variants": [
+        {
+          "source": "Twitter - Kuwait News Agency",
+          "title": "His Highness the Crown Prince receives a telephone call from #German President Frank-Walter Steinmeier, condemning the ongoing Iranian aggression & affirming his country's full support towards #Kuwait",
+          "published": "2026-03-11T12:39:00+00:00",
+          "url": "https://x.com/kuna_en/status/2031711549472010590",
+          "source_key": "kuna"
+        }
+      ]
+    },
+    {
+      "id": "rss_modqatar_938329899",
       "title": "تعلن وزارة الدفاع القطرية عن تصدي القوات المسلحة لهجمة صاروخية استهدفت دولة قطر. The Ministry of Defense of State of Qatar announces that armed forces intercepted missile attack which targeted State o",
       "source": "Twitter - Qatar Ministry of Defence",
       "source_url": "https://x.com/MOD_Qatar/status/2031705827082739788",
@@ -44,7 +227,7 @@
       ]
     },
     {
-      "id": "rss_mehrnews_80502575",
+      "id": "rss_mehrnews_849419944",
       "title": "🚨 #BREAKING Several explosions heard in Bahrain",
       "source": "Twitter - Mehr News Agency",
       "source_url": "https://x.com/MehrnewsCom/status/2031704060017954961",
@@ -79,7 +262,7 @@
       ]
     },
     {
-      "id": "rss_mehrnews_993836014",
+      "id": "rss_mehrnews_371231781",
       "title": "A massive funeral procession is underway in Tehran on Wednesday for senior military commanders and other fallen soldiers martyred during the ongoing war, with thousands of mourners participating. 🔗",
       "source": "Twitter - Mehr News Agency",
       "source_url": "https://x.com/MehrnewsCom/status/2031703373896908900",
@@ -114,9 +297,9 @@
       ]
     },
     {
-      "id": "rss_dxbmediaoffice_574144031",
-      "title": "Authorities in Dubai confirm that the sounds heard across parts of the city were the result of successful air defence interception operations. Please rely on official sources for updates.",
-      "source": "Twitter - Dubai Media Office",
+      "id": "rss_moiuae_237382660",
+      "title": "RT by @moiuae: Authorities in Dubai confirm that the sounds heard across parts of the city were the result of successful air defence interception operations. Please rely on official sources for update",
+      "source": "Twitter - UAE Ministry of Interior",
       "source_url": "https://x.com/DXBMediaOffice/status/2031698008774226001",
       "published": "2026-03-11T11:45:00+00:00",
       "type": "security",
@@ -125,20 +308,28 @@
         "name": "Dubai",
         "country": "UAE"
       },
-      "credibility": 95,
+      "credibility": 100,
       "is_government": true,
-      "source_key": "unknown",
+      "source_key": "moi_uae",
       "verification": {
-        "confidence": 60,
-        "status": "Partially Verified",
-        "source_count": 1,
-        "government_sources": 0,
+        "confidence": 100,
+        "status": "Verified",
+        "source_count": 2,
+        "government_sources": 1,
         "news_sources": 0,
         "sources": [
+          "moi_uae",
           "unknown"
         ]
       },
       "source_variants": [
+        {
+          "source": "Twitter - UAE Ministry of Interior",
+          "title": "RT by @moiuae: Authorities in Dubai confirm that the sounds heard across parts of the city were the result of successful air defence interception operations. Please rely on official sources for update",
+          "published": "2026-03-11T11:45:00+00:00",
+          "url": "https://x.com/DXBMediaOffice/status/2031698008774226001",
+          "source_key": "moi_uae"
+        },
         {
           "source": "Twitter - Dubai Media Office",
           "title": "Authorities in Dubai confirm that the sounds heard across parts of the city were the result of successful air defence interception operations. Please rely on official sources for updates.",
@@ -149,7 +340,7 @@
       ]
     },
     {
-      "id": "rss_kunaen_922983789",
+      "id": "rss_kunaen_743487280",
       "title": "EU Chief: The military developments in #Iran & the Gulf region have begun to cast direct shadows on global energy markets, amid rising energy prices that are costing Europeans billions of euros. @EU_C",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2031697917422051440",
@@ -184,7 +375,7 @@
       ]
     },
     {
-      "id": "rss_kunaen_747691894",
+      "id": "rss_kunaen_340067844",
       "title": "#Bahrain's air defense systems have intercepted & destroyed 106 missiles & 177 drones since the start of the Iranian attacks.  #KUNA",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2031696581959790755",
@@ -219,7 +410,7 @@
       ]
     },
     {
-      "id": "rss_kunaen_11781232",
+      "id": "rss_kunaen_588388540",
       "title": "#Oman intercepts a drone while another falls into the sea north of Duqm, with no casualties or material damage reported.  #KUNA",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2031681807205204261",
@@ -254,7 +445,7 @@
       ]
     },
     {
-      "id": "rss_moiuae_234125331",
+      "id": "rss_moiuae_916990389",
       "title": "The new issue of 999 magazine has been released, the cultural, social and security magazine by the Ministry of Interior. To view the magazine's topics, please visit the link",
       "source": "Twitter - UAE Ministry of Interior",
       "source_url": "https://x.com/moiuae/status/2031675649245782250",
@@ -289,7 +480,7 @@
       ]
     },
     {
-      "id": "rss_kunaen_61718588",
+      "id": "rss_kunaen_317724488",
       "title": "#Qatar's Ministry of Defense announces that its armed forces are intercepting a missile attack targeting the country  @MOD_Qatar #KUNA",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2031674895101219101",
@@ -331,7 +522,7 @@
       ]
     },
     {
-      "id": "rss_kunaen_999102452",
+      "id": "rss_kunaen_775345455",
       "title": "#Lebanon's Health Ministry reports #Israeli occupation strikes kill 14, wound 38 across several areas of the country  #KUNA",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2031668345641091546",
@@ -366,7 +557,7 @@
       ]
     },
     {
-      "id": "rss_kunaen_458215729",
+      "id": "rss_kunaen_282248760",
       "title": "#Kuwait's Minister of Defense Sheikh Abdullah Ali Abdullah Al-Salem Al-Sabah receives phone call from #United Kingdom Defense Secretary John Healey  #KUNA",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2031667351553241224",
@@ -401,7 +592,7 @@
       ]
     },
     {
-      "id": "rss_moiuae_228550412",
+      "id": "rss_moiuae_39897701",
       "title": "الآن تتعامل الدفاعات الجوية مع تهديـد صاروخي، يرجى البقاء في مكان آمن ومتابعة التحذيرات والمستجدات على المواقــع الرسميـة. Air defense systems are currently dealing with a missile threat. Please remai",
       "source": "Twitter - UAE Ministry of Interior",
       "source_url": "https://x.com/moiuae/status/2031659595522076967",
@@ -422,8 +613,8 @@
         "government_sources": 2,
         "news_sources": 0,
         "sources": [
-          "unknown",
-          "moi_uae"
+          "moi_uae",
+          "unknown"
         ]
       },
       "source_variants": [
@@ -451,7 +642,7 @@
       ]
     },
     {
-      "id": "rss_mehrnews_974562862",
+      "id": "rss_mehrnews_66072629",
       "title": "New York Times: At least 17 US military, diplomatic, and air defense sites across West Asia have been damaged since the war against Iran started.",
       "source": "Twitter - Mehr News Agency",
       "source_url": "https://x.com/MehrnewsCom/status/2031657783142297626",
@@ -486,7 +677,7 @@
       ]
     },
     {
-      "id": "rss_mehrnews_730990292",
+      "id": "rss_mehrnews_836308400",
       "title": "A suicide drone was shot down over Lorestern, western Iran.",
       "source": "Twitter - Mehr News Agency",
       "source_url": "https://x.com/MehrnewsCom/status/2031652728586273212",
@@ -521,7 +712,7 @@
       ]
     },
     {
-      "id": "rss_kunaen_539027064",
+      "id": "rss_kunaen_283425738",
       "title": "#United Kingdom Maritime Trade Operations (UKMTO) says it is receiving a security report of an unknown projectile hitting a cargo ship in the Strait of Hormuz as the crew evacuates  @UK_MTO #KUNA",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2031647353103384809",
@@ -556,7 +747,7 @@
       ]
     },
     {
-      "id": "rss_mehrnews_923985180",
+      "id": "rss_mehrnews_540795102",
       "title": "In a letter to the UN secretary-general and the president of the Security Council, Iran has strongly condemned the “heinous” and “cowardly” assassination of its diplomats in Beirut.",
       "source": "Twitter - Mehr News Agency",
       "source_url": "https://x.com/MehrnewsCom/status/2031644801393652107",
@@ -591,7 +782,7 @@
       ]
     },
     {
-      "id": "rss_mehrnews_973313019",
+      "id": "rss_mehrnews_568447077",
       "title": "🚨 #BREAKING Sirens go off in Jordan",
       "source": "Twitter - Mehr News Agency",
       "source_url": "https://x.com/MehrnewsCom/status/2031642885678883132",
@@ -626,7 +817,7 @@
       ]
     },
     {
-      "id": "rss_moiuae_90997550",
+      "id": "rss_moiuae_503915142",
       "title": "RT by @moiuae: Authorities confirm that two drones fell in the vicinity of Dubai International Airport (DXB) a short while ago, resulting in minor injuries to two Ghanaian nationals and one Bangladesh",
       "source": "Twitter - UAE Ministry of Interior",
       "source_url": "https://x.com/DXBMediaOffice/status/2031635783304753169",
@@ -647,8 +838,8 @@
         "government_sources": 1,
         "news_sources": 0,
         "sources": [
-          "unknown",
-          "moi_uae"
+          "moi_uae",
+          "unknown"
         ]
       },
       "source_variants": [
@@ -669,7 +860,7 @@
       ]
     },
     {
-      "id": "rss_mehrnews_267016233",
+      "id": "rss_mehrnews_125322763",
       "title": "🚨#BREAKING The Islamic Resistance in Iraq says it has carried out 291 military operations over the past 12 days, noting that 13 American soldiers were killed and dozens more wounded during the attacks",
       "source": "Twitter - Mehr News Agency",
       "source_url": "https://x.com/MehrnewsCom/status/2031627463005028615",
@@ -704,7 +895,7 @@
       ]
     },
     {
-      "id": "rss_mehrnews_630943356",
+      "id": "rss_mehrnews_479595211",
       "title": "🚨#BREAKING Powerful explosions heard in Doha",
       "source": "Twitter - Mehr News Agency",
       "source_url": "https://x.com/MehrnewsCom/status/2031611506287055182",
@@ -739,7 +930,7 @@
       ]
     },
     {
-      "id": "rss_kunaen_547221665",
+      "id": "rss_kunaen_556509994",
       "title": "#Kuwait Interior Undersecretary Major-General Abdulwahhab Al-Wuhaib has underlined importance of providing all facilities for citizens & residents returning to Kuwait via border crossings, out of keen",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2031609626387513363",
@@ -774,7 +965,7 @@
       ]
     },
     {
-      "id": "rss_kunaen_233989218",
+      "id": "rss_kunaen_843398802",
       "title": "#Saudi Foreign Minister Prince Faisal bin Farhan received his #German counterpart Dr. Johann Wadephul in Riyadh, discussing latest developments in the #Gulf region and their security implications.  #K",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2031605970955100497",
@@ -809,7 +1000,7 @@
       ]
     },
     {
-      "id": "rss_kunaen_604915857",
+      "id": "rss_kunaen_922726248",
       "title": "Kuwait National Guard (#KNG) shot down eight hostile drones in the areas under their jurisdiction, Spokesman Brig. Jadaan Fadhel Jadaan said.  #Kuna",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2031605403725803552",
@@ -844,77 +1035,7 @@
       ]
     },
     {
-      "id": "rss_kunaen_206502764",
-      "title": "#GCC Permanent Delegates #UNESCO met with Director-General Khaled El-Anany to discuss #Iranian attacks on educational, cultural facilities in their countries.  #Kuna",
-      "source": "Twitter - Kuwait News Agency",
-      "source_url": "https://x.com/kuna_en/status/2031604587132494279",
-      "published": "2026-03-11T05:34:00+00:00",
-      "type": "attack",
-      "status": "confirmed",
-      "location": {
-        "name": "Unknown",
-        "country": "Kuwait"
-      },
-      "credibility": 95,
-      "is_government": true,
-      "source_key": "kuna",
-      "verification": {
-        "confidence": 100,
-        "status": "Verified",
-        "source_count": 1,
-        "government_sources": 0,
-        "news_sources": 1,
-        "sources": [
-          "kuna"
-        ]
-      },
-      "source_variants": [
-        {
-          "source": "Twitter - Kuwait News Agency",
-          "title": "#GCC Permanent Delegates #UNESCO met with Director-General Khaled El-Anany to discuss #Iranian attacks on educational, cultural facilities in their countries.  #Kuna",
-          "published": "2026-03-11T05:34:00+00:00",
-          "url": "https://x.com/kuna_en/status/2031604587132494279",
-          "source_key": "kuna"
-        }
-      ]
-    },
-    {
-      "id": "rss_kunaen_331641157",
-      "title": "Ten people killed and 18 wounded when Israeli occupation forces launched a new wave of air attacks on several parts of #Lebanon in the early hours of Wednesday.  #Kuna",
-      "source": "Twitter - Kuwait News Agency",
-      "source_url": "https://x.com/kuna_en/status/2031601063741022659",
-      "published": "2026-03-11T05:20:00+00:00",
-      "type": "attack",
-      "status": "confirmed",
-      "location": {
-        "name": "Unknown",
-        "country": "Kuwait"
-      },
-      "credibility": 95,
-      "is_government": true,
-      "source_key": "kuna",
-      "verification": {
-        "confidence": 100,
-        "status": "Verified",
-        "source_count": 1,
-        "government_sources": 0,
-        "news_sources": 1,
-        "sources": [
-          "kuna"
-        ]
-      },
-      "source_variants": [
-        {
-          "source": "Twitter - Kuwait News Agency",
-          "title": "Ten people killed and 18 wounded when Israeli occupation forces launched a new wave of air attacks on several parts of #Lebanon in the early hours of Wednesday.  #Kuna",
-          "published": "2026-03-11T05:20:00+00:00",
-          "url": "https://x.com/kuna_en/status/2031601063741022659",
-          "source_key": "kuna"
-        }
-      ]
-    },
-    {
-      "id": "rss_mehrnews_116277843",
+      "id": "rss_mehrnews_12043795",
       "title": "Aftermath of the lastest Iranian missile attack on Tel Aviv",
       "source": "Twitter - Mehr News Agency",
       "source_url": "https://x.com/MehrnewsCom/status/2031595196136173854",
@@ -949,112 +1070,636 @@
       ]
     },
     {
-      "id": "rss_mehrnews_94349638",
-      "title": "🚨 #BREAKING Iraqi resistance group Saraya Awliya al-Dam (SAD) reported carrying out four distinct operations targeting US military bases in the region and across Iraq in the last 24 hours.",
-      "source": "Twitter - Mehr News Agency",
-      "source_url": "https://x.com/MehrnewsCom/status/2031592774412173770",
-      "published": "2026-03-11T04:47:00+00:00",
-      "type": "security",
-      "status": "confirmed",
-      "location": {
-        "name": "Unknown",
-        "country": "Iran"
-      },
-      "credibility": 85,
-      "is_government": true,
-      "source_key": "mehr_news",
-      "verification": {
-        "confidence": 85,
-        "status": "Likely True",
-        "source_count": 1,
-        "government_sources": 0,
-        "news_sources": 0,
-        "sources": [
-          "mehr_news"
-        ]
-      },
-      "source_variants": [
-        {
-          "source": "Twitter - Mehr News Agency",
-          "title": "🚨 #BREAKING Iraqi resistance group Saraya Awliya al-Dam (SAD) reported carrying out four distinct operations targeting US military bases in the region and across Iraq in the last 24 hours.",
-          "published": "2026-03-11T04:47:00+00:00",
-          "url": "https://x.com/MehrnewsCom/status/2031592774412173770",
-          "source_key": "mehr_news"
-        }
-      ]
-    },
-    {
-      "id": "rss_mehrnews_922373282",
-      "title": "🚨 #BREAKING Russian Consulate General DAMAGED in attack on Iran’s Isfahan",
-      "source": "Twitter - Mehr News Agency",
-      "source_url": "https://x.com/MehrnewsCom/status/2031591245982621971",
-      "published": "2026-03-11T04:41:00+00:00",
+      "id": "newsdata_d96ec9c616268454cbb2fb70eb34b801",
+      "title": "Israel intensifies strikes on repression sites, expands outreach to Iranians as regime repression deepens (March 8-10 updates)",
+      "source": "NewsData.io - Fdd's Long War Journal",
+      "source_url": "https://www.longwarjournal.org/archives/2026/03/israel-intensifies-strikes-on-repression-sites-expands-outreach-to-iranians-as-regime-repression-deepens-march-8-10-updates.php",
+      "published": "2026-03-11T00:38:47+00:00",
       "type": "attack",
-      "status": "confirmed",
+      "status": "reported",
       "location": {
-        "name": "Unknown",
-        "country": "Iran"
+        "name": "Iran",
+        "country": "Iran",
+        "lat": 32.4279,
+        "lng": 53.688
       },
-      "credibility": 85,
-      "is_government": true,
-      "source_key": "mehr_news",
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata",
       "verification": {
-        "confidence": 85,
+        "confidence": 80,
         "status": "Likely True",
         "source_count": 1,
         "government_sources": 0,
         "news_sources": 0,
         "sources": [
-          "mehr_news"
+          "newsdata"
         ]
       },
       "source_variants": [
         {
-          "source": "Twitter - Mehr News Agency",
-          "title": "🚨 #BREAKING Russian Consulate General DAMAGED in attack on Iran’s Isfahan",
-          "published": "2026-03-11T04:41:00+00:00",
-          "url": "https://x.com/MehrnewsCom/status/2031591245982621971",
-          "source_key": "mehr_news"
+          "source": "NewsData.io - Fdd's Long War Journal",
+          "title": "Israel intensifies strikes on repression sites, expands outreach to Iranians as regime repression deepens (March 8-10 updates)",
+          "published": "2026-03-11T00:38:47+00:00",
+          "url": "https://www.longwarjournal.org/archives/2026/03/israel-intensifies-strikes-on-repression-sites-expands-outreach-to-iranians-as-regime-repression-deepens-march-8-10-updates.php",
+          "source_key": "newsdata"
         }
       ]
     },
     {
-      "id": "rss_mehrnews_369435250",
-      "title": "🚨 #BREAKING Another US-Israeli drone was successfully shot down in Kerman, south-central Iran.",
-      "source": "Twitter - Mehr News Agency",
-      "source_url": "https://x.com/MehrnewsCom/status/2031590461983297558",
-      "published": "2026-03-11T04:38:00+00:00",
-      "type": "drone",
-      "status": "confirmed",
+      "id": "newsdata_6f0117ce3c51cb6d9c664a21107aed1c",
+      "title": "Explosion heard near US Consulate in Erbil as drone intercepted",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/explosion-heard-near-us-consulate-in-erbil-as-drone-intercepted/3858984",
+      "published": "2026-03-10T22:50:13+00:00",
+      "type": "missile",
+      "status": "reported",
       "location": {
-        "name": "Unknown",
-        "country": "Iran"
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
       },
-      "credibility": 85,
-      "is_government": true,
-      "source_key": "mehr_news",
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata",
       "verification": {
-        "confidence": 85,
+        "confidence": 80,
         "status": "Likely True",
         "source_count": 1,
         "government_sources": 0,
         "news_sources": 0,
         "sources": [
-          "mehr_news"
+          "newsdata"
         ]
       },
       "source_variants": [
         {
-          "source": "Twitter - Mehr News Agency",
-          "title": "🚨 #BREAKING Another US-Israeli drone was successfully shot down in Kerman, south-central Iran.",
-          "published": "2026-03-11T04:38:00+00:00",
-          "url": "https://x.com/MehrnewsCom/status/2031590461983297558",
-          "source_key": "mehr_news"
+          "source": "NewsData.io - Anadolu Agency",
+          "title": "Explosion heard near US Consulate in Erbil as drone intercepted",
+          "published": "2026-03-10T22:50:13+00:00",
+          "url": "https://www.aa.com.tr/en/middle-east/explosion-heard-near-us-consulate-in-erbil-as-drone-intercepted/3858984",
+          "source_key": "newsdata"
         }
       ]
     },
     {
-      "id": "rss_moibahrain_83274611",
+      "id": "newsdata_19eb453c546fd7f347c9b598d317099c",
+      "title": "Iranian drone and missile barrages strike Arab states across the region (March 9-10 updates)",
+      "source": "NewsData.io - Fdd's Long War Journal",
+      "source_url": "https://www.longwarjournal.org/archives/2026/03/iranian-drone-and-missile-barrages-strike-arab-states-across-the-region-march-9-10-updates.php",
+      "published": "2026-03-10T22:23:41+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Iran",
+        "country": "Iran",
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata",
+      "verification": {
+        "confidence": 80,
+        "status": "Likely True",
+        "source_count": 1,
+        "government_sources": 0,
+        "news_sources": 0,
+        "sources": [
+          "newsdata"
+        ]
+      },
+      "source_variants": [
+        {
+          "source": "NewsData.io - Fdd's Long War Journal",
+          "title": "Iranian drone and missile barrages strike Arab states across the region (March 9-10 updates)",
+          "published": "2026-03-10T22:23:41+00:00",
+          "url": "https://www.longwarjournal.org/archives/2026/03/iranian-drone-and-missile-barrages-strike-arab-states-across-the-region-march-9-10-updates.php",
+          "source_key": "newsdata"
+        }
+      ]
+    },
+    {
+      "id": "newsdata_d0fea095b283c8c788fba7eba8777a8a",
+      "title": "Commentary: What TikTok and Huawei can teach Anthropic",
+      "source": "NewsData.io - Channel Newsasia",
+      "source_url": "https://www.channelnewsasia.com/commentary/anthropic-supply-chain-risk-claude-tiktok-huawei-ai-5983756",
+      "published": "2026-03-10T21:58:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata",
+      "verification": {
+        "confidence": 80,
+        "status": "Likely True",
+        "source_count": 1,
+        "government_sources": 0,
+        "news_sources": 0,
+        "sources": [
+          "newsdata"
+        ]
+      },
+      "source_variants": [
+        {
+          "source": "NewsData.io - Channel Newsasia",
+          "title": "Commentary: What TikTok and Huawei can teach Anthropic",
+          "published": "2026-03-10T21:58:00+00:00",
+          "url": "https://www.channelnewsasia.com/commentary/anthropic-supply-chain-risk-claude-tiktok-huawei-ai-5983756",
+          "source_key": "newsdata"
+        }
+      ]
+    },
+    {
+      "id": "newsdata_d0fea095b283c8c788fba7eba8777a8a",
+      "title": "Commentary: What TikTok and Huawei can teach Anthropic",
+      "source": "NewsData.io - Channel Newsasia",
+      "source_url": "https://www.channelnewsasia.com/commentary/anthropic-supply-chain-risk-claude-tiktok-huawei-ai-5983756",
+      "published": "2026-03-10T21:58:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Saudi Arabia",
+        "country": "Saudi Arabia",
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata",
+      "verification": {
+        "confidence": 80,
+        "status": "Likely True",
+        "source_count": 1,
+        "government_sources": 0,
+        "news_sources": 0,
+        "sources": [
+          "newsdata"
+        ]
+      },
+      "source_variants": [
+        {
+          "source": "NewsData.io - Channel Newsasia",
+          "title": "Commentary: What TikTok and Huawei can teach Anthropic",
+          "published": "2026-03-10T21:58:00+00:00",
+          "url": "https://www.channelnewsasia.com/commentary/anthropic-supply-chain-risk-claude-tiktok-huawei-ai-5983756",
+          "source_key": "newsdata"
+        }
+      ]
+    },
+    {
+      "id": "newsdata_d0fea095b283c8c788fba7eba8777a8a",
+      "title": "Commentary: What TikTok and Huawei can teach Anthropic",
+      "source": "NewsData.io - Channel Newsasia",
+      "source_url": "https://www.channelnewsasia.com/commentary/anthropic-supply-chain-risk-claude-tiktok-huawei-ai-5983756",
+      "published": "2026-03-10T21:58:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Kuwait",
+        "country": "Kuwait",
+        "lat": 29.3759,
+        "lng": 47.9774
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata",
+      "verification": {
+        "confidence": 80,
+        "status": "Likely True",
+        "source_count": 1,
+        "government_sources": 0,
+        "news_sources": 0,
+        "sources": [
+          "newsdata"
+        ]
+      },
+      "source_variants": [
+        {
+          "source": "NewsData.io - Channel Newsasia",
+          "title": "Commentary: What TikTok and Huawei can teach Anthropic",
+          "published": "2026-03-10T21:58:00+00:00",
+          "url": "https://www.channelnewsasia.com/commentary/anthropic-supply-chain-risk-claude-tiktok-huawei-ai-5983756",
+          "source_key": "newsdata"
+        }
+      ]
+    },
+    {
+      "id": "newsdata_d0fea095b283c8c788fba7eba8777a8a",
+      "title": "Commentary: What TikTok and Huawei can teach Anthropic",
+      "source": "NewsData.io - Channel Newsasia",
+      "source_url": "https://www.channelnewsasia.com/commentary/anthropic-supply-chain-risk-claude-tiktok-huawei-ai-5983756",
+      "published": "2026-03-10T21:58:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Bahrain",
+        "country": "Bahrain",
+        "lat": 26.2285,
+        "lng": 50.586
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata",
+      "verification": {
+        "confidence": 80,
+        "status": "Likely True",
+        "source_count": 1,
+        "government_sources": 0,
+        "news_sources": 0,
+        "sources": [
+          "newsdata"
+        ]
+      },
+      "source_variants": [
+        {
+          "source": "NewsData.io - Channel Newsasia",
+          "title": "Commentary: What TikTok and Huawei can teach Anthropic",
+          "published": "2026-03-10T21:58:00+00:00",
+          "url": "https://www.channelnewsasia.com/commentary/anthropic-supply-chain-risk-claude-tiktok-huawei-ai-5983756",
+          "source_key": "newsdata"
+        }
+      ]
+    },
+    {
+      "id": "newsdata_b27075505e8edfef477938fe0a0e8e19",
+      "title": "Saudi Arabia, Bahrain, UAE announce interception of Iranian drones and missiles",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/saudi-arabia-bahrain-uae-announce-interception-of-iranian-drones-and-missiles/3858936",
+      "published": "2026-03-10T21:57:36+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata",
+      "verification": {
+        "confidence": 80,
+        "status": "Likely True",
+        "source_count": 1,
+        "government_sources": 0,
+        "news_sources": 0,
+        "sources": [
+          "newsdata"
+        ]
+      },
+      "source_variants": [
+        {
+          "source": "NewsData.io - Anadolu Agency",
+          "title": "Saudi Arabia, Bahrain, UAE announce interception of Iranian drones and missiles",
+          "published": "2026-03-10T21:57:36+00:00",
+          "url": "https://www.aa.com.tr/en/middle-east/saudi-arabia-bahrain-uae-announce-interception-of-iranian-drones-and-missiles/3858936",
+          "source_key": "newsdata"
+        }
+      ]
+    },
+    {
+      "id": "newsdata_78e6475e6477815034494c8956496682",
+      "title": "UAE says its air defenses intercepted barrage of Iranian ballistic missiles",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/uae-says-its-air-defenses-intercepted-barrage-of-iranian-ballistic-missiles/3858936",
+      "published": "2026-03-10T21:57:36+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata",
+      "verification": {
+        "confidence": 80,
+        "status": "Likely True",
+        "source_count": 1,
+        "government_sources": 0,
+        "news_sources": 0,
+        "sources": [
+          "newsdata"
+        ]
+      },
+      "source_variants": [
+        {
+          "source": "NewsData.io - Anadolu Agency",
+          "title": "UAE says its air defenses intercepted barrage of Iranian ballistic missiles",
+          "published": "2026-03-10T21:57:36+00:00",
+          "url": "https://www.aa.com.tr/en/middle-east/uae-says-its-air-defenses-intercepted-barrage-of-iranian-ballistic-missiles/3858936",
+          "source_key": "newsdata"
+        }
+      ]
+    },
+    {
+      "id": "newsdata_9e0d56faf609737fa30c1e29f382971b",
+      "title": "Saudi Arabia says two drones intercepted near Shaybah oilfield",
+      "source": "NewsData.io - The Peninsula Qatar",
+      "source_url": "https://thepeninsulaqatar.com/article/11/03/2026/saudi-arabia-says-two-drones-intercepted-near-shaybah-oilfield",
+      "published": "2026-03-10T21:18:57+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata",
+      "verification": {
+        "confidence": 80,
+        "status": "Likely True",
+        "source_count": 1,
+        "government_sources": 0,
+        "news_sources": 0,
+        "sources": [
+          "newsdata"
+        ]
+      },
+      "source_variants": [
+        {
+          "source": "NewsData.io - The Peninsula Qatar",
+          "title": "Saudi Arabia says two drones intercepted near Shaybah oilfield",
+          "published": "2026-03-10T21:18:57+00:00",
+          "url": "https://thepeninsulaqatar.com/article/11/03/2026/saudi-arabia-says-two-drones-intercepted-near-shaybah-oilfield",
+          "source_key": "newsdata"
+        }
+      ]
+    },
+    {
+      "id": "newsdata_7f424ae1fd86fba20250a80f8a72e0a6",
+      "title": "Around 140 US service members wounded in Iran war, Pentagon says",
+      "source": "NewsData.io - Turks",
+      "source_url": "https://turks.us/around-140-us-service-members-wounded-in-iran-war-pentagon-says/",
+      "published": "2026-03-10T21:10:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata",
+      "verification": {
+        "confidence": 80,
+        "status": "Likely True",
+        "source_count": 1,
+        "government_sources": 0,
+        "news_sources": 0,
+        "sources": [
+          "newsdata"
+        ]
+      },
+      "source_variants": [
+        {
+          "source": "NewsData.io - Turks",
+          "title": "Around 140 US service members wounded in Iran war, Pentagon says",
+          "published": "2026-03-10T21:10:00+00:00",
+          "url": "https://turks.us/around-140-us-service-members-wounded-in-iran-war-pentagon-says/",
+          "source_key": "newsdata"
+        }
+      ]
+    },
+    {
+      "id": "newsdata_e563d503b48c8f51d883b81ee093e1bb",
+      "title": "US vows most intense day of Iran strikes",
+      "source": "NewsData.io - Qatar Tribune",
+      "source_url": "https://www.qatar-tribune.com/article/223579/world/us-vows-most-intense-day-of-iran-strikes",
+      "published": "2026-03-10T21:00:00+00:00",
+      "type": "attack",
+      "status": "reported",
+      "location": {
+        "name": "Qatar",
+        "country": "Qatar",
+        "lat": 25.2854,
+        "lng": 51.531
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata",
+      "verification": {
+        "confidence": 80,
+        "status": "Likely True",
+        "source_count": 1,
+        "government_sources": 0,
+        "news_sources": 0,
+        "sources": [
+          "newsdata"
+        ]
+      },
+      "source_variants": [
+        {
+          "source": "NewsData.io - Qatar Tribune",
+          "title": "US vows most intense day of Iran strikes",
+          "published": "2026-03-10T21:00:00+00:00",
+          "url": "https://www.qatar-tribune.com/article/223579/world/us-vows-most-intense-day-of-iran-strikes",
+          "source_key": "newsdata"
+        }
+      ]
+    },
+    {
+      "id": "newsdata_b42c629f5a63ac7c7f0bcd55747ec656",
+      "title": "Israeli strikes hit southern Lebanon as tensions escalate",
+      "source": "NewsData.io - Qatar Tribune",
+      "source_url": "https://www.qatar-tribune.com/article/223577/world/israeli-strikes-hit-southern-lebanon-as-tensions-escalate",
+      "published": "2026-03-10T21:00:00+00:00",
+      "type": "attack",
+      "status": "reported",
+      "location": {
+        "name": "Qatar",
+        "country": "Qatar",
+        "lat": 25.2854,
+        "lng": 51.531
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata",
+      "verification": {
+        "confidence": 80,
+        "status": "Likely True",
+        "source_count": 1,
+        "government_sources": 0,
+        "news_sources": 0,
+        "sources": [
+          "newsdata"
+        ]
+      },
+      "source_variants": [
+        {
+          "source": "NewsData.io - Qatar Tribune",
+          "title": "Israeli strikes hit southern Lebanon as tensions escalate",
+          "published": "2026-03-10T21:00:00+00:00",
+          "url": "https://www.qatar-tribune.com/article/223577/world/israeli-strikes-hit-southern-lebanon-as-tensions-escalate",
+          "source_key": "newsdata"
+        }
+      ]
+    },
+    {
+      "id": "newsdata_19b2905b6278b6a5c594158021d976c7",
+      "title": "US and Iran dig in and ramp up threats as war rages with no end in sight",
+      "source": "NewsData.io - Channel Newsasia",
+      "source_url": "https://www.channelnewsasia.com/world/iran-war-us-threats-hegseth-middle-east-shipping-oil-5985086",
+      "published": "2026-03-10T20:52:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata",
+      "verification": {
+        "confidence": 80,
+        "status": "Likely True",
+        "source_count": 1,
+        "government_sources": 0,
+        "news_sources": 0,
+        "sources": [
+          "newsdata"
+        ]
+      },
+      "source_variants": [
+        {
+          "source": "NewsData.io - Channel Newsasia",
+          "title": "US and Iran dig in and ramp up threats as war rages with no end in sight",
+          "published": "2026-03-10T20:52:00+00:00",
+          "url": "https://www.channelnewsasia.com/world/iran-war-us-threats-hegseth-middle-east-shipping-oil-5985086",
+          "source_key": "newsdata"
+        }
+      ]
+    },
+    {
+      "id": "newsdata_19b2905b6278b6a5c594158021d976c7",
+      "title": "US and Iran dig in and ramp up threats as war rages with no end in sight",
+      "source": "NewsData.io - Channel Newsasia",
+      "source_url": "https://www.channelnewsasia.com/world/iran-war-us-threats-hegseth-middle-east-shipping-oil-5985086",
+      "published": "2026-03-10T20:52:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Saudi Arabia",
+        "country": "Saudi Arabia",
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata",
+      "verification": {
+        "confidence": 80,
+        "status": "Likely True",
+        "source_count": 1,
+        "government_sources": 0,
+        "news_sources": 0,
+        "sources": [
+          "newsdata"
+        ]
+      },
+      "source_variants": [
+        {
+          "source": "NewsData.io - Channel Newsasia",
+          "title": "US and Iran dig in and ramp up threats as war rages with no end in sight",
+          "published": "2026-03-10T20:52:00+00:00",
+          "url": "https://www.channelnewsasia.com/world/iran-war-us-threats-hegseth-middle-east-shipping-oil-5985086",
+          "source_key": "newsdata"
+        }
+      ]
+    },
+    {
+      "id": "newsdata_19b2905b6278b6a5c594158021d976c7",
+      "title": "US and Iran dig in and ramp up threats as war rages with no end in sight",
+      "source": "NewsData.io - Channel Newsasia",
+      "source_url": "https://www.channelnewsasia.com/world/iran-war-us-threats-hegseth-middle-east-shipping-oil-5985086",
+      "published": "2026-03-10T20:52:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Kuwait",
+        "country": "Kuwait",
+        "lat": 29.3759,
+        "lng": 47.9774
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata",
+      "verification": {
+        "confidence": 80,
+        "status": "Likely True",
+        "source_count": 1,
+        "government_sources": 0,
+        "news_sources": 0,
+        "sources": [
+          "newsdata"
+        ]
+      },
+      "source_variants": [
+        {
+          "source": "NewsData.io - Channel Newsasia",
+          "title": "US and Iran dig in and ramp up threats as war rages with no end in sight",
+          "published": "2026-03-10T20:52:00+00:00",
+          "url": "https://www.channelnewsasia.com/world/iran-war-us-threats-hegseth-middle-east-shipping-oil-5985086",
+          "source_key": "newsdata"
+        }
+      ]
+    },
+    {
+      "id": "newsdata_19b2905b6278b6a5c594158021d976c7",
+      "title": "US and Iran dig in and ramp up threats as war rages with no end in sight",
+      "source": "NewsData.io - Channel Newsasia",
+      "source_url": "https://www.channelnewsasia.com/world/iran-war-us-threats-hegseth-middle-east-shipping-oil-5985086",
+      "published": "2026-03-10T20:52:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Bahrain",
+        "country": "Bahrain",
+        "lat": 26.2285,
+        "lng": 50.586
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata",
+      "verification": {
+        "confidence": 80,
+        "status": "Likely True",
+        "source_count": 1,
+        "government_sources": 0,
+        "news_sources": 0,
+        "sources": [
+          "newsdata"
+        ]
+      },
+      "source_variants": [
+        {
+          "source": "NewsData.io - Channel Newsasia",
+          "title": "US and Iran dig in and ramp up threats as war rages with no end in sight",
+          "published": "2026-03-10T20:52:00+00:00",
+          "url": "https://www.channelnewsasia.com/world/iran-war-us-threats-hegseth-middle-east-shipping-oil-5985086",
+          "source_key": "newsdata"
+        }
+      ]
+    },
+    {
+      "id": "rss_moibahrain_728295441",
       "title": "The Media briefing by the National Communication Centre on the latest developments in light of Iran’s wrongful attacks. ...",
       "source": "Twitter - Bahrain Ministry of Interior",
       "source_url": "https://www.instagram.com/p/DVt7EZWDvjr",
@@ -1085,6 +1730,43 @@
           "published": "2026-03-10T20:42:50+00:00",
           "url": "https://www.instagram.com/p/DVt7EZWDvjr",
           "source_key": "bahrain_moi"
+        }
+      ]
+    },
+    {
+      "id": "newsdata_ee450b36e022aee7d915e5f68dd7bb82",
+      "title": "Qatar says missile attack intercepted amid regional escalation",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/qatar-says-missile-attack-intercepted-amid-regional-escalation/3858765",
+      "published": "2026-03-10T19:30:42+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata",
+      "verification": {
+        "confidence": 80,
+        "status": "Likely True",
+        "source_count": 1,
+        "government_sources": 0,
+        "news_sources": 0,
+        "sources": [
+          "newsdata"
+        ]
+      },
+      "source_variants": [
+        {
+          "source": "NewsData.io - Anadolu Agency",
+          "title": "Qatar says missile attack intercepted amid regional escalation",
+          "published": "2026-03-10T19:30:42+00:00",
+          "url": "https://www.aa.com.tr/en/middle-east/qatar-says-missile-attack-intercepted-amid-regional-escalation/3858765",
+          "source_key": "newsdata"
         }
       ]
     },
@@ -1163,7 +1845,7 @@
       ]
     },
     {
-      "id": "rss_modqatar_224605877",
+      "id": "rss_modqatar_496121157",
       "title": "تعلن وزارة الدفاع القطرية عن تعرض دولة قطر، من بعد ظهر اليوم الثلاثاء، لهجوم بعدد (5) صواريخ باليستية من الجمهورية الإسلامية الإيرانية، حيث نجحت قواتنا المسلحة، بفضل من الله، في التصدي لعدد (5) صواريخ",
       "source": "Twitter - Qatar Ministry of Defence",
       "source_url": "https://x.com/MOD_Qatar/status/2031404661614199239",
@@ -1198,7 +1880,7 @@
       ]
     },
     {
-      "id": "rss_wamnews_477279964",
+      "id": "rss_wamnews_646354218",
       "title": "The Ministry of Defence held a military funeral at Zayed Military Hospital in Abu Dhabi for Armed Forces members Captain...",
       "source": "Twitter - WAM News Agency",
       "source_url": "https://www.instagram.com/p/DVtWvzpjZ5f",
@@ -1273,13 +1955,6 @@
           "published": "2026-03-10T15:08:48+00:00",
           "url": "https://www.aa.com.tr/en/asia-pacific/china-defense-chief-dong-tells-military-to-shape-internal-external-stability-/3858345",
           "source_key": "newsdata"
-        },
-        {
-          "source": "NewsData.io - Anadolu Agency",
-          "title": "Syria appoints assistant defense minister for eastern region",
-          "published": "2026-03-10T14:51:55+00:00",
-          "url": "https://www.aa.com.tr/en/middle-east/syria-appoints-assistant-defense-minister-for-eastern-region/3858327",
-          "source_key": "newsdata"
         }
       ]
     },
@@ -1316,117 +1991,6 @@
           "title": "UAE says 26 drones intercepted, 8 ballistic missiles destroyed in latest Iranian attacks",
           "published": "2026-03-10T15:06:00+00:00",
           "url": "https://www.aa.com.tr/en/middle-east/uae-says-26-drones-intercepted-8-ballistic-missiles-destroyed-in-latest-iranian-attacks/3858341",
-          "source_key": "newsdata"
-        }
-      ]
-    },
-    {
-      "id": "newsdata_b537ca42d87336a0038c404150ec1be7",
-      "title": "NATO continues to adapt ‘ballistic missile defense posture to evolving threats’",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/europe/nato-continues-to-adapt-ballistic-missile-defense-posture-to-evolving-threats-/3858317",
-      "published": "2026-03-10T14:43:43+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata",
-      "verification": {
-        "confidence": 80,
-        "status": "Likely True",
-        "source_count": 1,
-        "government_sources": 0,
-        "news_sources": 0,
-        "sources": [
-          "newsdata"
-        ]
-      },
-      "source_variants": [
-        {
-          "source": "NewsData.io - Anadolu Agency",
-          "title": "NATO continues to adapt ‘ballistic missile defense posture to evolving threats’",
-          "published": "2026-03-10T14:43:43+00:00",
-          "url": "https://www.aa.com.tr/en/europe/nato-continues-to-adapt-ballistic-missile-defense-posture-to-evolving-threats-/3858317",
-          "source_key": "newsdata"
-        }
-      ]
-    },
-    {
-      "id": "newsdata_3a05e76e383fe9e4fcc3ff6e4da895ff",
-      "title": "Britain ‘doesn’t have a navy’ capable of joining foreign war, says far-right leader",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/europe/britain-doesn-t-have-a-navy-capable-of-joining-foreign-war-says-far-right-leader/3858313",
-      "published": "2026-03-10T14:40:17+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata",
-      "verification": {
-        "confidence": 80,
-        "status": "Likely True",
-        "source_count": 1,
-        "government_sources": 0,
-        "news_sources": 0,
-        "sources": [
-          "newsdata"
-        ]
-      },
-      "source_variants": [
-        {
-          "source": "NewsData.io - Anadolu Agency",
-          "title": "Britain ‘doesn’t have a navy’ capable of joining foreign war, says far-right leader",
-          "published": "2026-03-10T14:40:17+00:00",
-          "url": "https://www.aa.com.tr/en/europe/britain-doesn-t-have-a-navy-capable-of-joining-foreign-war-says-far-right-leader/3858313",
-          "source_key": "newsdata"
-        }
-      ]
-    },
-    {
-      "id": "newsdata_6f3b9bbc381b1131a0c2a1f386aa19df",
-      "title": "France’s new nuclear plan sparks debate over European deterrence",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/europe/france-s-new-nuclear-plan-sparks-debate-over-european-deterrence/3858307",
-      "published": "2026-03-10T14:35:30+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata",
-      "verification": {
-        "confidence": 80,
-        "status": "Likely True",
-        "source_count": 1,
-        "government_sources": 0,
-        "news_sources": 0,
-        "sources": [
-          "newsdata"
-        ]
-      },
-      "source_variants": [
-        {
-          "source": "NewsData.io - Anadolu Agency",
-          "title": "France’s new nuclear plan sparks debate over European deterrence",
-          "published": "2026-03-10T14:35:30+00:00",
-          "url": "https://www.aa.com.tr/en/europe/france-s-new-nuclear-plan-sparks-debate-over-european-deterrence/3858307",
           "source_key": "newsdata"
         }
       ]
@@ -1469,44 +2033,7 @@
       ]
     },
     {
-      "id": "newsdata_8b95ac95c8d08110b2e4db4cf7d23a4a",
-      "title": "Russia proposes law to use military abroad to protect citizens from foreign prosecution",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/asia-pacific/russia-proposes-law-to-use-military-abroad-to-protect-citizens-from-foreign-prosecution/3858233",
-      "published": "2026-03-10T13:41:23+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata",
-      "verification": {
-        "confidence": 80,
-        "status": "Likely True",
-        "source_count": 1,
-        "government_sources": 0,
-        "news_sources": 0,
-        "sources": [
-          "newsdata"
-        ]
-      },
-      "source_variants": [
-        {
-          "source": "NewsData.io - Anadolu Agency",
-          "title": "Russia proposes law to use military abroad to protect citizens from foreign prosecution",
-          "published": "2026-03-10T13:41:23+00:00",
-          "url": "https://www.aa.com.tr/en/asia-pacific/russia-proposes-law-to-use-military-abroad-to-protect-citizens-from-foreign-prosecution/3858233",
-          "source_key": "newsdata"
-        }
-      ]
-    },
-    {
-      "id": "rss_moduae_481614317",
+      "id": "rss_moduae_7480071",
       "title": "UAE air defences intercept 8 ballistic missiles, 26 UAVs UAE air defences on Tuesday detected 9 ballistic missiles, of which 8 were destroyed, while 1 missile fell into the sea. A total of 35 UAVs wer",
       "source": "Twitter - UAE Ministry of Defence",
       "source_url": "https://x.com/modgovae/status/2031357302004133965",
@@ -1527,8 +2054,8 @@
         "government_sources": 1,
         "news_sources": 1,
         "sources": [
-          "wam",
-          "mod_uae"
+          "mod_uae",
+          "wam"
         ]
       },
       "source_variants": [
@@ -1549,9 +2076,9 @@
       ]
     },
     {
-      "id": "rss_moiuae_942165771",
-      "title": "RT by @moiuae: الدفاعات الجوية الإماراتية تتصدى بنجاح للصواريخ الباليستية والجوالة والمسيرات الإيرانية. UAE Air Defences Successfully Intercept Iranian Ballistic and Cruise Missiles and UAVs Attacks#و",
-      "source": "Twitter - UAE Ministry of Interior",
+      "id": "rss_moduae_166423255",
+      "title": "الدفاعات الجوية الإماراتية تتصدى بنجاح للصواريخ الباليستية والجوالة والمسيرات الإيرانية. UAE Air Defences Successfully Intercept Iranian Ballistic and Cruise Missiles and UAVs Attacks#وزارة_الدفاع #وز",
+      "source": "Twitter - UAE Ministry of Defence",
       "source_url": "https://x.com/modgovae/status/2031360680260153718",
       "published": "2026-03-10T13:25:00+00:00",
       "type": "missile",
@@ -1562,26 +2089,18 @@
       },
       "credibility": 100,
       "is_government": true,
-      "source_key": "moi_uae",
+      "source_key": "mod_uae",
       "verification": {
         "confidence": 100,
         "status": "Verified",
-        "source_count": 2,
-        "government_sources": 2,
+        "source_count": 1,
+        "government_sources": 1,
         "news_sources": 0,
         "sources": [
-          "mod_uae",
-          "moi_uae"
+          "mod_uae"
         ]
       },
       "source_variants": [
-        {
-          "source": "Twitter - UAE Ministry of Interior",
-          "title": "RT by @moiuae: الدفاعات الجوية الإماراتية تتصدى بنجاح للصواريخ الباليستية والجوالة والمسيرات الإيرانية. UAE Air Defences Successfully Intercept Iranian Ballistic and Cruise Missiles and UAVs Attacks#و",
-          "published": "2026-03-10T13:25:00+00:00",
-          "url": "https://x.com/modgovae/status/2031360680260153718",
-          "source_key": "moi_uae"
-        },
         {
           "source": "Twitter - UAE Ministry of Defence",
           "title": "الدفاعات الجوية الإماراتية تتصدى بنجاح للصواريخ الباليستية والجوالة والمسيرات الإيرانية. UAE Air Defences Successfully Intercept Iranian Ballistic and Cruise Missiles and UAVs Attacks#وزارة_الدفاع #وز",
@@ -1740,7 +2259,7 @@
       ]
     },
     {
-      "id": "rss_mdais_793312119",
+      "id": "rss_mdais_820984051",
       "title": "MDA Spokesperson: Following the missile fire toward the State of Israel: At this stage, no casualties are known. MDA teams are treating individuals who were injured on their way to a sheltered space, ",
       "source": "Twitter - Magen David Adom",
       "source_url": "https://x.com/Mdais/status/2031354204510396850",
@@ -1849,7 +2368,7 @@
       ]
     },
     {
-      "id": "rss_civildefencead_556002746",
+      "id": "rss_civildefencead_644727463",
       "title": "RT by @CivilDefenceAD: Abu Dhabi authorities are responding to a fire that broke out at a facility in the Ruwais Industrial Complex, caused by a drone attack. No injuries have been reported at this ti",
       "source": "Twitter - Abu Dhabi Civil Defence",
       "source_url": "https://x.com/ADMediaOffice/status/2031332643586163042",
@@ -1958,7 +2477,7 @@
       ]
     },
     {
-      "id": "rss_mdais_138140460",
+      "id": "rss_mdais_218963326",
       "title": "Following the missile fire toward the State of Israel: At this stage, no casualties are known. MDA teams are treating several cases of people who were injured on their way to a sheltered area, as well",
       "source": "Twitter - Magen David Adom",
       "source_url": "https://x.com/Mdais/status/2031281599803744642",
@@ -2104,42 +2623,7 @@
       ]
     },
     {
-      "id": "rss_wamnews_441413721",
-      "title": "The United Arab Emirates has strongly condemned and denounced the unprovoked terrorist drone attack that targeted the UA...",
-      "source": "Twitter - WAM News Agency",
-      "source_url": "https://www.instagram.com/p/DVrjAvNiN4c",
-      "published": "2026-03-09T22:27:15+00:00",
-      "type": "drone",
-      "status": "confirmed",
-      "location": {
-        "name": "Unknown",
-        "country": "UAE"
-      },
-      "credibility": 95,
-      "is_government": true,
-      "source_key": "wam",
-      "verification": {
-        "confidence": 100,
-        "status": "Verified",
-        "source_count": 1,
-        "government_sources": 0,
-        "news_sources": 1,
-        "sources": [
-          "wam"
-        ]
-      },
-      "source_variants": [
-        {
-          "source": "Twitter - WAM News Agency",
-          "title": "The United Arab Emirates has strongly condemned and denounced the unprovoked terrorist drone attack that targeted the UA...",
-          "published": "2026-03-09T22:27:15+00:00",
-          "url": "https://www.instagram.com/p/DVrjAvNiN4c",
-          "source_key": "wam"
-        }
-      ]
-    },
-    {
-      "id": "rss_ncemauae_467337074",
+      "id": "rss_ncemauae_134802436",
       "title": "National Early Warning System Sound alerts will be changed; the system will remain fully operational to ensure public security alerts. pic.",
       "source": "Twitter - UAE National Emergency",
       "source_url": "https://x.com/NCEMAUAE/status/2031095211955466392",
@@ -2174,7 +2658,7 @@
       ]
     },
     {
-      "id": "rss_saudidcd_437538620",
+      "id": "rss_saudidcd_709269809",
       "title": "Know the safety instructions to follow when you hear the all-clear siren. #CivilDefense #SafetyIsPrevention",
       "source": "Twitter - Saudi Civil Defense",
       "source_url": "https://x.com/SaudiDCD/status/2031083209031647355",
@@ -2209,7 +2693,7 @@
       ]
     },
     {
-      "id": "rss_saudidcd_571194681",
+      "id": "rss_saudidcd_934195736",
       "title": "Know the safety instructions to follow if you hear a warning siren indicating an active threat while indoors. #CivilDefense #SafetyIsPrevention",
       "source": "Twitter - Saudi Civil Defense",
       "source_url": "https://x.com/SaudiDCD/status/2031082898002977050",
@@ -2239,41 +2723,6 @@
           "title": "Know the safety instructions to follow if you hear a warning siren indicating an active threat while indoors. #CivilDefense #SafetyIsPrevention",
           "published": "2026-03-09T19:01:00+00:00",
           "url": "https://x.com/SaudiDCD/status/2031082898002977050",
-          "source_key": "civil_defence"
-        }
-      ]
-    },
-    {
-      "id": "rss_saudidcd_579540488",
-      "title": "Know the warning siren tones and what they mean during emergencies. #CivilDefense #SafetyIsPrevention",
-      "source": "Twitter - Saudi Civil Defense",
-      "source_url": "https://x.com/SaudiDCD/status/2031082662157263221",
-      "published": "2026-03-09T19:00:00+00:00",
-      "type": "alert",
-      "status": "confirmed",
-      "location": {
-        "name": "Unknown",
-        "country": "Saudi Arabia"
-      },
-      "credibility": 100,
-      "is_government": true,
-      "source_key": "civil_defence",
-      "verification": {
-        "confidence": 100,
-        "status": "Verified",
-        "source_count": 1,
-        "government_sources": 1,
-        "news_sources": 0,
-        "sources": [
-          "civil_defence"
-        ]
-      },
-      "source_variants": [
-        {
-          "source": "Twitter - Saudi Civil Defense",
-          "title": "Know the warning siren tones and what they mean during emergencies. #CivilDefense #SafetyIsPrevention",
-          "published": "2026-03-09T19:00:00+00:00",
-          "url": "https://x.com/SaudiDCD/status/2031082662157263221",
           "source_key": "civil_defence"
         }
       ]
@@ -2459,302 +2908,6 @@
           "title": "Turkiye shoots down Iranian ballistic missile crossing its airspace",
           "published": "2026-03-09T16:17:48+00:00",
           "url": "https://thepeninsulaqatar.com/article/09/03/2026/turkiye-shoots-down-iranian-ballistic-missile-crossing-its-airspace",
-          "source_key": "newsdata"
-        }
-      ]
-    },
-    {
-      "id": "newsdata_34bf6e311bc58ab263685d635a5c0f0b",
-      "title": "Investigation further suggests it was the US that struck an Iranian school, killing 165",
-      "source": "NewsData.io - Channel Newsasia",
-      "source_url": "https://www.channelnewsasia.com/world/iran-us-strike-school-investigation-war-israel-5981381",
-      "published": "2026-03-09T10:39:00+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "UAE",
-        "country": "UAE",
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata",
-      "verification": {
-        "confidence": 80,
-        "status": "Likely True",
-        "source_count": 1,
-        "government_sources": 0,
-        "news_sources": 0,
-        "sources": [
-          "newsdata"
-        ]
-      },
-      "source_variants": [
-        {
-          "source": "NewsData.io - Channel Newsasia",
-          "title": "Investigation further suggests it was the US that struck an Iranian school, killing 165",
-          "published": "2026-03-09T10:39:00+00:00",
-          "url": "https://www.channelnewsasia.com/world/iran-us-strike-school-investigation-war-israel-5981381",
-          "source_key": "newsdata"
-        }
-      ]
-    },
-    {
-      "id": "newsdata_34bf6e311bc58ab263685d635a5c0f0b",
-      "title": "Investigation further suggests it was the US that struck an Iranian school, killing 165",
-      "source": "NewsData.io - Channel Newsasia",
-      "source_url": "https://www.channelnewsasia.com/world/iran-us-strike-school-investigation-war-israel-5981381",
-      "published": "2026-03-09T10:39:00+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Saudi Arabia",
-        "country": "Saudi Arabia",
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata",
-      "verification": {
-        "confidence": 80,
-        "status": "Likely True",
-        "source_count": 1,
-        "government_sources": 0,
-        "news_sources": 0,
-        "sources": [
-          "newsdata"
-        ]
-      },
-      "source_variants": [
-        {
-          "source": "NewsData.io - Channel Newsasia",
-          "title": "Investigation further suggests it was the US that struck an Iranian school, killing 165",
-          "published": "2026-03-09T10:39:00+00:00",
-          "url": "https://www.channelnewsasia.com/world/iran-us-strike-school-investigation-war-israel-5981381",
-          "source_key": "newsdata"
-        }
-      ]
-    },
-    {
-      "id": "newsdata_34bf6e311bc58ab263685d635a5c0f0b",
-      "title": "Investigation further suggests it was the US that struck an Iranian school, killing 165",
-      "source": "NewsData.io - Channel Newsasia",
-      "source_url": "https://www.channelnewsasia.com/world/iran-us-strike-school-investigation-war-israel-5981381",
-      "published": "2026-03-09T10:39:00+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Kuwait",
-        "country": "Kuwait",
-        "lat": 29.3759,
-        "lng": 47.9774
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata",
-      "verification": {
-        "confidence": 80,
-        "status": "Likely True",
-        "source_count": 1,
-        "government_sources": 0,
-        "news_sources": 0,
-        "sources": [
-          "newsdata"
-        ]
-      },
-      "source_variants": [
-        {
-          "source": "NewsData.io - Channel Newsasia",
-          "title": "Investigation further suggests it was the US that struck an Iranian school, killing 165",
-          "published": "2026-03-09T10:39:00+00:00",
-          "url": "https://www.channelnewsasia.com/world/iran-us-strike-school-investigation-war-israel-5981381",
-          "source_key": "newsdata"
-        }
-      ]
-    },
-    {
-      "id": "newsdata_34bf6e311bc58ab263685d635a5c0f0b",
-      "title": "Investigation further suggests it was the US that struck an Iranian school, killing 165",
-      "source": "NewsData.io - Channel Newsasia",
-      "source_url": "https://www.channelnewsasia.com/world/iran-us-strike-school-investigation-war-israel-5981381",
-      "published": "2026-03-09T10:39:00+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Bahrain",
-        "country": "Bahrain",
-        "lat": 26.2285,
-        "lng": 50.586
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata",
-      "verification": {
-        "confidence": 80,
-        "status": "Likely True",
-        "source_count": 1,
-        "government_sources": 0,
-        "news_sources": 0,
-        "sources": [
-          "newsdata"
-        ]
-      },
-      "source_variants": [
-        {
-          "source": "NewsData.io - Channel Newsasia",
-          "title": "Investigation further suggests it was the US that struck an Iranian school, killing 165",
-          "published": "2026-03-09T10:39:00+00:00",
-          "url": "https://www.channelnewsasia.com/world/iran-us-strike-school-investigation-war-israel-5981381",
-          "source_key": "newsdata"
-        }
-      ]
-    },
-    {
-      "id": "newsdata_85d2aadcaa7218cc5d1078925f1b9c06",
-      "title": "Most European leaders have tiptoed around Trump’s war with Iran. Not Spain’s PM",
-      "source": "NewsData.io - Egyptindependent",
-      "source_url": "https://egyptindependent.com/most-european-leaders-have-tiptoed-around-trumps-war-with-iran-not-spains-pm/",
-      "published": "2026-03-09T09:47:37+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Egypt",
-        "country": "Egypt",
-        "lat": 30.0444,
-        "lng": 31.2357
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata",
-      "verification": {
-        "confidence": 80,
-        "status": "Likely True",
-        "source_count": 1,
-        "government_sources": 0,
-        "news_sources": 0,
-        "sources": [
-          "newsdata"
-        ]
-      },
-      "source_variants": [
-        {
-          "source": "NewsData.io - Egyptindependent",
-          "title": "Most European leaders have tiptoed around Trump’s war with Iran. Not Spain’s PM",
-          "published": "2026-03-09T09:47:37+00:00",
-          "url": "https://egyptindependent.com/most-european-leaders-have-tiptoed-around-trumps-war-with-iran-not-spains-pm/",
-          "source_key": "newsdata"
-        }
-      ]
-    },
-    {
-      "id": "newsdata_66e1e77b49435a95b9d4b96428aad592",
-      "title": "Bahrain intercepts 102 missiles and 171 drones since start of Iranian attacks",
-      "source": "NewsData.io - Kuwait Times",
-      "source_url": "https://kuwaittimes.com/article/40836/world/bahrain-intercepts-102-missiles-and-171-drones-since-start-of-iranian-attacks/",
-      "published": "2026-03-09T09:22:00+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "Kuwait",
-        "country": "Kuwait",
-        "lat": 29.3759,
-        "lng": 47.9774
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata",
-      "verification": {
-        "confidence": 80,
-        "status": "Likely True",
-        "source_count": 1,
-        "government_sources": 0,
-        "news_sources": 0,
-        "sources": [
-          "newsdata"
-        ]
-      },
-      "source_variants": [
-        {
-          "source": "NewsData.io - Kuwait Times",
-          "title": "Bahrain intercepts 102 missiles and 171 drones since start of Iranian attacks",
-          "published": "2026-03-09T09:22:00+00:00",
-          "url": "https://kuwaittimes.com/article/40836/world/bahrain-intercepts-102-missiles-and-171-drones-since-start-of-iranian-attacks/",
-          "source_key": "newsdata"
-        }
-      ]
-    },
-    {
-      "id": "newsdata_5f6d1fcad726b185a307a2b4868f3d24",
-      "title": "New video suggests US responsible for deadly strike on Iranian elementary school",
-      "source": "NewsData.io - Khaleej Times",
-      "source_url": "https://www.khaleejtimes.com/world/new-video-us-responsible-strike-iran-shajarah-tayyebeh-elementary-school",
-      "published": "2026-03-09T08:56:57+00:00",
-      "type": "attack",
-      "status": "reported",
-      "location": {
-        "name": "UAE",
-        "country": "UAE",
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata",
-      "verification": {
-        "confidence": 80,
-        "status": "Likely True",
-        "source_count": 1,
-        "government_sources": 0,
-        "news_sources": 0,
-        "sources": [
-          "newsdata"
-        ]
-      },
-      "source_variants": [
-        {
-          "source": "NewsData.io - Khaleej Times",
-          "title": "New video suggests US responsible for deadly strike on Iranian elementary school",
-          "published": "2026-03-09T08:56:57+00:00",
-          "url": "https://www.khaleejtimes.com/world/new-video-us-responsible-strike-iran-shajarah-tayyebeh-elementary-school",
-          "source_key": "newsdata"
-        }
-      ]
-    },
-    {
-      "id": "newsdata_8fa98da85701b1eb31ac81d8304f7dfd",
-      "title": "Ministry of Defense announces interception of missile attack",
-      "source": "NewsData.io - Gulf Times",
-      "source_url": "https://www.gulf-times.com/article/722127/qatar/ministry-of-defense-announces-interception-of-missile-attack",
-      "published": "2026-03-09T08:20:00+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "UAE",
-        "country": "UAE",
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata",
-      "verification": {
-        "confidence": 80,
-        "status": "Likely True",
-        "source_count": 1,
-        "government_sources": 0,
-        "news_sources": 0,
-        "sources": [
-          "newsdata"
-        ]
-      },
-      "source_variants": [
-        {
-          "source": "NewsData.io - Gulf Times",
-          "title": "Ministry of Defense announces interception of missile attack",
-          "published": "2026-03-09T08:20:00+00:00",
-          "url": "https://www.gulf-times.com/article/722127/qatar/ministry-of-defense-announces-interception-of-missile-attack",
           "source_key": "newsdata"
         }
       ]
