@@ -1,7 +1,151 @@
 {
-  "generated_at": "2026-03-12T02:22:24.489713+00:00",
-  "total_incidents": 48,
+  "generated_at": "2026-03-12T06:58:45.536298+00:00",
+  "total_incidents": 49,
   "incidents": [
+    {
+      "id": "newsdata_b6427652985b9cce7c9e66c337aefbcc",
+      "title": "Pro-Iranian hacker group claims cyberattack on medical technology firm Stryker, crippling global operations",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/pro-iranian-hacker-group-claims-cyberattack-on-medical-technology-firm-stryker-crippling-global-operations/3860381",
+      "published": "2026-03-11T18:46:59+00:00",
+      "type": "attack",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_18c2170261b8dab0477887a18908f3ab",
+      "title": "Tracking, shooting down 8 hostile drones in past 24 hours: Kuwaiti Defense Ministry",
+      "source": "NewsData.io - The Peninsula Qatar",
+      "source_url": "https://thepeninsulaqatar.com/article/11/03/2026/tracking-shooting-down-8-hostile-drones-in-past-24-hourskuwaiti-defense-ministry",
+      "published": "2026-03-11T18:06:30+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_acf351e38d63fad7e464b7710ac8fe4b",
+      "title": "US condemns Iranian and militia attacks in Iraq amid unclaimed airstrikes on Tehran-backed militias",
+      "source": "NewsData.io - Fdd's Long War Journal",
+      "source_url": "https://www.longwarjournal.org/archives/2026/03/us-condemns-iranian-and-militia-attacks-in-iraq-amid-unclaimed-airstrikes-on-tehran-backed-militias.php",
+      "published": "2026-03-11T16:42:22+00:00",
+      "type": "attack",
+      "status": "reported",
+      "location": {
+        "name": "Iraq",
+        "country": "Iraq",
+        "lat": 33.3152,
+        "lng": 44.3661
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_be933853a5914ba718324541ee4584af",
+      "title": "Iranian strikes damage at least 17 US sites across Middle East: Report",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/iranian-strikes-damage-at-least-17-us-sites-across-middle-east-report/3860156",
+      "published": "2026-03-11T15:53:45+00:00",
+      "type": "attack",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_12ca6811bf87be044dcc06322eaedfd4",
+      "title": "Trump says war to end 'soon' as 'nothing left to target'",
+      "source": "NewsData.io - Naharnet",
+      "source_url": "https://www.naharnet.com/stories/en/318886-trump-says-war-to-end-soon-as-nothing-left-to-target",
+      "published": "2026-03-11T15:18:54+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Lebanon",
+        "country": "Lebanon",
+        "lat": 33.8938,
+        "lng": 35.5018
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_4823ec64d6006d81a8e227ffdad65a96",
+      "title": "Russian energy company Gazprom reports 12 attacks on TurkStream, Blue Stream facilities in 2 weeks",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/asia-pacific/russian-energy-company-gazprom-reports-12-attacks-on-turkstream-blue-stream-facilities-in-2-weeks/3860103",
+      "published": "2026-03-11T15:01:50+00:00",
+      "type": "attack",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_bd71f7db90386c3f0c8d165fc48bf112",
+      "title": "Could the US deploy troops to Iran, and how could that play out?",
+      "source": "NewsData.io - Turks",
+      "source_url": "https://turks.us/could-the-us-deploy-troops-to-iran-and-how-could-that-play-out/",
+      "published": "2026-03-11T14:42:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_1cb4d7b38453ffaae87fbd93506bfcd6",
+      "title": "Israel's UN envoy dodges question about white phosphorus use in Lebanon",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/israels-un-envoy-dodges-question-about-white-phosphorus-use-in-lebanon/3860052",
+      "published": "2026-03-11T14:25:20+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
     {
       "id": "newsdata_2d96aec94ee849b763dc65fd5c98554d",
       "title": "Deployment of US anti-missile system THAAD from South Korea to Middle East imminent: Report",
@@ -93,42 +237,6 @@
       "source_key": "newsdata"
     },
     {
-      "id": "newsdata_337cf7658f121dd3cf28f9237ca8172f",
-      "title": "French national killed in explosion in eastern DR Congo",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/africa/french-national-killed-in-explosion-in-eastern-dr-congo/3859978",
-      "published": "2026-03-11T13:33:37+00:00",
-      "type": "attack",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_1dffa18640d1e8ae2ab8b84fa9661717",
-      "title": "Romania weighs hosting US forces, equipment amid Middle East conflict",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/europe/romania-weighs-hosting-us-forces-equipment-amid-middle-east-conflict/3859894",
-      "published": "2026-03-11T12:50:14+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
       "id": "newsdata_f4bdc9768e92ebe5d17fcf93bfd28d2f",
       "title": "China warns US AI military use can create 'Terminator' world",
       "source": "NewsData.io - The Peninsula Qatar",
@@ -177,60 +285,6 @@
         "country": "UAE",
         "lat": 25.2048,
         "lng": 55.2708
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_473be3ba7e1dcdfc50d79dd96dc9d4e1",
-      "title": "Russia claims it captured settlement in Ukraine's Sumy region",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/asia-pacific/russia-claims-it-captured-settlement-in-ukraines-sumy-region/3859754",
-      "published": "2026-03-11T11:35:58+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_9cf7f2fa82dd16380df13451b31a7a56",
-      "title": "Italy 'does not want to enter war' despite sending defense assets to Gulf, premier says",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/europe/italy-does-not-want-to-enter-war-despite-sending-defense-assets-to-gulf-premier-says/3859741",
-      "published": "2026-03-11T11:30:15+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_5630956c751bbfc5fd28c747c1d1265b",
-      "title": "Israeli army launches fresh attacks in Iran, Lebanon",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/middle-east/israeli-army-launches-fresh-attacks-in-iran-lebanon/3859737",
-      "published": "2026-03-11T11:28:00+00:00",
-      "type": "attack",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
       },
       "credibility": 70,
       "is_government": false,
@@ -453,6 +507,24 @@
       "source_key": "newsdata"
     },
     {
+      "id": "newsdata_e16d6fc907172e173f9010acd87e9522",
+      "title": "US–Israel–Iran war heightens global recession and inflation risks through energy and shipping shocks, says GlobalData",
+      "source": "NewsData.io - Meed",
+      "source_url": "https://www.globaldata.com/media/business-fundamentals/us-israel-iran-war-heightens-global-recession-and-inflation-risks-through-energy-and-shipping-shocks-says-globaldata/",
+      "published": "2026-03-11T03:43:50+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
       "id": "newsdata_d96ec9c616268454cbb2fb70eb34b801",
       "title": "Israel intensifies strikes on repression sites, expands outreach to Iranians as regime repression deepens (March 8-10 updates)",
       "source": "NewsData.io - Fdd's Long War Journal",
@@ -623,24 +695,6 @@
       "type": "security",
       "status": "reported",
       "location": {
-        "name": "UAE",
-        "country": "UAE",
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_19b2905b6278b6a5c594158021d976c7",
-      "title": "US and Iran dig in and ramp up threats as war rages with no end in sight",
-      "source": "NewsData.io - Channel Newsasia",
-      "source_url": "https://www.channelnewsasia.com/world/iran-war-us-threats-hegseth-middle-east-shipping-oil-5985086",
-      "published": "2026-03-10T20:52:00+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
         "name": "Saudi Arabia",
         "country": "Saudi Arabia",
         "lat": 24.7136,
@@ -699,24 +753,6 @@
         "country": "Egypt",
         "lat": 30.0444,
         "lng": 31.2357
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_8b0143dbba0a46732b503e73423331ef",
-      "title": "Iran not more formidable than thought, top US general says",
-      "source": "NewsData.io - Channel Newsasia",
-      "source_url": "https://www.channelnewsasia.com/world/iran-us-war-general-dan-caine-strikes-formidable-pete-hegseth-5984231",
-      "published": "2026-03-10T13:14:00+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "UAE",
-        "country": "UAE",
-        "lat": 25.2048,
-        "lng": 55.2708
       },
       "credibility": 70,
       "is_government": false,
@@ -843,24 +879,6 @@
         "country": "Kuwait",
         "lat": 29.3759,
         "lng": 47.9774
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_faa9a80138ae07e5b889bad1ec15f68c",
-      "title": "Cypriot, Lebanese officials blame Hezbollah for drone attacks on UK base in Cyprus; IRGC responsibility also possible",
-      "source": "NewsData.io - Fdd's Long War Journal",
-      "source_url": "https://www.longwarjournal.org/archives/2026/03/cypriot-lebanese-officials-blame-hezbollah-for-drone-attacks-on-uk-base-in-cyprus-irgc-responsibility-also-possible.php",
-      "published": "2026-03-10T02:49:25+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "Lebanon",
-        "country": "Lebanon",
-        "lat": 33.8938,
-        "lng": 35.5018
       },
       "credibility": 70,
       "is_government": false,
