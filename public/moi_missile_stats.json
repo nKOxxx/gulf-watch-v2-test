@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-03-12T13:11:07.000951+00:00",
+  "generated_at": "2026-03-12T19:00:06.387403+00:00",
   "since_date": "2026-03-03",
   "source": "UAE Ministry of Interior (@moiuae)",
-  "total_incidents": 1,
+  "total_incidents": 0,
   "totals": {
     "ballistic_detected": 0,
-    "ballistic_intercepted": 1,
+    "ballistic_intercepted": 0,
     "cruise_detected": 0,
     "cruise_intercepted": 0,
-    "drones_detected": 35,
-    "drones_intercepted": 26,
-    "total_detected": 35,
-    "total_intercepted": 27,
-    "impacted": 8,
+    "drones_detected": 0,
+    "drones_intercepted": 0,
+    "total_detected": 0,
+    "total_intercepted": 0,
+    "impacted": 0,
     "killed": 0,
     "injured": 0
   },
@@ -21,40 +21,6 @@
     "intercepted": 0,
     "impacted": 0
   },
-  "daily": [
-    {
-      "date": "2026-03-10",
-      "ballistic_detected": 0,
-      "ballistic_intercepted": 1,
-      "cruise_detected": 0,
-      "cruise_intercepted": 0,
-      "drones_detected": 35,
-      "drones_intercepted": 26,
-      "total": 62
-    }
-  ],
-  "incidents": [
-    {
-      "id": "moi_1773146760.0",
-      "title": "RT by @moiuae: الدفاعات الجوية الإماراتية تتعامل مع 8 صواريخ باليستية و 26 طائرة مسيرة. رصدت الدفاعات الجوية الإماراتية اليوم (10 مارس 2026) 9 صواريخ باليستية حيث تم تدمير 8 صواريخ باليستية، فيما سقط 1 صاروخ باليستي في البحر، كما تم رصد 35 طائرة مسيرة، حيث تم اعتراض 26 طائرة مسيرة، بينما سقطت… pic.",
-      "source": "UAE Ministry of Interior",
-      "source_url": "https://x.com/modgovae/status/2031350981221622002",
-      "published": "2026-03-10T12:46:00+00:00",
-      "date": "2026-03-10",
-      "stats": {
-        "ballistic_detected": 0,
-        "ballistic_intercepted": 1,
-        "cruise_detected": 0,
-        "cruise_intercepted": 0,
-        "drones_detected": 35,
-        "drones_intercepted": 26,
-        "impacted": 8,
-        "killed": 0,
-        "injured": 0
-      },
-      "type": "missile_defense",
-      "credibility": 100,
-      "is_government": true
-    }
-  ]
+  "daily": [],
+  "incidents": []
 }
