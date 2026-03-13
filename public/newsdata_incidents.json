@@ -1,7 +1,115 @@
 {
-  "generated_at": "2026-03-13T13:03:12.199006+00:00",
-  "total_incidents": 26,
+  "generated_at": "2026-03-13T18:45:50.849815+00:00",
+  "total_incidents": 21,
   "incidents": [
+    {
+      "id": "newsdata_1a63dc77e26339c635c2f789e9f27ac4",
+      "title": "Serbia preparing for possible attack by Croatia–Albania–Kosovo alliance, Vucic says",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/europe/serbia-preparing-for-possible-attack-by-croatia-albania-kosovo-alliance-vucic-says/3862713",
+      "published": "2026-03-13T06:38:32+00:00",
+      "type": "attack",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_196f70f16bff5b2f5eeb09cb27401f09",
+      "title": "Israel claims killing commander of Iranian Quds Force’s ‘Imam Hussein Division’",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/israel-claims-killing-commander-of-iranian-quds-force-s-imam-hussein-division-/3862673",
+      "published": "2026-03-13T06:00:55+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_bd8bca373ca28f1310f04cddd2082bc2",
+      "title": "2 drones intercepted, destroyed in Saudi Arabia’s Al-Kharj Governorate",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/2-drones-intercepted-destroyed-in-saudi-arabia-s-al-kharj-governorate/3862664",
+      "published": "2026-03-13T05:26:40+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_490baeac633b1b9c498538bd83dd8882",
+      "title": "Iran, Israel, US trade threats as soaring war rattles global markets",
+      "source": "NewsData.io - Daily Sabah",
+      "source_url": "https://www.dailysabah.com/world/mid-east/iran-israel-us-trade-threats-as-soaring-war-rattles-global-markets",
+      "published": "2026-03-13T05:18:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_817d3973e478ba1156369bc63e61d318",
+      "title": "Saudi Arabia intercepts 6 drones in Eastern Province: Defense Ministry",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/saudi-arabia-intercepts-6-drones-in-eastern-province-defense-ministry/3862624",
+      "published": "2026-03-13T02:33:37+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_305e7598eff6f6d34a961cf843e06311",
+      "title": "Sirens sound in northern Israel after Iran launches missiles",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/sirens-sound-in-northern-israel-after-iran-launches-missiles/3862593",
+      "published": "2026-03-13T01:16:16+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
     {
       "id": "newsdata_d7ffe943bb03383e64c1025f96121411",
       "title": "Saudi Arabia says its air defenses intercepted and destroyed 28 drones",
@@ -81,114 +189,6 @@
       "source_url": "https://www.aa.com.tr/en/middle-east/qatar-says-several-projectiles-intercepted-from-iran/3862345",
       "published": "2026-03-12T20:08:32+00:00",
       "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_2140a2fedca68f4a5b25701a6f444ad2",
-      "title": "Saudi Arabia says it intercepted 33 drones from Iran",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/middle-east/saudi-arabia-says-it-intercepted-33-drones-from-iran/3862334",
-      "published": "2026-03-12T20:02:42+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_54ea5f8d55c4f8d843d8d797e49b3c05",
-      "title": "Iraq intercepts 4 suicide drones targeting military unit in Nineveh",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/middle-east/iraq-intercepts-4-suicide-drones-targeting-military-unit-in-nineveh/3862256",
-      "published": "2026-03-12T19:10:45+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_e510089367a2b6148683470420a42593",
-      "title": "Kuwait reports 5th interception of missiles, drones",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/middle-east/kuwait-reports-5th-interception-of-missiles-drones/3862183",
-      "published": "2026-03-12T18:20:06+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_98fff3f44523103bb6784d369ee2f490",
-      "title": "Italy plans withdrawal of troops from Erbil base: Defense minister",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/middle-east/italy-plans-withdrawal-of-troops-from-erbil-base-defense-minister/3862159",
-      "published": "2026-03-12T17:59:22+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_510708a551c55874a657d85c23e3e614",
-      "title": "US senators press military commanders about Iran operation",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/middle-east/us-senators-press-military-commanders-about-iran-operation-/3862144",
-      "published": "2026-03-12T17:43:31+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_319711c89bf6b7abece0c8647da3b72c",
-      "title": "Kuwait says it detected 5 ballistic missiles, 9 drones",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/middle-east/kuwait-says-it-detected-5-ballistic-missiles-9-drones/3862120",
-      "published": "2026-03-12T17:27:18+00:00",
-      "type": "missile",
       "status": "reported",
       "location": {
         "name": "Turkey",
@@ -375,96 +375,6 @@
         "country": "Kuwait",
         "lat": 29.3759,
         "lng": 47.9774
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_18c2170261b8dab0477887a18908f3ab",
-      "title": "Tracking, shooting down 8 hostile drones in past 24 hours: Kuwaiti Defense Ministry",
-      "source": "NewsData.io - The Peninsula Qatar",
-      "source_url": "https://thepeninsulaqatar.com/article/11/03/2026/tracking-shooting-down-8-hostile-drones-in-past-24-hourskuwaiti-defense-ministry",
-      "published": "2026-03-11T18:06:30+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "UAE",
-        "country": "UAE",
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_ae9eb9025f65980ab6aede739330f4de",
-      "title": "US ignites Iran war, but Gulf Arab states pay the price",
-      "source": "NewsData.io - Kuwait Times",
-      "source_url": "https://kuwaittimes.com/article/40972/world/middle-east/us-ignites-iran-war-but-gulf-arab-states-pay-the-price/",
-      "published": "2026-03-11T17:16:00+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Kuwait",
-        "country": "Kuwait",
-        "lat": 29.3759,
-        "lng": 47.9774
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_a46d750776158a3b44a66f9561a8e0be",
-      "title": "Trump team’s Iran war rhetoric fuels backlash",
-      "source": "NewsData.io - Kuwait Times",
-      "source_url": "https://kuwaittimes.com/article/40968/world/america/trump-teams-iran-war-rhetoric-fuels-backlash/",
-      "published": "2026-03-11T17:05:00+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Kuwait",
-        "country": "Kuwait",
-        "lat": 29.3759,
-        "lng": 47.9774
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_acf351e38d63fad7e464b7710ac8fe4b",
-      "title": "US condemns Iranian and militia attacks in Iraq amid unclaimed airstrikes on Tehran-backed militias",
-      "source": "NewsData.io - Fdd's Long War Journal",
-      "source_url": "https://www.longwarjournal.org/archives/2026/03/us-condemns-iranian-and-militia-attacks-in-iraq-amid-unclaimed-airstrikes-on-tehran-backed-militias.php",
-      "published": "2026-03-11T16:42:22+00:00",
-      "type": "attack",
-      "status": "reported",
-      "location": {
-        "name": "Iraq",
-        "country": "Iraq",
-        "lat": 33.3152,
-        "lng": 44.3661
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_12ca6811bf87be044dcc06322eaedfd4",
-      "title": "Trump says war to end 'soon' as 'nothing left to target'",
-      "source": "NewsData.io - Naharnet",
-      "source_url": "https://www.naharnet.com/stories/en/318886-trump-says-war-to-end-soon-as-nothing-left-to-target",
-      "published": "2026-03-11T15:18:54+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Lebanon",
-        "country": "Lebanon",
-        "lat": 33.8938,
-        "lng": 35.5018
       },
       "credibility": 70,
       "is_government": false,
