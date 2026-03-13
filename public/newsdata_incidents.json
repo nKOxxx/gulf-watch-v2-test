@@ -1,7 +1,115 @@
 {
-  "generated_at": "2026-03-13T02:12:30.040760+00:00",
+  "generated_at": "2026-03-13T06:57:11.472622+00:00",
   "total_incidents": 37,
   "incidents": [
+    {
+      "id": "newsdata_e510089367a2b6148683470420a42593",
+      "title": "Kuwait reports 5th interception of missiles, drones",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/kuwait-reports-5th-interception-of-missiles-drones/3862183",
+      "published": "2026-03-12T18:20:06+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_98fff3f44523103bb6784d369ee2f490",
+      "title": "Italy plans withdrawal of troops from Erbil base: Defense minister",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/italy-plans-withdrawal-of-troops-from-erbil-base-defense-minister/3862159",
+      "published": "2026-03-12T17:59:22+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_510708a551c55874a657d85c23e3e614",
+      "title": "US senators press military commanders about Iran operation",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/us-senators-press-military-commanders-about-iran-operation-/3862144",
+      "published": "2026-03-12T17:43:31+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_319711c89bf6b7abece0c8647da3b72c",
+      "title": "Kuwait says it detected 5 ballistic missiles, 9 drones",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/kuwait-says-it-detected-5-ballistic-missiles-9-drones/3862120",
+      "published": "2026-03-12T17:27:18+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_4d3a1c725b3ba43b93168996a4b8c354",
+      "title": "Iran's new supreme leader vows to keep Strait of Hormuz closed",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/irans-new-supreme-leader-vows-to-keep-strait-of-hormuz-closed/3861842",
+      "published": "2026-03-12T14:37:57+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_4f92440a08983a2396017f68fb7fc248",
+      "title": "Turkiye deploys Patriot Missile System amid rising tensions",
+      "source": "NewsData.io - The Peninsula Qatar",
+      "source_url": "https://thepeninsulaqatar.com/article/12/03/2026/turkiye-deploys-patriot-missile-system-amid-rising-tensions",
+      "published": "2026-03-12T14:24:42+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
     {
       "id": "newsdata_850767875c486cda80daa3c876683a5c",
       "title": "NATO chief, Belgian defense minister praise Türkiye's defense industry, urge inclusive cooperation",
@@ -93,60 +201,6 @@
       "source_key": "newsdata"
     },
     {
-      "id": "newsdata_44c78bd9fa5c7002c1748fb34d79ac2c",
-      "title": "Zelenskyy says Ukraine seeks major US drone production deal, awaiting Washington's approval",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/asia-pacific/zelenskyy-says-ukraine-seeks-major-us-drone-production-deal-awaiting-washingtons-approval/3861458",
-      "published": "2026-03-12T11:15:12+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_e7fac0a8169abd4f5cbf8f524b84bebe",
-      "title": "Iranian drone attack in Kuwait far worse than Pentagon disclosed: Report",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/middle-east/iranian-drone-attack-in-kuwait-far-worse-than-pentagon-disclosed-report/3861445",
-      "published": "2026-03-12T11:08:15+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_3143d6df5c94ad6c990d90274ccc4b52",
-      "title": "Swiss companies exported $30.8M in dual-use goods to Israel during Gaza war: Report",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/europe/swiss-companies-exported-308m-in-dual-use-goods-to-israel-during-gaza-war-report/3861428",
-      "published": "2026-03-12T10:54:00+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
       "id": "newsdata_52205c59b12ca7b2240704547282f73c",
       "title": "Pentagon probe points to US culpability in deadly strike on Iranian elementary school",
       "source": "NewsData.io - Saudi Gazette",
@@ -219,24 +273,6 @@
       "source_key": "newsdata"
     },
     {
-      "id": "newsdata_8b580d6ab2cb0b11c0c628d7de5228b7",
-      "title": "OPINION - Reflections of US-Israel attacks and Iranian retaliations on Gulf security",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/middle-east/opinion-reflections-of-us-israel-attacks-and-iranian-retaliations-on-gulf-security/3861218",
-      "published": "2026-03-12T09:03:27+00:00",
-      "type": "attack",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
       "id": "newsdata_bf7422fea96a18559e5815d72ded61ca",
       "title": "Qatar participates in GCC media stand at UN on UNSC draft resolution condemning Iranian attacks",
       "source": "NewsData.io - Gulf Times",
@@ -249,24 +285,6 @@
         "country": "UAE",
         "lat": 25.2048,
         "lng": 55.2708
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_70aee5da0d81f418f69c8f4787b971ec",
-      "title": "Illegal Israeli settlers torch entrance of mosque in West Bank",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/middle-east/illegal-israeli-settlers-torch-entrance-of-mosque-in-west-bank/3861106",
-      "published": "2026-03-12T08:14:15+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
       },
       "credibility": 70,
       "is_government": false,
@@ -639,24 +657,6 @@
       "source_url": "https://m.thepeninsulaqatar.com/article/11/03/2026/live-updates-cargo-ship-hit-in-strait-of-hormuz-qatar-armed-forces-intercepts-new-missile-attack",
       "published": "2026-03-11T07:02:05+00:00",
       "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "UAE",
-        "country": "UAE",
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_e16d6fc907172e173f9010acd87e9522",
-      "title": "US–Israel–Iran war heightens global recession and inflation risks through energy and shipping shocks, says GlobalData",
-      "source": "NewsData.io - Meed",
-      "source_url": "https://www.globaldata.com/media/business-fundamentals/us-israel-iran-war-heightens-global-recession-and-inflation-risks-through-energy-and-shipping-shocks-says-globaldata/",
-      "published": "2026-03-11T03:43:50+00:00",
-      "type": "security",
       "status": "reported",
       "location": {
         "name": "UAE",
