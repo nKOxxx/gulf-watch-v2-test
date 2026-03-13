@@ -1,5 +1,672 @@
 {
-  "generated_at": "2026-03-12T18:57:15.760837+00:00",
-  "total_incidents": 0,
-  "incidents": []
+  "generated_at": "2026-03-13T02:12:30.040760+00:00",
+  "total_incidents": 37,
+  "incidents": [
+    {
+      "id": "newsdata_850767875c486cda80daa3c876683a5c",
+      "title": "NATO chief, Belgian defense minister praise Türkiye's defense industry, urge inclusive cooperation",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/europe/nato-chief-belgian-defense-minister-praise-turkiyes-defense-industry-urge-inclusive-cooperation/3861749",
+      "published": "2026-03-12T13:44:49+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_1add2823c430e27ab02eb03c1e35d4b7",
+      "title": "Qatar says missile intercepted as US-Iran war intensifies",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/qatar-says-missile-intercepted-as-us-iran-war-intensifies/3861549",
+      "published": "2026-03-12T12:10:23+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_a72bda125e206227fa5f0b74583cafa6",
+      "title": "Russia accuses Ukraine of targeting TurkStream gas infrastructure",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/asia-pacific/russia-accuses-ukraine-of-targeting-turkstream-gas-infrastructure/3861540",
+      "published": "2026-03-12T12:03:29+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_2b2e2dcbecc0a42b6381d611b17dd439",
+      "title": "Pakistan's premier flies to Saudi Arabia after phone call with Iranian president amid Mideast tensions",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/asia-pacific/pakistans-premier-flies-to-saudi-arabia-after-phone-call-with-iranian-president-amid-mideast-tensions/3861467",
+      "published": "2026-03-12T11:20:12+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_e6f020aa67781be3f4c228d12e6663dd",
+      "title": "Pakistan's Premier Sharif in Saudi Arabia after phone call with Iranian president amid Mideast tensions",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/pakistans-premier-sharif-in-saudi-arabia-after-phone-call-with-iranian-president-amid-mideast-tensions/3861467",
+      "published": "2026-03-12T11:20:12+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_44c78bd9fa5c7002c1748fb34d79ac2c",
+      "title": "Zelenskyy says Ukraine seeks major US drone production deal, awaiting Washington's approval",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/asia-pacific/zelenskyy-says-ukraine-seeks-major-us-drone-production-deal-awaiting-washingtons-approval/3861458",
+      "published": "2026-03-12T11:15:12+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_e7fac0a8169abd4f5cbf8f524b84bebe",
+      "title": "Iranian drone attack in Kuwait far worse than Pentagon disclosed: Report",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/iranian-drone-attack-in-kuwait-far-worse-than-pentagon-disclosed-report/3861445",
+      "published": "2026-03-12T11:08:15+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_3143d6df5c94ad6c990d90274ccc4b52",
+      "title": "Swiss companies exported $30.8M in dual-use goods to Israel during Gaza war: Report",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/europe/swiss-companies-exported-308m-in-dual-use-goods-to-israel-during-gaza-war-report/3861428",
+      "published": "2026-03-12T10:54:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_52205c59b12ca7b2240704547282f73c",
+      "title": "Pentagon probe points to US culpability in deadly strike on Iranian elementary school",
+      "source": "NewsData.io - Saudi Gazette",
+      "source_url": "https://saudigazette.com.sa/article/659691/world/pentagon-probe-points-to-us-culpability-in-deadly-strike-on-iranian-elementary-school",
+      "published": "2026-03-12T10:53:44+00:00",
+      "type": "attack",
+      "status": "reported",
+      "location": {
+        "name": "Saudi Arabia",
+        "country": "Saudi Arabia",
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_90c2124eb9765390257360123262e658",
+      "title": "For nearly two weeks, Chinese fighter jets stopped buzzing Taiwan. No one seems to know why.",
+      "source": "NewsData.io - Egyptindependent",
+      "source_url": "https://egyptindependent.com/for-nearly-two-weeks-chinese-fighter-jets-stopped-buzzing-taiwan-no-one-seems-to-know-why/",
+      "published": "2026-03-12T10:08:18+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Egypt",
+        "country": "Egypt",
+        "lat": 30.0444,
+        "lng": 31.2357
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_3d3b66354d76f17a31976553e5b6c901",
+      "title": "Bahrain intercepts 112 missiles, 186 drones since start of Iranian attacks",
+      "source": "NewsData.io - Kuwait Times",
+      "source_url": "https://kuwaittimes.com/article/40994/world/bahrain-intercepts-112-missiles-186-drones-since-start-of-iranian-attacks/",
+      "published": "2026-03-12T09:43:00+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Kuwait",
+        "country": "Kuwait",
+        "lat": 29.3759,
+        "lng": 47.9774
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_46d2f7c93f48c2ad3ee109823118c023",
+      "title": "Hezbollah launches 100-rocket barrage at Northern Israel",
+      "source": "NewsData.io - Egyptindependent",
+      "source_url": "https://egyptindependent.com/hezbollah-launches-100-rocket-barrage-at-northern-israel/",
+      "published": "2026-03-12T09:17:03+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Egypt",
+        "country": "Egypt",
+        "lat": 30.0444,
+        "lng": 31.2357
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_8b580d6ab2cb0b11c0c628d7de5228b7",
+      "title": "OPINION - Reflections of US-Israel attacks and Iranian retaliations on Gulf security",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/opinion-reflections-of-us-israel-attacks-and-iranian-retaliations-on-gulf-security/3861218",
+      "published": "2026-03-12T09:03:27+00:00",
+      "type": "attack",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_bf7422fea96a18559e5815d72ded61ca",
+      "title": "Qatar participates in GCC media stand at UN on UNSC draft resolution condemning Iranian attacks",
+      "source": "NewsData.io - Gulf Times",
+      "source_url": "https://www.gulf-times.com/article/722287/qatar/qatar-participates-in-gcc-media-stand-at-un-on-unsc-draft-resolution-condemning-iranian-attacks",
+      "published": "2026-03-12T08:23:00+00:00",
+      "type": "attack",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_70aee5da0d81f418f69c8f4787b971ec",
+      "title": "Illegal Israeli settlers torch entrance of mosque in West Bank",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/illegal-israeli-settlers-torch-entrance-of-mosque-in-west-bank/3861106",
+      "published": "2026-03-12T08:14:15+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_57af7be0bb74f14e8bab2e14168e15b0",
+      "title": "Qatar Intercepts Nine Ballistic Missiles and Drones from Iran",
+      "source": "NewsData.io - Kuwait News",
+      "source_url": "https://www.arabtimesonline.com/news/qatar-intercepts-nine-ballistic-missiles-and-drones-from-iran/",
+      "published": "2026-03-11T20:16:00+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Kuwait",
+        "country": "Kuwait",
+        "lat": 29.3759,
+        "lng": 47.9774
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_18c2170261b8dab0477887a18908f3ab",
+      "title": "Tracking, shooting down 8 hostile drones in past 24 hours: Kuwaiti Defense Ministry",
+      "source": "NewsData.io - The Peninsula Qatar",
+      "source_url": "https://thepeninsulaqatar.com/article/11/03/2026/tracking-shooting-down-8-hostile-drones-in-past-24-hourskuwaiti-defense-ministry",
+      "published": "2026-03-11T18:06:30+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_ae9eb9025f65980ab6aede739330f4de",
+      "title": "US ignites Iran war, but Gulf Arab states pay the price",
+      "source": "NewsData.io - Kuwait Times",
+      "source_url": "https://kuwaittimes.com/article/40972/world/middle-east/us-ignites-iran-war-but-gulf-arab-states-pay-the-price/",
+      "published": "2026-03-11T17:16:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Kuwait",
+        "country": "Kuwait",
+        "lat": 29.3759,
+        "lng": 47.9774
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_a46d750776158a3b44a66f9561a8e0be",
+      "title": "Trump team’s Iran war rhetoric fuels backlash",
+      "source": "NewsData.io - Kuwait Times",
+      "source_url": "https://kuwaittimes.com/article/40968/world/america/trump-teams-iran-war-rhetoric-fuels-backlash/",
+      "published": "2026-03-11T17:05:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Kuwait",
+        "country": "Kuwait",
+        "lat": 29.3759,
+        "lng": 47.9774
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_acf351e38d63fad7e464b7710ac8fe4b",
+      "title": "US condemns Iranian and militia attacks in Iraq amid unclaimed airstrikes on Tehran-backed militias",
+      "source": "NewsData.io - Fdd's Long War Journal",
+      "source_url": "https://www.longwarjournal.org/archives/2026/03/us-condemns-iranian-and-militia-attacks-in-iraq-amid-unclaimed-airstrikes-on-tehran-backed-militias.php",
+      "published": "2026-03-11T16:42:22+00:00",
+      "type": "attack",
+      "status": "reported",
+      "location": {
+        "name": "Iraq",
+        "country": "Iraq",
+        "lat": 33.3152,
+        "lng": 44.3661
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_12ca6811bf87be044dcc06322eaedfd4",
+      "title": "Trump says war to end 'soon' as 'nothing left to target'",
+      "source": "NewsData.io - Naharnet",
+      "source_url": "https://www.naharnet.com/stories/en/318886-trump-says-war-to-end-soon-as-nothing-left-to-target",
+      "published": "2026-03-11T15:18:54+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Lebanon",
+        "country": "Lebanon",
+        "lat": 33.8938,
+        "lng": 35.5018
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_f4bdc9768e92ebe5d17fcf93bfd28d2f",
+      "title": "China warns US AI military use can create 'Terminator' world",
+      "source": "NewsData.io - The Peninsula Qatar",
+      "source_url": "https://thepeninsulaqatar.com/article/11/03/2026/china-warns-us-ai-military-use-can-create-terminator-world",
+      "published": "2026-03-11T12:12:33+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_66cf9d7e45ae6be1f8d5c113614c9cf8",
+      "title": "Attacks on ships in Strait of Hormuz escalate as three vessels hit on Wednesday",
+      "source": "NewsData.io - Saudi Gazette",
+      "source_url": "https://saudigazette.com.sa/article/659663/world/attacks-on-ships-in-strait-of-hormuz-escalate-as-three-vessels-hit-on-wednesday",
+      "published": "2026-03-11T11:45:13+00:00",
+      "type": "attack",
+      "status": "reported",
+      "location": {
+        "name": "Saudi Arabia",
+        "country": "Saudi Arabia",
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_764ed0b3092021b9631fe13ad0c4f352",
+      "title": "KLM cancels flights to Dubai until March 28",
+      "source": "NewsData.io - The Peninsula Qatar",
+      "source_url": "https://thepeninsulaqatar.com/article/11/03/2026/klm-cancels-flights-to-dubai-until-march-28",
+      "published": "2026-03-11T11:41:38+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_0dfcff182206a54f50ea3161ece199c0",
+      "title": "Qatar warns Iran war could yield 'catastrophic results' for the world",
+      "source": "NewsData.io - Saudi Gazette",
+      "source_url": "https://saudigazette.com.sa/article/659659/world/qatar-warns-iran-war-could-yield-catastrophic-results-for-the-world",
+      "published": "2026-03-11T09:36:03+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Saudi Arabia",
+        "country": "Saudi Arabia",
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_9e1d383b28d7356b0c64ce78931d2ab0",
+      "title": "Trump’s war of choice in Iran hands Putin an opportunity",
+      "source": "NewsData.io - Egyptindependent",
+      "source_url": "https://www.egyptindependent.com/trumps-war-of-choice-in-iran-hands-putin-an-opportunity/",
+      "published": "2026-03-11T09:32:59+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Egypt",
+        "country": "Egypt",
+        "lat": 30.0444,
+        "lng": 31.2357
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_618c6b4a3ade7b38d84d37e48c088998",
+      "title": "US says 16 Iranian mine-laying vessels destroyed",
+      "source": "NewsData.io - Saudi Gazette",
+      "source_url": "https://saudigazette.com.sa/article/659658/world/us-says-16-iranian-mine-laying-vessels-destroyed",
+      "published": "2026-03-11T09:32:41+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Saudi Arabia",
+        "country": "Saudi Arabia",
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_00128424abd854d7bf16cbb193fdbcdf",
+      "title": "Israeli military says new wave of missiles launched from Iran",
+      "source": "NewsData.io - Saudi Gazette",
+      "source_url": "https://saudigazette.com.sa/article/659657/world/israeli-military-says-new-wave-of-missiles-launched-from-iran",
+      "published": "2026-03-11T09:28:59+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Saudi Arabia",
+        "country": "Saudi Arabia",
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_62306a09cdc4110056db2ca4ed4eda91",
+      "title": "Iran’s police chief warns potential protesters that forces have “fingers on the trigger”",
+      "source": "NewsData.io - Egyptindependent",
+      "source_url": "https://egyptindependent.com/what-we-know-on-the-12th-day-of-the-us-and-israels-war-with-iran/",
+      "published": "2026-03-11T09:09:52+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Egypt",
+        "country": "Egypt",
+        "lat": 30.0444,
+        "lng": 31.2357
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_a8d4f8217a269b8db2b051cb5432ab4d",
+      "title": "Qatari Armed Forces repel rocket attack – MoD",
+      "source": "NewsData.io - Kuwait Times",
+      "source_url": "https://kuwaittimes.com/article/40940/world/qatari-armed-forces-repel-rocket-attack-mod/",
+      "published": "2026-03-11T08:35:00+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Kuwait",
+        "country": "Kuwait",
+        "lat": 29.3759,
+        "lng": 47.9774
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_86b0a33d7bb897d8ab8c7137e709e698",
+      "title": "Iran’s Revolutionary Guard launches heaviest strikes yet in 37th wave of “True Promise IV”",
+      "source": "NewsData.io - Egyptindependent",
+      "source_url": "https://www.egyptindependent.com/irans-revolutionary-guard-launches-heaviest-strikes-yet-in-37th-wave-of-true-promise-iv/",
+      "published": "2026-03-11T08:34:08+00:00",
+      "type": "attack",
+      "status": "reported",
+      "location": {
+        "name": "Egypt",
+        "country": "Egypt",
+        "lat": 30.0444,
+        "lng": 31.2357
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_35582c5656a894ad50fe4b64c47dead5",
+      "title": "UAE air defenses intercept Iranian missile barrage",
+      "source": "NewsData.io - Egyptindependent",
+      "source_url": "https://egyptindependent.com/uae-air-defenses-intercept-iranian-missile-barrage/",
+      "published": "2026-03-11T08:04:01+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Egypt",
+        "country": "Egypt",
+        "lat": 30.0444,
+        "lng": 31.2357
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_b6cbe4b0811531a1f02a9ea589c98f78",
+      "title": "Qatar strongly condemns Iranian ballistic missile attacks on its territory",
+      "source": "NewsData.io - Gulf Times",
+      "source_url": "https://www.gulf-times.com/article/722217/qatar/qatar-strongly-condemns-iranian-ballistic-missile-attacks-on-its-territory",
+      "published": "2026-03-11T07:48:00+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_860c2c92d5a08c8dc2cbc8d3f50e5bf3",
+      "title": "Qatar sends 7th identical letter to UN, Security Council regarding latest developments of Iranian attack on its territories",
+      "source": "NewsData.io - Gulf Times",
+      "source_url": "https://www.gulf-times.com/article/722212/qatar/qatar-sends-7th-identical-letter-to-un-security-council-regarding-latest-developments-of-iranian-attack-on-its-territories",
+      "published": "2026-03-11T07:12:00+00:00",
+      "type": "attack",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_42d5137df3b393dac6fd4139f709ca90",
+      "title": "LIVE UPDATES: Cargo ship hit in Strait of Hormuz; Qatar Armed Forces intercepts new missile attack",
+      "source": "NewsData.io - The Peninsula Qatar",
+      "source_url": "https://thepeninsulaqatar.com/article/11/03/2026/live-updates-cargo-ship-hit-in-strait-of-hormuz-qatar-armed-forces-intercepts-new-missile-attack",
+      "published": "2026-03-11T07:02:05+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_772566d2e18faca99537a4d3555fef4a",
+      "title": "LIVE UPDATES: Qatar intercepts another missile attack, says Ministry of Defense",
+      "source": "NewsData.io - The Peninsula Qatar",
+      "source_url": "https://m.thepeninsulaqatar.com/article/11/03/2026/live-updates-cargo-ship-hit-in-strait-of-hormuz-qatar-armed-forces-intercepts-new-missile-attack",
+      "published": "2026-03-11T07:02:05+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_e16d6fc907172e173f9010acd87e9522",
+      "title": "US–Israel–Iran war heightens global recession and inflation risks through energy and shipping shocks, says GlobalData",
+      "source": "NewsData.io - Meed",
+      "source_url": "https://www.globaldata.com/media/business-fundamentals/us-israel-iran-war-heightens-global-recession-and-inflation-risks-through-energy-and-shipping-shocks-says-globaldata/",
+      "published": "2026-03-11T03:43:50+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    }
+  ]
 }
