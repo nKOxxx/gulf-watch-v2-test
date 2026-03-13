@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-03-13T19:05:52.493650+00:00",
+  "generated_at": "2026-03-13T19:51:46.561012+00:00",
   "total_incidents": 42,
   "source": "rss_app",
   "incidents": [
     {
-      "id": "rss_kunaen_434024608",
+      "id": "rss_kunaen_325952933",
       "title": "#Kuwait's Ministry of Interior detects several droves in \"clear\" violation of instructions that negatively affect military and security efforts, and that those responsible would be apprehended @MOI_ku",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2032519533437534333",
@@ -19,7 +19,7 @@
       "is_government": true
     },
     {
-      "id": "rss_kunaen_312425604",
+      "id": "rss_kunaen_236663080",
       "title": "#Kuwait's Ministry of Defense deals with ballistic missiles \"out of danger zone\" in the last 24 hours, amid the current regional situation @KuwaitArmyGHQ  #KUNA",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2032518714575217030",
@@ -34,7 +34,7 @@
       "is_government": true
     },
     {
-      "id": "rss_mehrnews_196820341",
+      "id": "rss_mehrnews_218322737",
       "title": "🚨 #BREAKING Four US military aircraft have crashed in the Middle East since February 28 The incidents, centered near the borders of Iraq, Jordan, and Kuwait, include ⤵️ 1 KC-135 Stratotanker (Aerial r",
       "source": "Twitter - Mehr News Agency",
       "source_url": "https://x.com/MehrnewsCom/status/2032480905923858831",
@@ -49,7 +49,7 @@
       "is_government": true
     },
     {
-      "id": "rss_mdais_273094348",
+      "id": "rss_mdais_281371084",
       "title": "Following latest missile barrage towards central Israel, MDA teams on scene at several reported sites. No injuries reported at this time. Photo credit: MDA Operational Unit",
       "source": "Twitter - Magen David Adom",
       "source_url": "https://x.com/Mdais/status/2032479748488560876",
@@ -64,7 +64,7 @@
       "is_government": true
     },
     {
-      "id": "rss_kunaen_168754629",
+      "id": "rss_kunaen_565776962",
       "title": "EU expresses concern over the unilateral decision by the #US to lift sanctions on #Russian oil exports, considering that the step could have a direct impact on European security.  #KUNA",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2032460360087658745",
@@ -79,7 +79,7 @@
       "is_government": true
     },
     {
-      "id": "rss_moiuae_355828726",
+      "id": "rss_moiuae_522967145",
       "title": "الآن تتعامل الدفاعات الجوية مع تهديـد صاروخي، يرجى البقاء في مكان آمن ومتابعة التحذيرات والمستجدات على المواقــع الرسميـة. Air defense systems are currently dealing with a missile threat. Please remai",
       "source": "Twitter - UAE Ministry of Interior",
       "source_url": "https://x.com/moiuae/status/2032454708758216895",
@@ -94,7 +94,7 @@
       "is_government": true
     },
     {
-      "id": "rss_moiuae_122937281",
+      "id": "rss_moiuae_778366925",
       "title": "RT by @moiuae: Air defense systems are currently responding to a missile threat. Please remain in a safe location and follow official channels for warnings and updates. pic.",
       "source": "Twitter - UAE Ministry of Interior",
       "source_url": "https://x.com/NCEMAUAE/status/2032454406365749380",
@@ -109,7 +109,7 @@
       "is_government": true
     },
     {
-      "id": "rss_ncemauae_198898294",
+      "id": "rss_ncemauae_652680090",
       "title": "Air defense systems are currently responding to a missile threat. Please remain in a safe location and follow official channels for warnings and updates. pic.",
       "source": "Twitter - UAE National Emergency",
       "source_url": "https://x.com/NCEMAUAE/status/2032454406365749380",
@@ -124,7 +124,7 @@
       "is_government": true
     },
     {
-      "id": "rss_kunaen_875228533",
+      "id": "rss_kunaen_978676482",
       "title": "#UAE air defenses deal with 7 Iranian ballistic missiles & 27 drones  #KUNA",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2032448977006662063",
@@ -139,7 +139,7 @@
       "is_government": true
     },
     {
-      "id": "rss_mehrnews_747052171",
+      "id": "rss_mehrnews_913594253",
       "title": "The International Quds Day rally in Tehran was marred by bloodshed as a US-Israeli strike martyred at least one woman.",
       "source": "Twitter - Mehr News Agency",
       "source_url": "https://x.com/MehrnewsCom/status/2032445033073545303",
@@ -154,7 +154,7 @@
       "is_government": true
     },
     {
-      "id": "rss_moiuae_808819222",
+      "id": "rss_moiuae_716569113",
       "title": "#Repost @gsnamlcftpc ・・・ ضمن الحملة الرقمية للأمانة العامة \"افهمها صح\"؛ تسلط الإضاءات القانونية الضوء على مجموعة من أساليب الاحتيال وطرق الوقاية منها، وتؤكد على أن وعيك هو خط الدفاع الأول. #افهمها_صح ",
       "source": "Twitter - UAE Ministry of Interior",
       "source_url": "https://x.com/moiuae/status/2032444177284501910",
@@ -169,7 +169,7 @@
       "is_government": true
     },
     {
-      "id": "rss_kunaen_797554674",
+      "id": "rss_kunaen_214283067",
       "title": "International Atomic Energy Agency: Resuming full operations at the Zaporizhzhia Nuclear Power Plant requires a series of technical measures & the absence of military threats. @iaeaorg  #KUNA",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2032441812011323674",
@@ -184,7 +184,7 @@
       "is_government": true
     },
     {
-      "id": "rss_moiuae_165570056",
+      "id": "rss_moiuae_175286788",
       "title": "RT by @moiuae: الدفاعات الجوية الإماراتية تتعامل مع الصواريخ الباليستية والجوالة والمسيرات الإيرانية. UAE Air Defences engaged Iranian Ballistic and Cruise Missiles and UAVs Attacks#وزارة_الدفاع #وزار",
       "source": "Twitter - UAE Ministry of Interior",
       "source_url": "https://x.com/modgovae/status/2032439385149604064",
@@ -199,7 +199,7 @@
       "is_government": true
     },
     {
-      "id": "rss_moduae_755711904",
+      "id": "rss_moduae_79183155",
       "title": "الدفاعات الجوية الإماراتية تتعامل مع الصواريخ الباليستية والجوالة والمسيرات الإيرانية. UAE Air Defences engaged Iranian Ballistic and Cruise Missiles and UAVs Attacks#وزارة_الدفاع #وزارة_الدفاع_الإمار",
       "source": "Twitter - UAE Ministry of Defence",
       "source_url": "https://x.com/modgovae/status/2032439385149604064",
@@ -214,7 +214,7 @@
       "is_government": true
     },
     {
-      "id": "rss_moduae_363110582",
+      "id": "rss_moduae_744744417",
       "title": "UAE air defences engage 7 ballistic missiles, 27 UAVs The UAE air defence systems on 13th March engaged 7 ballistic missiles and 27 UAVs launched from Iran. Since the onsets of the blatant Iranian agg",
       "source": "Twitter - UAE Ministry of Defence",
       "source_url": "https://x.com/modgovae/status/2032438211189018955",
@@ -229,7 +229,7 @@
       "is_government": true
     },
     {
-      "id": "rss_wamnews_617475907",
+      "id": "rss_wamnews_496090867",
       "title": ". The UAE air defence systems on 13th March intercepted seven ballistic missiles and 27 UAVs launched from Iran. Since t...",
       "source": "Twitter - WAM News Agency",
       "source_url": "https://www.instagram.com/p/DV0zLUiE5QJ",
@@ -244,7 +244,7 @@
       "is_government": true
     },
     {
-      "id": "rss_mehrnews_404409480",
+      "id": "rss_mehrnews_866957172",
       "title": "Head of Iran’s judiciary casually keeps speaking as US-Israeli bomb rocks Quds Day rally mid-interview Not even a pause!",
       "source": "Twitter - Mehr News Agency",
       "source_url": "https://x.com/MehrnewsCom/status/2032422553050894460",
@@ -259,7 +259,7 @@
       "is_government": true
     },
     {
-      "id": "rss_mehrnews_242628650",
+      "id": "rss_mehrnews_848895494",
       "title": "🚨 Sirens go off in Israel",
       "source": "Twitter - Mehr News Agency",
       "source_url": "https://x.com/MehrnewsCom/status/2032420891917766692",
@@ -274,7 +274,7 @@
       "is_government": true
     },
     {
-      "id": "rss_mehrnews_277761325",
+      "id": "rss_mehrnews_767596520",
       "title": "🚨 #BREAKING Iran launches new barrage of missiles toward Israel",
       "source": "Twitter - Mehr News Agency",
       "source_url": "https://x.com/MehrnewsCom/status/2032420674178810080",
@@ -289,7 +289,7 @@
       "is_government": true
     },
     {
-      "id": "rss_kunaen_510565297",
+      "id": "rss_kunaen_796810436",
       "title": "#Turkiye: NATO defenses intercept Iranian missile in the eastern Mediterranean.  #KUNA",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2032414497755815940",
@@ -304,7 +304,7 @@
       "is_government": true
     },
     {
-      "id": "rss_kunaen_622541255",
+      "id": "rss_kunaen_145580864",
       "title": "Rumors ... a misleading maze threatening public awareness & stability (Report)  #KUNA #Kuwait",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2032410041941164459",
@@ -319,7 +319,7 @@
       "is_government": true
     },
     {
-      "id": "rss_kunaen_341909509",
+      "id": "rss_kunaen_711028986",
       "title": "#Kuwait strongly condemns Israeli occupation's strike on southern #Lebanon @MOFAKuwait  #KUNA",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2032400446640300439",
@@ -334,7 +334,7 @@
       "is_government": true
     },
     {
-      "id": "rss_mehrnews_110212231",
+      "id": "rss_mehrnews_729518615",
       "title": "📹 People of Tehran chant \"Allahu Akbar\" as Israeli and American terrorists bomb the city",
       "source": "Twitter - Mehr News Agency",
       "source_url": "https://x.com/MehrnewsCom/status/2032381802829230218",
@@ -349,7 +349,7 @@
       "is_government": true
     },
     {
-      "id": "rss_mehrnews_198972237",
+      "id": "rss_mehrnews_877453678",
       "title": "Iraqi students gathered at Tahrir Square to condemn US-Israeli airstrikes on Minab school in southern Iran",
       "source": "Twitter - Mehr News Agency",
       "source_url": "https://x.com/MehrnewsCom/status/2032380443304321366",
@@ -364,7 +364,7 @@
       "is_government": true
     },
     {
-      "id": "rss_moiuae_601519108",
+      "id": "rss_moiuae_842932345",
       "title": "RT by @moiuae: Authorities confirm that debris from a successful interception caused a minor incident on the façade of a building in central Dubai. No injuries have been reported.",
       "source": "Twitter - UAE Ministry of Interior",
       "source_url": "https://x.com/DXBMediaOffice/status/2032299207894450550",
@@ -379,7 +379,7 @@
       "is_government": true
     },
     {
-      "id": "rss_mdais_744201090",
+      "id": "rss_mdais_515650574",
       "title": "MDA Spokesperson: Following the missile fire toward northern Israel: MDA EMTs and paramedics are providing medical treatment to a 34-year-old woman in moderate condition with shrapnel injuries to her ",
       "source": "Twitter - Magen David Adom",
       "source_url": "https://x.com/Mdais/status/2032260156461896083",
@@ -394,7 +394,7 @@
       "is_government": true
     },
     {
-      "id": "rss_kunaen_115291551",
+      "id": "rss_kunaen_328633481",
       "title": "Undersecretary of the Ministry of Interior Major General Abdulwahab Al-Wuhaib, conducted an inspection tour of several shopping malls to assess security preparedness and oversee the deployment of foot",
       "source": "Twitter - Kuwait News Agency",
       "source_url": "https://x.com/kuna_en/status/2032245757181415885",
@@ -409,7 +409,7 @@
       "is_government": true
     },
     {
-      "id": "rss_modqatar_358141623",
+      "id": "rss_modqatar_124491551",
       "title": "تعلن وزارة الدفاع القطرية عن تعرض دولة قطر، لهجوم بعدد (2) صواريخ باليستية وصاروخ كروز وعدد من الطائرات المسيّرة من الجمهورية الإسلامية الإيرانية، اليوم الخميس، ونجحت قواتنا المسلحة \" بفضل من الله \"با",
       "source": "Twitter - Qatar Ministry of Defence",
       "source_url": "https://x.com/MOD_Qatar/status/2032169786281726055",
@@ -424,7 +424,7 @@
       "is_government": true
     },
     {
-      "id": "rss_saudidcd_107740234",
+      "id": "rss_saudidcd_166449487",
       "title": "Alert: The danger has passed. Keep following #CivilDefense instructions. Avoid gathering or filming, stay away from dangerous areas, and report any danger by calling (911).",
       "source": "Twitter - Saudi Civil Defense",
       "source_url": "https://x.com/SaudiDCD/status/2032163339841765545",
@@ -439,7 +439,7 @@
       "is_government": true
     },
     {
-      "id": "rss_wamnews_499493564",
+      "id": "rss_wamnews_560366590",
       "title": ". The UAE air defence systems on 12 March intercepted 10 ballistic missiles and 26 UAVs launched from Iran. Since the on...",
       "source": "Twitter - WAM News Agency",
       "source_url": "https://www.instagram.com/p/DVy1rqSiFvs",
@@ -454,7 +454,7 @@
       "is_government": true
     },
     {
-      "id": "rss_moibahrain_406258512",
+      "id": "rss_moibahrain_754940642",
       "title": "The Media briefing by the National Communication Centre on the latest developments in light of Iran’s wrongful attacks. ...",
       "source": "Twitter - Bahrain Ministry of Interior",
       "source_url": "https://www.instagram.com/p/DVywa9_CJNK",
@@ -469,7 +469,7 @@
       "is_government": true
     },
     {
-      "id": "rss_moiuae_243581539",
+      "id": "rss_moiuae_422189874",
       "title": "RT by @moiuae: UAE air defences intercept 10 ballistic missiles and 26 UAVs. The UAE air defence systems today (12 March 2026) engaged 10 ballistic missiles and 26 UAVs launched from Iran. Since the o",
       "source": "Twitter - UAE Ministry of Interior",
       "source_url": "https://x.com/modgovae/status/2032151500949258650",
@@ -484,7 +484,7 @@
       "is_government": true
     },
     {
-      "id": "rss_moduae_94853926",
+      "id": "rss_moduae_365033052",
       "title": "UAE air defences intercept 10 ballistic missiles and 26 UAVs. The UAE air defence systems today (12 March 2026) engaged 10 ballistic missiles and 26 UAVs launched from Iran. Since the onset of the bla",
       "source": "Twitter - UAE Ministry of Defence",
       "source_url": "https://x.com/modgovae/status/2032151500949258650",
@@ -499,7 +499,7 @@
       "is_government": true
     },
     {
-      "id": "rss_saudidcd_787144103",
+      "id": "rss_saudidcd_747674691",
       "title": "A warning has been issued by the National Early Warning Platform in Governorate Al-Kharj to warn of a danger, follow the instructions below:",
       "source": "Twitter - Saudi Civil Defense",
       "source_url": "https://x.com/SaudiDCD/status/2032144575494496720",
@@ -514,7 +514,7 @@
       "is_government": true
     },
     {
-      "id": "rss_wamnews_24913239",
+      "id": "rss_wamnews_931848536",
       "title": ". The United Arab Emirates has condemned in the strongest terms the terrorist attack that targeted several truck drivers...",
       "source": "Twitter - WAM News Agency",
       "source_url": "https://www.instagram.com/p/DVyjkOwCD2L",
@@ -529,7 +529,7 @@
       "is_government": true
     },
     {
-      "id": "rss_wamnews_401127630",
+      "id": "rss_wamnews_68468479",
       "title": ". The Federal Authority for Identity, Citizenship, Customs and Ports Security has decided to allow residents currently o...",
       "source": "Twitter - WAM News Agency",
       "source_url": "https://www.instagram.com/p/DVyjMICiDDC",
@@ -544,7 +544,7 @@
       "is_government": true
     },
     {
-      "id": "rss_moibahrain_951705366",
+      "id": "rss_moibahrain_409365608",
       "title": "Weekly security report #مملكة_البحرين #وزارة_الداخلية #الأمن #moi",
       "source": "Twitter - Bahrain Ministry of Interior",
       "source_url": "https://www.instagram.com/p/DVyJKpTiL6o",
@@ -559,7 +559,7 @@
       "is_government": true
     },
     {
-      "id": "rss_modqatar_194223095",
+      "id": "rss_modqatar_927090994",
       "title": "تعلن وزارة الدفاع القطرية عن تصدي القوات المسلحة لهجمة صاروخية استهدفت دولة قطر. The Ministry of Defense of State of Qatar announces that armed forces intercepted missile attack which targeted State o",
       "source": "Twitter - Qatar Ministry of Defence",
       "source_url": "https://x.com/MOD_Qatar/status/2032049778960314726",
@@ -574,7 +574,7 @@
       "is_government": true
     },
     {
-      "id": "rss_israelmod_420206433",
+      "id": "rss_israelmod_359465860",
       "title": "Israel MOD Director General Tours Rafael’s Aerial Defense Production Lines Amid Wartime Accelerated Manufacturing Effort Read More:",
       "source": "Twitter - Israel Ministry of Defense",
       "source_url": "https://x.com/Israel_MOD/status/2032009293403238787",
@@ -589,7 +589,7 @@
       "is_government": true
     },
     {
-      "id": "rss_moduae_991039",
+      "id": "rss_moduae_996414722",
       "title": "الدفاعات الجوية الإماراتية تتصدى بنجاح للصواريخ الباليستية والجوالة والمسيرات الإيرانية. UAE Air Defences Successfully Engaged Iranian Ballistic and Cruise Missiles and UAVs Attacks#وزارة_الدفاع #وزار",
       "source": "Twitter - UAE Ministry of Defence",
       "source_url": "https://x.com/modgovae/status/2031838830857167323",
@@ -604,7 +604,7 @@
       "is_government": true
     },
     {
-      "id": "rss_moduae_581809379",
+      "id": "rss_moduae_423418921",
       "title": "UAE air defences engage 6 ballistic missiles, 7 cruise missiles, 39 UAVs. The UAE air defence systems (11 March 2026) engaged 6 ballistic missiles, 7 cruise missiles and 39 UAVs launched from Iran. Si",
       "source": "Twitter - UAE Ministry of Defence",
       "source_url": "https://x.com/modgovae/status/2031837588127138255",
@@ -619,7 +619,7 @@
       "is_government": true
     },
     {
-      "id": "rss_modqatar_86452013",
+      "id": "rss_modqatar_75633583",
       "title": "تعلن وزارة الدفاع القطرية عن تعرض دولة قطر لهجوم بعدد (9) صواريخ باليستية وعدد من الطائرات المسيّرة من الجمهورية الإسلامية الإيرانية، اليوم الأربعاء، ونجحت قواتنا المسلحة \"بفضل من الله\" بالتصدي لجميع ",
       "source": "Twitter - Qatar Ministry of Defence",
       "source_url": "https://x.com/MOD_Qatar/status/2031823609648279990",
