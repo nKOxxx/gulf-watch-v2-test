@@ -1,7 +1,61 @@
 {
-  "generated_at": "2026-03-14T06:51:22.773408+00:00",
-  "total_incidents": 28,
+  "generated_at": "2026-03-14T12:56:13.458550+00:00",
+  "total_incidents": 25,
   "incidents": [
+    {
+      "id": "newsdata_5cc01144b05367359ea8b759ec0dfb2d",
+      "title": "UAE arrests 45 for filming, misinformation amid Iranian attacks",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/uae-arrests-45-for-filming-misinformation-amid-iranian-attacks/3864069",
+      "published": "2026-03-13T22:53:13+00:00",
+      "type": "attack",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_d21d54256c5ac5e55f2698feef837af6",
+      "title": "Dozens of airstrikes target Iran-backed militias across Iraq",
+      "source": "NewsData.io - Fdd's Long War Journal",
+      "source_url": "https://www.longwarjournal.org/archives/2026/03/dozens-of-airstrikes-target-iran-backed-militias-across-iraq.php",
+      "published": "2026-03-13T21:14:35+00:00",
+      "type": "attack",
+      "status": "reported",
+      "location": {
+        "name": "Iraq",
+        "country": "Iraq",
+        "lat": 33.3152,
+        "lng": 44.3661
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_e2b40d19aa4dc3f87fa79117e61ce97f",
+      "title": "Israel shifts to hyperlocal targeting in Iran as regime military power degrades (March 11-13 updates)",
+      "source": "NewsData.io - Fdd's Long War Journal",
+      "source_url": "https://www.longwarjournal.org/archives/2026/03/israel-shifts-to-hyperlocal-targeting-in-iran-as-regime-military-power-degrades-march-11-13-updates.php",
+      "published": "2026-03-13T19:56:38+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Iran",
+        "country": "Iran",
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
     {
       "id": "newsdata_e5b1e106676c0ce3ffdfdb2e739d3f21",
       "title": "Explosions heard in Iran’s capital: Report",
@@ -171,24 +225,6 @@
       "source_url": "https://www.aa.com.tr/en/europe/uk-troops-among-those-targeted-in-drone-strike-on-iraqi-base-says-defense-chief/3863486",
       "published": "2026-03-13T14:25:51+00:00",
       "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_6d1f05c5a7c95499a3bb86f26f0990ac",
-      "title": "China urges US to halt fresh arms sales to Taiwan",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/asia-pacific/china-urges-us-to-halt-fresh-arms-sales-to-taiwan/3863477",
-      "published": "2026-03-13T14:18:01+00:00",
-      "type": "security",
       "status": "reported",
       "location": {
         "name": "Turkey",
@@ -405,96 +441,6 @@
       "source_url": "https://thepeninsulaqatar.com/article/12/03/2026/turkiye-deploys-patriot-missile-system-amid-rising-tensions",
       "published": "2026-03-12T14:24:42+00:00",
       "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "UAE",
-        "country": "UAE",
-        "lat": 25.2048,
-        "lng": 55.2708
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_52205c59b12ca7b2240704547282f73c",
-      "title": "Pentagon probe points to US culpability in deadly strike on Iranian elementary school",
-      "source": "NewsData.io - Saudi Gazette",
-      "source_url": "https://saudigazette.com.sa/article/659691/world/pentagon-probe-points-to-us-culpability-in-deadly-strike-on-iranian-elementary-school",
-      "published": "2026-03-12T10:53:44+00:00",
-      "type": "attack",
-      "status": "reported",
-      "location": {
-        "name": "Saudi Arabia",
-        "country": "Saudi Arabia",
-        "lat": 24.7136,
-        "lng": 46.6753
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_90c2124eb9765390257360123262e658",
-      "title": "For nearly two weeks, Chinese fighter jets stopped buzzing Taiwan. No one seems to know why.",
-      "source": "NewsData.io - Egyptindependent",
-      "source_url": "https://egyptindependent.com/for-nearly-two-weeks-chinese-fighter-jets-stopped-buzzing-taiwan-no-one-seems-to-know-why/",
-      "published": "2026-03-12T10:08:18+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Egypt",
-        "country": "Egypt",
-        "lat": 30.0444,
-        "lng": 31.2357
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_3d3b66354d76f17a31976553e5b6c901",
-      "title": "Bahrain intercepts 112 missiles, 186 drones since start of Iranian attacks",
-      "source": "NewsData.io - Kuwait Times",
-      "source_url": "https://kuwaittimes.com/article/40994/world/bahrain-intercepts-112-missiles-186-drones-since-start-of-iranian-attacks/",
-      "published": "2026-03-12T09:43:00+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "Kuwait",
-        "country": "Kuwait",
-        "lat": 29.3759,
-        "lng": 47.9774
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_46d2f7c93f48c2ad3ee109823118c023",
-      "title": "Hezbollah launches 100-rocket barrage at Northern Israel",
-      "source": "NewsData.io - Egyptindependent",
-      "source_url": "https://egyptindependent.com/hezbollah-launches-100-rocket-barrage-at-northern-israel/",
-      "published": "2026-03-12T09:17:03+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "Egypt",
-        "country": "Egypt",
-        "lat": 30.0444,
-        "lng": 31.2357
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_bf7422fea96a18559e5815d72ded61ca",
-      "title": "Qatar participates in GCC media stand at UN on UNSC draft resolution condemning Iranian attacks",
-      "source": "NewsData.io - Gulf Times",
-      "source_url": "https://www.gulf-times.com/article/722287/qatar/qatar-participates-in-gcc-media-stand-at-un-on-unsc-draft-resolution-condemning-iranian-attacks",
-      "published": "2026-03-12T08:23:00+00:00",
-      "type": "attack",
       "status": "reported",
       "location": {
         "name": "UAE",
