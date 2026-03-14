@@ -1,7 +1,259 @@
 {
-  "generated_at": "2026-03-14T12:56:13.458550+00:00",
-  "total_incidents": 25,
+  "generated_at": "2026-03-14T18:41:27.524426+00:00",
+  "total_incidents": 27,
   "incidents": [
+    {
+      "id": "newsdata_8ece0419bcf52003350186119c428f21",
+      "title": "Two drones intercepted, destroyed in Eastern Region",
+      "source": "NewsData.io - The Peninsula Qatar",
+      "source_url": "https://thepeninsulaqatar.com/article/14/03/2026/two-drones-intercepted-destroyed-in-eastern-region",
+      "published": "2026-03-14T06:23:49+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_3e328c856d42c6e597d835a9b1c0377e",
+      "title": "North Korea fires multiple ballistic missiles toward East Sea",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/asia-pacific/north-korea-fires-multiple-ballistic-missiles-toward-east-sea/3864166",
+      "published": "2026-03-14T06:11:04+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_aacb5f7bc18bded30d8654097fce713c",
+      "title": "North Korea fires 10 ballistic missiles toward East Sea",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/asia-pacific/north-korea-fires-10-ballistic-missiles-toward-east-sea/3864166",
+      "published": "2026-03-14T06:11:04+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_9632dc0510709c484712796e51503b26",
+      "title": "North Korea fires 'suspected' ballistic missile toward East Sea",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/asia-pacific/north-korea-fires-suspected-ballistic-missile-toward-east-sea/3864166",
+      "published": "2026-03-14T06:11:04+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_ceceb60f064974bfeace419da458e04f",
+      "title": "Drone attacks thwarted in Saudi Arabia: Defense Ministry",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/drone-attacks-thwarted-in-saudi-arabia-defense-ministry/3864156",
+      "published": "2026-03-14T04:56:23+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_bf9ea29ff7c2bf6e3008e4a020479eaf",
+      "title": "Pakistan says several Afghan drones intercepted, injuring 4, including 2 children",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/asia-pacific/pakistan-says-several-afghan-drones-intercepted-injuring-4-including-2-children/3864153",
+      "published": "2026-03-14T04:39:03+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_28eec8a10c96b93c84abb2bd80728510",
+      "title": "Morning Briefing: March 14, 2026",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/world/morning-briefing-march-14-2026/3864148",
+      "published": "2026-03-14T03:42:14+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_05d64bfabb8aea2cfb80fe193103c838",
+      "title": "Qatari Defense Ministry says it intercepted missile attack targeting country",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/qatari-defense-ministry-says-it-intercepted-missile-attack-targeting-country/3864145",
+      "published": "2026-03-14T03:33:23+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_894a1b1c6bd9f2333614ff57c7147a31",
+      "title": "Qatar’s Ministry of Defense says it intercepted missile attack targeting country",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/qatar-s-ministry-of-defense-says-it-intercepted-missile-attack-targeting-country/3864145",
+      "published": "2026-03-14T03:33:23+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_87d2952b73503cc348e402b8e799d3ac",
+      "title": "South Korea PM, Trump discuss possible talks with North Korea's Kim, Yonhap says",
+      "source": "NewsData.io - Channel Newsasia",
+      "source_url": "https://www.channelnewsasia.com/asia/south-korea-kim-min-seok-us-donald-trump-north-korea-5992721",
+      "published": "2026-03-14T02:36:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Kuwait",
+        "country": "Kuwait",
+        "lat": 29.3759,
+        "lng": 47.9774
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_d7982f6fc2994cae8a418c9d624ceffa",
+      "title": "Kharg Island bombed, Trump says US to escort ships through Hormuz soon",
+      "source": "NewsData.io - Channel Newsasia",
+      "source_url": "https://www.channelnewsasia.com/world/trump-kharg-island-bombed-us-navy-5993066",
+      "published": "2026-03-14T01:48:39+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_d7982f6fc2994cae8a418c9d624ceffa",
+      "title": "Kharg Island bombed, Trump says US to escort ships through Hormuz soon",
+      "source": "NewsData.io - Channel Newsasia",
+      "source_url": "https://www.channelnewsasia.com/world/trump-kharg-island-bombed-us-navy-5993066",
+      "published": "2026-03-14T01:48:39+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Saudi Arabia",
+        "country": "Saudi Arabia",
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_d7982f6fc2994cae8a418c9d624ceffa",
+      "title": "Kharg Island bombed, Trump says US to escort ships through Hormuz soon",
+      "source": "NewsData.io - Channel Newsasia",
+      "source_url": "https://www.channelnewsasia.com/world/trump-kharg-island-bombed-us-navy-5993066",
+      "published": "2026-03-14T01:48:39+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Kuwait",
+        "country": "Kuwait",
+        "lat": 29.3759,
+        "lng": 47.9774
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_d7982f6fc2994cae8a418c9d624ceffa",
+      "title": "Kharg Island bombed, Trump says US to escort ships through Hormuz soon",
+      "source": "NewsData.io - Channel Newsasia",
+      "source_url": "https://www.channelnewsasia.com/world/trump-kharg-island-bombed-us-navy-5993066",
+      "published": "2026-03-14T01:48:39+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Bahrain",
+        "country": "Bahrain",
+        "lat": 26.2285,
+        "lng": 50.586
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
     {
       "id": "newsdata_5cc01144b05367359ea8b759ec0dfb2d",
       "title": "UAE arrests 45 for filming, misinformation amid Iranian attacks",
@@ -75,42 +327,6 @@
       "source_key": "newsdata"
     },
     {
-      "id": "newsdata_097917345c645bae0d84e50b10b9b80a",
-      "title": "Saudi Arabia says it intercepted, destroyed 6 drones in Eastern Region",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/middle-east/saudi-arabia-says-it-intercepted-destroyed-6-drones-in-eastern-region/3863707",
-      "published": "2026-03-13T17:23:50+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_0f08a5d73269937e0b2eff50fbc4ef9e",
-      "title": "Two weeks in, Iran strikes inflict nearly $4B in US military losses",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/middle-east/two-weeks-in-iran-strikes-inflict-nearly-4b-in-us-military-losses/3863698",
-      "published": "2026-03-13T17:14:23+00:00",
-      "type": "attack",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
       "id": "newsdata_38f23cd6ab3d1822c6520a6cd37b9097",
       "title": "International Union of Muslim Scholars criticizes Iranian strikes on Arab states but says Israel is main threat to region",
       "source": "NewsData.io - Fdd's Long War Journal",
@@ -123,114 +339,6 @@
         "country": "Iran",
         "lat": 32.4279,
         "lng": 53.688
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_16d939b356527c539610c27873ad9cf8",
-      "title": "Finnish president rules out ‘peacetime’ nuclear weapons as law debate grows",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/europe/finnish-president-rules-out-peacetime-nuclear-weapons-as-law-debate-grows/3863645",
-      "published": "2026-03-13T16:11:01+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_988bed63156dff723a4d04cdd7bb2a30",
-      "title": "Sirens sound in central Israel as missiles launched from Iran",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/middle-east/sirens-sound-in-central-israel-as-missiles-launched-from-iran/3863630",
-      "published": "2026-03-13T15:57:39+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_77c2428be76c17a08ff3615ee6587537",
-      "title": "31 Syrians injured as Assad regime-era rocket explodes in Homs",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/middle-east/31-syrians-injured-as-assad-regime-era-rocket-explodes-in-homs/3863571",
-      "published": "2026-03-13T15:28:35+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_b1f742cc99e35607140a3b74d367833a",
-      "title": "Lebanon to pay ‘heavy price,’ warns Israel",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/middle-east/lebanon-to-pay-heavy-price-warns-israel/3863528",
-      "published": "2026-03-13T15:03:42+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_6971c2d7de599b5dcb4052a8d95e1e8c",
-      "title": "UAE intercepts more Iranian missiles, drones: Defense Ministry",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/middle-east/uae-intercepts-more-iranian-missiles-drones-defense-ministry/3863499",
-      "published": "2026-03-13T14:37:22+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_8d38b920f90905f35a5a408909ed3876",
-      "title": "UK troops among those targeted in drone strike on Iraqi base, says defense chief",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/europe/uk-troops-among-those-targeted-in-drone-strike-on-iraqi-base-says-defense-chief/3863486",
-      "published": "2026-03-13T14:25:51+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
       },
       "credibility": 70,
       "is_government": false,
@@ -375,78 +483,6 @@
         "country": "Iran",
         "lat": 32.4279,
         "lng": 53.688
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_f947e112fc30ab19e7f1eba169554e74",
-      "title": "Vance treads Iran tightrope, with eye on 2028",
-      "source": "NewsData.io - Kuwait Times",
-      "source_url": "https://kuwaittimes.com/article/41020/world/america/vance-treads-iran-tightrope-with-eye-on-2028/",
-      "published": "2026-03-12T16:03:00+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Kuwait",
-        "country": "Kuwait",
-        "lat": 29.3759,
-        "lng": 47.9774
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_683d5bf86614cc0ef3b2e4173be3fe69",
-      "title": "From Kyiv to UK, Ukrainian drone production spans Europe",
-      "source": "NewsData.io - Kuwait Times",
-      "source_url": "https://kuwaittimes.com/article/41019/world/europe/from-kyiv-to-uk-ukrainian-drone-production-spans-europe/",
-      "published": "2026-03-12T16:01:00+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "Kuwait",
-        "country": "Kuwait",
-        "lat": 29.3759,
-        "lng": 47.9774
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_506a892a583a9312e4dc47b8d588b960",
-      "title": "Not a slogan: Chile’s new president Kast vows action",
-      "source": "NewsData.io - Kuwait Times",
-      "source_url": "https://kuwaittimes.com/article/41012/world/america/not-a-slogan-chiles-new-president-kast-vows-action/",
-      "published": "2026-03-12T15:46:00+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Kuwait",
-        "country": "Kuwait",
-        "lat": 29.3759,
-        "lng": 47.9774
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_4f92440a08983a2396017f68fb7fc248",
-      "title": "Turkiye deploys Patriot Missile System amid rising tensions",
-      "source": "NewsData.io - The Peninsula Qatar",
-      "source_url": "https://thepeninsulaqatar.com/article/12/03/2026/turkiye-deploys-patriot-missile-system-amid-rising-tensions",
-      "published": "2026-03-12T14:24:42+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "UAE",
-        "country": "UAE",
-        "lat": 25.2048,
-        "lng": 55.2708
       },
       "credibility": 70,
       "is_government": false,
