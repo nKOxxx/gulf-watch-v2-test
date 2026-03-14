@@ -1,13 +1,31 @@
 {
-  "generated_at": "2026-03-14T02:10:33.986732+00:00",
-  "total_incidents": 27,
+  "generated_at": "2026-03-14T06:51:22.773408+00:00",
+  "total_incidents": 28,
   "incidents": [
     {
-      "id": "newsdata_83d632222ecda5ec30811b722c57e400",
-      "title": "UAE air defenses intercept 27 drones, seven missiles from Iran",
+      "id": "newsdata_e5b1e106676c0ce3ffdfdb2e739d3f21",
+      "title": "Explosions heard in Iran’s capital: Report",
       "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/middle-east/uae-air-defenses-intercept-27-drones-seven-missiles-from-iran/3863463",
-      "published": "2026-03-13T14:09:22+00:00",
+      "source_url": "https://www.aa.com.tr/en/middle-east/explosions-heard-in-iran-s-capital-report/3863736",
+      "published": "2026-03-13T17:49:15+00:00",
+      "type": "attack",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_097917345c645bae0d84e50b10b9b80a",
+      "title": "Saudi Arabia says it intercepted, destroyed 6 drones in Eastern Region",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/saudi-arabia-says-it-intercepted-destroyed-6-drones-in-eastern-region/3863707",
+      "published": "2026-03-13T17:23:50+00:00",
       "type": "missile",
       "status": "reported",
       "location": {
@@ -21,11 +39,155 @@
       "source_key": "newsdata"
     },
     {
-      "id": "newsdata_9578cd3c78b369e803011869e6bb69c0",
-      "title": "Belgian government divided over military support for Saudi Arabia, UAE",
+      "id": "newsdata_0f08a5d73269937e0b2eff50fbc4ef9e",
+      "title": "Two weeks in, Iran strikes inflict nearly $4B in US military losses",
       "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/europe/belgian-government-divided-over-military-support-for-saudi-arabia-uae/3863438",
-      "published": "2026-03-13T13:42:45+00:00",
+      "source_url": "https://www.aa.com.tr/en/middle-east/two-weeks-in-iran-strikes-inflict-nearly-4b-in-us-military-losses/3863698",
+      "published": "2026-03-13T17:14:23+00:00",
+      "type": "attack",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_38f23cd6ab3d1822c6520a6cd37b9097",
+      "title": "International Union of Muslim Scholars criticizes Iranian strikes on Arab states but says Israel is main threat to region",
+      "source": "NewsData.io - Fdd's Long War Journal",
+      "source_url": "https://www.longwarjournal.org/archives/2026/03/international-union-of-muslim-scholars-criticizes-iranian-strikes-on-arab-states-but-urges-muslim-unity-against-zionist-american-project.php",
+      "published": "2026-03-13T17:03:46+00:00",
+      "type": "attack",
+      "status": "reported",
+      "location": {
+        "name": "Iran",
+        "country": "Iran",
+        "lat": 32.4279,
+        "lng": 53.688
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_16d939b356527c539610c27873ad9cf8",
+      "title": "Finnish president rules out ‘peacetime’ nuclear weapons as law debate grows",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/europe/finnish-president-rules-out-peacetime-nuclear-weapons-as-law-debate-grows/3863645",
+      "published": "2026-03-13T16:11:01+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_988bed63156dff723a4d04cdd7bb2a30",
+      "title": "Sirens sound in central Israel as missiles launched from Iran",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/sirens-sound-in-central-israel-as-missiles-launched-from-iran/3863630",
+      "published": "2026-03-13T15:57:39+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_77c2428be76c17a08ff3615ee6587537",
+      "title": "31 Syrians injured as Assad regime-era rocket explodes in Homs",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/31-syrians-injured-as-assad-regime-era-rocket-explodes-in-homs/3863571",
+      "published": "2026-03-13T15:28:35+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_b1f742cc99e35607140a3b74d367833a",
+      "title": "Lebanon to pay ‘heavy price,’ warns Israel",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/lebanon-to-pay-heavy-price-warns-israel/3863528",
+      "published": "2026-03-13T15:03:42+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_6971c2d7de599b5dcb4052a8d95e1e8c",
+      "title": "UAE intercepts more Iranian missiles, drones: Defense Ministry",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/uae-intercepts-more-iranian-missiles-drones-defense-ministry/3863499",
+      "published": "2026-03-13T14:37:22+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_8d38b920f90905f35a5a408909ed3876",
+      "title": "UK troops among those targeted in drone strike on Iraqi base, says defense chief",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/europe/uk-troops-among-those-targeted-in-drone-strike-on-iraqi-base-says-defense-chief/3863486",
+      "published": "2026-03-13T14:25:51+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_6d1f05c5a7c95499a3bb86f26f0990ac",
+      "title": "China urges US to halt fresh arms sales to Taiwan",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/asia-pacific/china-urges-us-to-halt-fresh-arms-sales-to-taiwan/3863477",
+      "published": "2026-03-13T14:18:01+00:00",
       "type": "security",
       "status": "reported",
       "location": {
@@ -129,24 +291,6 @@
       "source_key": "newsdata"
     },
     {
-      "id": "newsdata_2b51d74c7ae85c4a36afe3078ee31185",
-      "title": "Iran's new supreme leader 'wounded, and likely disfigured': US defense chief",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/middle-east/irans-new-supreme-leader-wounded-and-likely-disfigured-us-defense-chief/3863302",
-      "published": "2026-03-13T12:27:56+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
       "id": "newsdata_016454f9d16bd38e3230c8597d6462e5",
       "title": "Iran strikes Israeli Ministry of Defense headquarters in Beersheba",
       "source": "NewsData.io - Egyptindependent",
@@ -159,132 +303,6 @@
         "country": "Egypt",
         "lat": 30.0444,
         "lng": 31.2357
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_65a88d1c5bb4cb6a45118aa36075c2b9",
-      "title": "Italy says attack on military base in Iraq's Erbil 'deliberate,' with no damage to contingent",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/europe/italy-says-attack-on-military-base-in-iraqs-erbil-deliberate-with-no-damage-to-contingent/3863198",
-      "published": "2026-03-13T11:23:47+00:00",
-      "type": "attack",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_4daf47aba9406f83aa9596638ad0bc4e",
-      "title": "Saudi Arabia intercepted 56 drones since early Friday, says Defense Ministry",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/middle-east/saudi-arabia-intercepted-56-drones-since-early-friday-says-defense-ministry/3863190",
-      "published": "2026-03-13T11:19:00+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_74aad550f31d13d65bc57392a90a030b",
-      "title": "'NATO stands ready to defend against threats from all directions': Alliance statement",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/europe/nato-stands-ready-to-defend-against-threats-from-all-directions-alliance-statement/3863182",
-      "published": "2026-03-13T11:12:50+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_ba58cf028dd3606514fd1132d132e6cc",
-      "title": "Asian powers tread carefully as Iran war raises energy and trade risks",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/asia-pacific/asian-powers-tread-carefully-as-iran-war-raises-energy-and-trade-risks/3863177",
-      "published": "2026-03-13T11:08:16+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_e3c5a294ad7a3a43ea95148cbd322c33",
-      "title": "Lithuania FM accuses NATO allies of inflating defense spending",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/europe/lithuania-fm-accuses-nato-allies-of-inflating-defense-spending/3863122",
-      "published": "2026-03-13T10:38:06+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_2b0919ae3f753611435ea644159d31a7",
-      "title": "US defense chief says Iran's new leader wounded, likely disfigured",
-      "source": "NewsData.io - Daily Sabah",
-      "source_url": "https://www.dailysabah.com/world/mid-east/us-defense-chief-says-irans-new-leader-wounded-likely-disfigured",
-      "published": "2026-03-13T10:11:02+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_f1465e92ad8503c1d3c3bc421b0ead50",
-      "title": "Polish premier pursues ‘Plan B’ after president vetoes law unlocking $51B in EU defense loans",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/europe/polish-premier-pursues-plan-b-after-president-vetoes-law-unlocking-51b-in-eu-defense-loans/3863033",
-      "published": "2026-03-13T09:37:26+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
       },
       "credibility": 70,
       "is_government": false,
