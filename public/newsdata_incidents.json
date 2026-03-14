@@ -1,13 +1,175 @@
 {
-  "generated_at": "2026-03-13T18:45:50.849815+00:00",
-  "total_incidents": 21,
+  "generated_at": "2026-03-14T02:10:33.986732+00:00",
+  "total_incidents": 27,
   "incidents": [
     {
-      "id": "newsdata_1a63dc77e26339c635c2f789e9f27ac4",
-      "title": "Serbia preparing for possible attack by Croatia–Albania–Kosovo alliance, Vucic says",
+      "id": "newsdata_83d632222ecda5ec30811b722c57e400",
+      "title": "UAE air defenses intercept 27 drones, seven missiles from Iran",
       "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/europe/serbia-preparing-for-possible-attack-by-croatia-albania-kosovo-alliance-vucic-says/3862713",
-      "published": "2026-03-13T06:38:32+00:00",
+      "source_url": "https://www.aa.com.tr/en/middle-east/uae-air-defenses-intercept-27-drones-seven-missiles-from-iran/3863463",
+      "published": "2026-03-13T14:09:22+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_9578cd3c78b369e803011869e6bb69c0",
+      "title": "Belgian government divided over military support for Saudi Arabia, UAE",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/europe/belgian-government-divided-over-military-support-for-saudi-arabia-uae/3863438",
+      "published": "2026-03-13T13:42:45+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_79b4bfe75d6dfe40f768a6da911072d8",
+      "title": "Iran's new supreme leader Mojtaba Khamenei wounded, likely disfigured: Hegseth",
+      "source": "NewsData.io - Channel Newsasia",
+      "source_url": "https://www.channelnewsasia.com/world/iran-mojtaba-khamenei-supreme-leader-wounded-disfigured-pete-hegseth-5991921",
+      "published": "2026-03-13T13:40:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_79b4bfe75d6dfe40f768a6da911072d8",
+      "title": "Iran's new supreme leader Mojtaba Khamenei wounded, likely disfigured: Hegseth",
+      "source": "NewsData.io - Channel Newsasia",
+      "source_url": "https://www.channelnewsasia.com/world/iran-mojtaba-khamenei-supreme-leader-wounded-disfigured-pete-hegseth-5991921",
+      "published": "2026-03-13T13:40:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Saudi Arabia",
+        "country": "Saudi Arabia",
+        "lat": 24.7136,
+        "lng": 46.6753
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_79b4bfe75d6dfe40f768a6da911072d8",
+      "title": "Iran's new supreme leader Mojtaba Khamenei wounded, likely disfigured: Hegseth",
+      "source": "NewsData.io - Channel Newsasia",
+      "source_url": "https://www.channelnewsasia.com/world/iran-mojtaba-khamenei-supreme-leader-wounded-disfigured-pete-hegseth-5991921",
+      "published": "2026-03-13T13:40:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Kuwait",
+        "country": "Kuwait",
+        "lat": 29.3759,
+        "lng": 47.9774
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_79b4bfe75d6dfe40f768a6da911072d8",
+      "title": "Iran's new supreme leader Mojtaba Khamenei wounded, likely disfigured: Hegseth",
+      "source": "NewsData.io - Channel Newsasia",
+      "source_url": "https://www.channelnewsasia.com/world/iran-mojtaba-khamenei-supreme-leader-wounded-disfigured-pete-hegseth-5991921",
+      "published": "2026-03-13T13:40:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Bahrain",
+        "country": "Bahrain",
+        "lat": 26.2285,
+        "lng": 50.586
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_3313f0e08258fd38d66372582af5da33",
+      "title": "Afghanistan accuses Pakistan of airstrikes that killed at least 6 civilians",
+      "source": "NewsData.io - Naharnet",
+      "source_url": "https://www.naharnet.com/stories/en/318933-afghanistan-accuses-pakistan-of-airstrikes-that-killed-at-least-6-civilians",
+      "published": "2026-03-13T12:35:06+00:00",
+      "type": "attack",
+      "status": "reported",
+      "location": {
+        "name": "Lebanon",
+        "country": "Lebanon",
+        "lat": 33.8938,
+        "lng": 35.5018
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_2b51d74c7ae85c4a36afe3078ee31185",
+      "title": "Iran's new supreme leader 'wounded, and likely disfigured': US defense chief",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/irans-new-supreme-leader-wounded-and-likely-disfigured-us-defense-chief/3863302",
+      "published": "2026-03-13T12:27:56+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_016454f9d16bd38e3230c8597d6462e5",
+      "title": "Iran strikes Israeli Ministry of Defense headquarters in Beersheba",
+      "source": "NewsData.io - Egyptindependent",
+      "source_url": "https://egyptindependent.com/iran-strikes-israeli-ministry-of-defense-headquarters-in-beersheba/",
+      "published": "2026-03-13T11:45:03+00:00",
+      "type": "attack",
+      "status": "reported",
+      "location": {
+        "name": "Egypt",
+        "country": "Egypt",
+        "lat": 30.0444,
+        "lng": 31.2357
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_65a88d1c5bb4cb6a45118aa36075c2b9",
+      "title": "Italy says attack on military base in Iraq's Erbil 'deliberate,' with no damage to contingent",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/europe/italy-says-attack-on-military-base-in-iraqs-erbil-deliberate-with-no-damage-to-contingent/3863198",
+      "published": "2026-03-13T11:23:47+00:00",
       "type": "attack",
       "status": "reported",
       "location": {
@@ -21,29 +183,11 @@
       "source_key": "newsdata"
     },
     {
-      "id": "newsdata_196f70f16bff5b2f5eeb09cb27401f09",
-      "title": "Israel claims killing commander of Iranian Quds Force’s ‘Imam Hussein Division’",
+      "id": "newsdata_4daf47aba9406f83aa9596638ad0bc4e",
+      "title": "Saudi Arabia intercepted 56 drones since early Friday, says Defense Ministry",
       "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/middle-east/israel-claims-killing-commander-of-iranian-quds-force-s-imam-hussein-division-/3862673",
-      "published": "2026-03-13T06:00:55+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_bd8bca373ca28f1310f04cddd2082bc2",
-      "title": "2 drones intercepted, destroyed in Saudi Arabia’s Al-Kharj Governorate",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/middle-east/2-drones-intercepted-destroyed-in-saudi-arabia-s-al-kharj-governorate/3862664",
-      "published": "2026-03-13T05:26:40+00:00",
+      "source_url": "https://www.aa.com.tr/en/middle-east/saudi-arabia-intercepted-56-drones-since-early-friday-says-defense-ministry/3863190",
+      "published": "2026-03-13T11:19:00+00:00",
       "type": "missile",
       "status": "reported",
       "location": {
@@ -57,11 +201,65 @@
       "source_key": "newsdata"
     },
     {
-      "id": "newsdata_490baeac633b1b9c498538bd83dd8882",
-      "title": "Iran, Israel, US trade threats as soaring war rattles global markets",
+      "id": "newsdata_74aad550f31d13d65bc57392a90a030b",
+      "title": "'NATO stands ready to defend against threats from all directions': Alliance statement",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/europe/nato-stands-ready-to-defend-against-threats-from-all-directions-alliance-statement/3863182",
+      "published": "2026-03-13T11:12:50+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_ba58cf028dd3606514fd1132d132e6cc",
+      "title": "Asian powers tread carefully as Iran war raises energy and trade risks",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/asia-pacific/asian-powers-tread-carefully-as-iran-war-raises-energy-and-trade-risks/3863177",
+      "published": "2026-03-13T11:08:16+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_e3c5a294ad7a3a43ea95148cbd322c33",
+      "title": "Lithuania FM accuses NATO allies of inflating defense spending",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/europe/lithuania-fm-accuses-nato-allies-of-inflating-defense-spending/3863122",
+      "published": "2026-03-13T10:38:06+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_2b0919ae3f753611435ea644159d31a7",
+      "title": "US defense chief says Iran's new leader wounded, likely disfigured",
       "source": "NewsData.io - Daily Sabah",
-      "source_url": "https://www.dailysabah.com/world/mid-east/iran-israel-us-trade-threats-as-soaring-war-rattles-global-markets",
-      "published": "2026-03-13T05:18:00+00:00",
+      "source_url": "https://www.dailysabah.com/world/mid-east/us-defense-chief-says-irans-new-leader-wounded-likely-disfigured",
+      "published": "2026-03-13T10:11:02+00:00",
       "type": "security",
       "status": "reported",
       "location": {
@@ -75,12 +273,12 @@
       "source_key": "newsdata"
     },
     {
-      "id": "newsdata_817d3973e478ba1156369bc63e61d318",
-      "title": "Saudi Arabia intercepts 6 drones in Eastern Province: Defense Ministry",
+      "id": "newsdata_f1465e92ad8503c1d3c3bc421b0ead50",
+      "title": "Polish premier pursues ‘Plan B’ after president vetoes law unlocking $51B in EU defense loans",
       "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/middle-east/saudi-arabia-intercepts-6-drones-in-eastern-province-defense-ministry/3862624",
-      "published": "2026-03-13T02:33:37+00:00",
-      "type": "missile",
+      "source_url": "https://www.aa.com.tr/en/europe/polish-premier-pursues-plan-b-after-president-vetoes-law-unlocking-51b-in-eu-defense-loans/3863033",
+      "published": "2026-03-13T09:37:26+00:00",
+      "type": "security",
       "status": "reported",
       "location": {
         "name": "Turkey",
@@ -93,36 +291,18 @@
       "source_key": "newsdata"
     },
     {
-      "id": "newsdata_305e7598eff6f6d34a961cf843e06311",
-      "title": "Sirens sound in northern Israel after Iran launches missiles",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/middle-east/sirens-sound-in-northern-israel-after-iran-launches-missiles/3862593",
-      "published": "2026-03-13T01:16:16+00:00",
+      "id": "newsdata_c80275a7a311cc5f58b7dd1f884babbf",
+      "title": "Saudi Defense Ministry intercepts 3 drones in Eastern Province, Al Kharj",
+      "source": "NewsData.io - The Peninsula Qatar",
+      "source_url": "https://thepeninsulaqatar.com/article/13/03/2026/saudi-defense-ministry-intercepts-3-drones-in-eastern-province-al-kharj",
+      "published": "2026-03-13T09:04:31+00:00",
       "type": "missile",
       "status": "reported",
       "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_d7ffe943bb03383e64c1025f96121411",
-      "title": "Saudi Arabia says its air defenses intercepted and destroyed 28 drones",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/middle-east/saudi-arabia-says-its-air-defenses-intercepted-and-destroyed-28-drones/3862557",
-      "published": "2026-03-13T00:08:55+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
       },
       "credibility": 70,
       "is_government": false,
@@ -141,60 +321,6 @@
         "country": "Iran",
         "lat": 32.4279,
         "lng": 53.688
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_365461f5a3070cac592b530e8b325f5c",
-      "title": "Hezbollah says it carried out 25 rocket and drone attacks on Israeli sites",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/middle-east/hezbollah-says-it-carried-out-25-rocket-and-drone-attacks-on-israeli-sites/3862504",
-      "published": "2026-03-12T22:46:15+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_0e7a8086be04b616beaf9502e7792db6",
-      "title": "Bahrain Defense Force says it has intercepted 114 missiles and 190 drones from Iran so far",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/middle-east/bahrain-defense-force-says-it-has-intercepted-114-missiles-and-190-drones-from-iran-so-far/3862486",
-      "published": "2026-03-12T22:11:39+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_069812664549197b2b7d6042bff6e3f4",
-      "title": "Qatar says several projectiles intercepted from Iran",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/middle-east/qatar-says-several-projectiles-intercepted-from-iran/3862345",
-      "published": "2026-03-12T20:08:32+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
       },
       "credibility": 70,
       "is_government": false,
@@ -357,24 +483,6 @@
         "country": "UAE",
         "lat": 25.2048,
         "lng": 55.2708
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_57af7be0bb74f14e8bab2e14168e15b0",
-      "title": "Qatar Intercepts Nine Ballistic Missiles and Drones from Iran",
-      "source": "NewsData.io - Kuwait News",
-      "source_url": "https://www.arabtimesonline.com/news/qatar-intercepts-nine-ballistic-missiles-and-drones-from-iran/",
-      "published": "2026-03-11T20:16:00+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "Kuwait",
-        "country": "Kuwait",
-        "lat": 29.3759,
-        "lng": 47.9774
       },
       "credibility": 70,
       "is_government": false,
