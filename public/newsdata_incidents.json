@@ -1,7 +1,169 @@
 {
-  "generated_at": "2026-03-14T18:41:27.524426+00:00",
+  "generated_at": "2026-03-15T02:36:22.597423+00:00",
   "total_incidents": 27,
   "incidents": [
+    {
+      "id": "newsdata_224220e6fb881d3be35821eb16508bfb",
+      "title": "Jordan intercepts 79 of 85 missiles, drones launched from Iran over past week",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/jordan-intercepts-79-of-85-missiles-drones-launched-from-iran-over-past-week/3864609",
+      "published": "2026-03-14T13:49:42+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_6f655d2a7e37e913d0f8e3baa035511f",
+      "title": "Israel claims war against Iran entering ‘decisive phase’",
+      "source": "NewsData.io - Daily Sabah",
+      "source_url": "https://www.dailysabah.com/world/mid-east/israel-claims-war-against-iran-entering-decisive-phase",
+      "published": "2026-03-14T12:33:00+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_09442c1f5bf72516a6fa74d3fbc42b1d",
+      "title": "Israel detects missiles from Iran, activates sirens in Eilat",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/israel-detects-missiles-from-iran-activates-sirens-in-eilat/3864518",
+      "published": "2026-03-14T12:29:32+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_971a485e45477c24d7f3cafccca64345",
+      "title": "UAE says it intercepted 9 ballistic missiles, 33 Iranian drones",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/uae-says-it-intercepted-9-ballistic-missiles-33-iranian-drones/3864516",
+      "published": "2026-03-14T12:28:33+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_9355a978abd0691f911eac59446432ea",
+      "title": "Bahrain says it intercepted 124 missiles, 203 drones since Feb. 28 as regional attacks continue",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/bahrain-says-it-intercepted-124-missiles-203-drones-since-feb-28-as-regional-attacks-continue/3864400",
+      "published": "2026-03-14T10:10:45+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_8db6c6de868c5cae999a41305f1142b6",
+      "title": "Türkiye’s Embassy in Baghdad issues travel warning",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/turkiye-s-embassy-in-baghdad-issues-travel-warning/3864317",
+      "published": "2026-03-14T08:56:01+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_d0a2cfe1b4cf2a5e8ae882592584168d",
+      "title": "North Korea fires around 10 ballistic missiles into sea, Seoul says",
+      "source": "NewsData.io - Daily Sabah",
+      "source_url": "https://www.dailysabah.com/world/asia-pacific/north-korea-fires-around-10-ballistic-missiles-into-sea-seoul-says",
+      "published": "2026-03-14T08:22:00+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_594fd313c879e744a5d14106acaf2750",
+      "title": "Rocket attack targets US Embassy in Baghdad, damages defense system",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/rocket-attack-targets-us-embassy-in-baghdad-damages-defense-system/3864214",
+      "published": "2026-03-14T07:38:51+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_dbaa7ccfb14f9db36af39fb53eee614d",
+      "title": "LIVE UPDATES: Qatar intercepts missile attacks, issues evacuation notices in some areas",
+      "source": "NewsData.io - The Peninsula Qatar",
+      "source_url": "https://thepeninsulaqatar.com/article/14/03/2026/live-updates-qatar-intercept-missile-attacks-issues-evacuation-notice-in-some-areas",
+      "published": "2026-03-14T07:14:10+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "UAE",
+        "country": "UAE",
+        "lat": 25.2048,
+        "lng": 55.2708
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
     {
       "id": "newsdata_8ece0419bcf52003350186119c428f21",
       "title": "Two drones intercepted, destroyed in Eastern Region",
@@ -44,114 +206,6 @@
       "source": "NewsData.io - Anadolu Agency",
       "source_url": "https://www.aa.com.tr/en/asia-pacific/north-korea-fires-10-ballistic-missiles-toward-east-sea/3864166",
       "published": "2026-03-14T06:11:04+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_9632dc0510709c484712796e51503b26",
-      "title": "North Korea fires 'suspected' ballistic missile toward East Sea",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/asia-pacific/north-korea-fires-suspected-ballistic-missile-toward-east-sea/3864166",
-      "published": "2026-03-14T06:11:04+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_ceceb60f064974bfeace419da458e04f",
-      "title": "Drone attacks thwarted in Saudi Arabia: Defense Ministry",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/middle-east/drone-attacks-thwarted-in-saudi-arabia-defense-ministry/3864156",
-      "published": "2026-03-14T04:56:23+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_bf9ea29ff7c2bf6e3008e4a020479eaf",
-      "title": "Pakistan says several Afghan drones intercepted, injuring 4, including 2 children",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/asia-pacific/pakistan-says-several-afghan-drones-intercepted-injuring-4-including-2-children/3864153",
-      "published": "2026-03-14T04:39:03+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_28eec8a10c96b93c84abb2bd80728510",
-      "title": "Morning Briefing: March 14, 2026",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/world/morning-briefing-march-14-2026/3864148",
-      "published": "2026-03-14T03:42:14+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_05d64bfabb8aea2cfb80fe193103c838",
-      "title": "Qatari Defense Ministry says it intercepted missile attack targeting country",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/middle-east/qatari-defense-ministry-says-it-intercepted-missile-attack-targeting-country/3864145",
-      "published": "2026-03-14T03:33:23+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_894a1b1c6bd9f2333614ff57c7147a31",
-      "title": "Qatar’s Ministry of Defense says it intercepted missile attack targeting country",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/middle-east/qatar-s-ministry-of-defense-says-it-intercepted-missile-attack-targeting-country/3864145",
-      "published": "2026-03-14T03:33:23+00:00",
       "type": "missile",
       "status": "reported",
       "location": {
@@ -255,24 +309,6 @@
       "source_key": "newsdata"
     },
     {
-      "id": "newsdata_5cc01144b05367359ea8b759ec0dfb2d",
-      "title": "UAE arrests 45 for filming, misinformation amid Iranian attacks",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/middle-east/uae-arrests-45-for-filming-misinformation-amid-iranian-attacks/3864069",
-      "published": "2026-03-13T22:53:13+00:00",
-      "type": "attack",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
       "id": "newsdata_d21d54256c5ac5e55f2698feef837af6",
       "title": "Dozens of airstrikes target Iran-backed militias across Iraq",
       "source": "NewsData.io - Fdd's Long War Journal",
@@ -303,24 +339,6 @@
         "country": "Iran",
         "lat": 32.4279,
         "lng": 53.688
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_e5b1e106676c0ce3ffdfdb2e739d3f21",
-      "title": "Explosions heard in Iran’s capital: Report",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/middle-east/explosions-heard-in-iran-s-capital-report/3863736",
-      "published": "2026-03-13T17:49:15+00:00",
-      "type": "attack",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
       },
       "credibility": 70,
       "is_government": false,
@@ -465,24 +483,6 @@
         "country": "UAE",
         "lat": 25.2048,
         "lng": 55.2708
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_12cdd8ae830cb707b4694cf640f49eb6",
-      "title": "Iranian drones and missile barrages hit energy infrastructure, airports, and residential buildings in the Arab World (March 11-12 updates)",
-      "source": "NewsData.io - Fdd's Long War Journal",
-      "source_url": "https://www.longwarjournal.org/archives/2026/03/iranian-drones-and-missile-barrages-hit-energy-infrastructure-airports-and-residential-buildings-in-the-arab-world-march-11-12-updates.php",
-      "published": "2026-03-12T22:57:30+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "Iran",
-        "country": "Iran",
-        "lat": 32.4279,
-        "lng": 53.688
       },
       "credibility": 70,
       "is_government": false,
