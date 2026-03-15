@@ -1,7 +1,79 @@
 {
-  "generated_at": "2026-03-15T02:36:22.597423+00:00",
+  "generated_at": "2026-03-15T07:00:21.274255+00:00",
   "total_incidents": 27,
   "incidents": [
+    {
+      "id": "newsdata_92b17324f29769ed59a0380d436c912f",
+      "title": "Iranian missile debris falls near Tel Aviv after interceptions",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/iranian-missile-debris-falls-near-tel-aviv-after-interceptions/3864751",
+      "published": "2026-03-14T16:30:51+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_3a6d88441ec3db9974392c23f36e91a9",
+      "title": "3 Kuwaiti army personnel injured in 'hostile drone' attack on air base",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/3-kuwaiti-army-personnel-injured-in-hostile-drone-attack-on-air-base/3864750",
+      "published": "2026-03-14T16:25:48+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_72f2fc7ff5b1c2354508c3b9fcc1489c",
+      "title": "Missiles launched from Bahrain toward Iran in possible 1st Gulf-origin attack: Report",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/missiles-launched-from-bahrain-toward-iran-in-possible-1st-gulf-origin-attack-report/3864721",
+      "published": "2026-03-14T15:50:37+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_3b3f717999e7b4737522f2736657cb8c",
+      "title": "Syrian army takes control of Rumeilan Base in Hasakah",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/syrian-army-takes-control-of-rumeilan-base-in-hasakah/3864680",
+      "published": "2026-03-14T15:06:25+00:00",
+      "type": "security",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
     {
       "id": "newsdata_224220e6fb881d3be35821eb16508bfb",
       "title": "Jordan intercepts 79 of 85 missiles, drones launched from Iran over past week",
@@ -111,42 +183,6 @@
       "source_key": "newsdata"
     },
     {
-      "id": "newsdata_d0a2cfe1b4cf2a5e8ae882592584168d",
-      "title": "North Korea fires around 10 ballistic missiles into sea, Seoul says",
-      "source": "NewsData.io - Daily Sabah",
-      "source_url": "https://www.dailysabah.com/world/asia-pacific/north-korea-fires-around-10-ballistic-missiles-into-sea-seoul-says",
-      "published": "2026-03-14T08:22:00+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_594fd313c879e744a5d14106acaf2750",
-      "title": "Rocket attack targets US Embassy in Baghdad, damages defense system",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/middle-east/rocket-attack-targets-us-embassy-in-baghdad-damages-defense-system/3864214",
-      "published": "2026-03-14T07:38:51+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
       "id": "newsdata_dbaa7ccfb14f9db36af39fb53eee614d",
       "title": "LIVE UPDATES: Qatar intercepts missile attacks, issues evacuation notices in some areas",
       "source": "NewsData.io - The Peninsula Qatar",
@@ -177,42 +213,6 @@
         "country": "UAE",
         "lat": 25.2048,
         "lng": 55.2708
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_3e328c856d42c6e597d835a9b1c0377e",
-      "title": "North Korea fires multiple ballistic missiles toward East Sea",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/asia-pacific/north-korea-fires-multiple-ballistic-missiles-toward-east-sea/3864166",
-      "published": "2026-03-14T06:11:04+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_aacb5f7bc18bded30d8654097fce713c",
-      "title": "North Korea fires 10 ballistic missiles toward East Sea",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/asia-pacific/north-korea-fires-10-ballistic-missiles-toward-east-sea/3864166",
-      "published": "2026-03-14T06:11:04+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
       },
       "credibility": 70,
       "is_government": false,
