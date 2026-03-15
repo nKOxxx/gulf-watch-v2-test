@@ -1,7 +1,115 @@
 {
-  "generated_at": "2026-03-15T07:00:21.274255+00:00",
-  "total_incidents": 27,
+  "generated_at": "2026-03-15T12:57:40.852236+00:00",
+  "total_incidents": 26,
   "incidents": [
+    {
+      "id": "newsdata_8266c97714818b2dfe8a9a15893ba014",
+      "title": "Israel warns US it is running low on missile interceptors: Report",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/israel-warns-us-it-is-running-low-on-missile-interceptors-report/3865009",
+      "published": "2026-03-14T22:04:57+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_5632ab1efd561486e3ba17b235129584",
+      "title": "Saudi Arabia says its forces destroyed 2 drones in Riyadh, Eastern regions",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/saudi-arabia-says-its-forces-destroyed-2-drones-in-riyadh-eastern-regions/3865000",
+      "published": "2026-03-14T21:57:28+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_eccf6e1e258b51a19a5223e5616c7496",
+      "title": "Satellite communications system destroyed in attack on US embassy in Baghdad",
+      "source": "NewsData.io - Qatar Tribune",
+      "source_url": "https://www.qatar-tribune.com/article/224149/world/satellite-communications-system-destroyed-in-attack-on-us-embassy-in-baghdad",
+      "published": "2026-03-14T21:49:06+00:00",
+      "type": "attack",
+      "status": "reported",
+      "location": {
+        "name": "Qatar",
+        "country": "Qatar",
+        "lat": 25.2854,
+        "lng": 51.531
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_3854f304f0a16bde3edb4140f3fe718e",
+      "title": "Iran continues intensified attacks across Gulf",
+      "source": "NewsData.io - Qatar Tribune",
+      "source_url": "https://www.qatar-tribune.com/article/224150/world/iran-continues-intensified-attacks-across-gulf",
+      "published": "2026-03-14T21:49:02+00:00",
+      "type": "attack",
+      "status": "reported",
+      "location": {
+        "name": "Qatar",
+        "country": "Qatar",
+        "lat": 25.2854,
+        "lng": 51.531
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_552a3021954c35c7beb9d1bd4a339e06",
+      "title": "Saudi Arabia, Qatar intercept missiles, drones from Iran",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/saudi-arabia-qatar-intercept-missiles-drones-from-iran/3864931",
+      "published": "2026-03-14T20:06:52+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
+    {
+      "id": "newsdata_682e69083f33922a9cccf96f518b32c1",
+      "title": "Several drones target Kuwait International Airport, says authorities",
+      "source": "NewsData.io - Anadolu Agency",
+      "source_url": "https://www.aa.com.tr/en/middle-east/several-drones-target-kuwait-international-airport-says-authorities/3864900",
+      "published": "2026-03-14T19:27:56+00:00",
+      "type": "missile",
+      "status": "reported",
+      "location": {
+        "name": "Turkey",
+        "country": "Turkey",
+        "lat": 38.9637,
+        "lng": 35.2433
+      },
+      "credibility": 70,
+      "is_government": false,
+      "source_key": "newsdata"
+    },
     {
       "id": "newsdata_92b17324f29769ed59a0380d436c912f",
       "title": "Iranian missile debris falls near Tel Aviv after interceptions",
@@ -98,78 +206,6 @@
       "source": "NewsData.io - Daily Sabah",
       "source_url": "https://www.dailysabah.com/world/mid-east/israel-claims-war-against-iran-entering-decisive-phase",
       "published": "2026-03-14T12:33:00+00:00",
-      "type": "security",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_09442c1f5bf72516a6fa74d3fbc42b1d",
-      "title": "Israel detects missiles from Iran, activates sirens in Eilat",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/middle-east/israel-detects-missiles-from-iran-activates-sirens-in-eilat/3864518",
-      "published": "2026-03-14T12:29:32+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_971a485e45477c24d7f3cafccca64345",
-      "title": "UAE says it intercepted 9 ballistic missiles, 33 Iranian drones",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/middle-east/uae-says-it-intercepted-9-ballistic-missiles-33-iranian-drones/3864516",
-      "published": "2026-03-14T12:28:33+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_9355a978abd0691f911eac59446432ea",
-      "title": "Bahrain says it intercepted 124 missiles, 203 drones since Feb. 28 as regional attacks continue",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/middle-east/bahrain-says-it-intercepted-124-missiles-203-drones-since-feb-28-as-regional-attacks-continue/3864400",
-      "published": "2026-03-14T10:10:45+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "Turkey",
-        "country": "Turkey",
-        "lat": 38.9637,
-        "lng": 35.2433
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_8db6c6de868c5cae999a41305f1142b6",
-      "title": "Türkiye’s Embassy in Baghdad issues travel warning",
-      "source": "NewsData.io - Anadolu Agency",
-      "source_url": "https://www.aa.com.tr/en/middle-east/turkiye-s-embassy-in-baghdad-issues-travel-warning/3864317",
-      "published": "2026-03-14T08:56:01+00:00",
       "type": "security",
       "status": "reported",
       "location": {
@@ -429,60 +465,6 @@
         "country": "Bahrain",
         "lat": 26.2285,
         "lng": 50.586
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_3313f0e08258fd38d66372582af5da33",
-      "title": "Afghanistan accuses Pakistan of airstrikes that killed at least 6 civilians",
-      "source": "NewsData.io - Naharnet",
-      "source_url": "https://www.naharnet.com/stories/en/318933-afghanistan-accuses-pakistan-of-airstrikes-that-killed-at-least-6-civilians",
-      "published": "2026-03-13T12:35:06+00:00",
-      "type": "attack",
-      "status": "reported",
-      "location": {
-        "name": "Lebanon",
-        "country": "Lebanon",
-        "lat": 33.8938,
-        "lng": 35.5018
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_016454f9d16bd38e3230c8597d6462e5",
-      "title": "Iran strikes Israeli Ministry of Defense headquarters in Beersheba",
-      "source": "NewsData.io - Egyptindependent",
-      "source_url": "https://egyptindependent.com/iran-strikes-israeli-ministry-of-defense-headquarters-in-beersheba/",
-      "published": "2026-03-13T11:45:03+00:00",
-      "type": "attack",
-      "status": "reported",
-      "location": {
-        "name": "Egypt",
-        "country": "Egypt",
-        "lat": 30.0444,
-        "lng": 31.2357
-      },
-      "credibility": 70,
-      "is_government": false,
-      "source_key": "newsdata"
-    },
-    {
-      "id": "newsdata_c80275a7a311cc5f58b7dd1f884babbf",
-      "title": "Saudi Defense Ministry intercepts 3 drones in Eastern Province, Al Kharj",
-      "source": "NewsData.io - The Peninsula Qatar",
-      "source_url": "https://thepeninsulaqatar.com/article/13/03/2026/saudi-defense-ministry-intercepts-3-drones-in-eastern-province-al-kharj",
-      "published": "2026-03-13T09:04:31+00:00",
-      "type": "missile",
-      "status": "reported",
-      "location": {
-        "name": "UAE",
-        "country": "UAE",
-        "lat": 25.2048,
-        "lng": 55.2708
       },
       "credibility": 70,
       "is_government": false,
